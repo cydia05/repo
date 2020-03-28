@@ -54,3 +54,17 @@ Section: Tweaks
 Description: Instagram Dwonloading
 Author: Malik
 Name: Rocket For Instagram
+
+Package: com.Cydia05.sedfix
+Version: 100.3
+Architecture: iphoneos-arm
+Maintainer: cydia05
+Filename: ./debs/sedfix_100.3_iphoneos-arm.deb
+Size: 161830
+MD5sum: c0177882d5d368cb7ca0c1b3dcbc4dc8
+SHA1: f2664ec7300b9052e8e0d6704108e6b97cf7c29d
+SHA256: 6fc8f1144a4c1ec4a758fe43b7f9ad480b789b849d44c35647c1e96850068b1d
+Section: Tweaks
+Description: sedfix
+Author: Malik
+Name: SedFix
