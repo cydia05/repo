@@ -1,7 +1,7 @@
 <package>
-	<id>com.Cydia05.Pasithea2</id>
-	<name>Pasithea2</name>
-	<version>2.2.4.1-1</version>
+	<id>com.pul.facebooknoads</id>
+	<name>FacebooNoAds</name>
+	<version>0.0.2</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>13.3</maxiOS>

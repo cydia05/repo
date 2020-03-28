@@ -1,10 +1,10 @@
 <package>
-	<id>com.Cydia05.RocketForInstagram</id>
-	<name>Rocket For Instagram</name>
-	<version>3.6.12</version>
+	<id>me.pulandresk.dleasy</id>
+	<name>DLEasy</name>
+	<version>2.9.1-2</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.3</maxiOS>
+			<maxiOS>13.0</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed

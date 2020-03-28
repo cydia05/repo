@@ -1,5 +1,5 @@
 
-Package: com.Cydia05.FacebookNoAds
+Package: com.pul.facebooknoads
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: cydia05
@@ -13,7 +13,7 @@ Description: Easy and Smooth tweak remove facebook ads
 Author: Malik
 Name: FacebookNoAds
 
-Package: com.Cydia05.Pasithea2
+Package: com.pulandres.pasithea2
 Version: 2.2.4.1-1
 Architecture: iphoneos-arm
 Maintainer: cydia05
@@ -27,7 +27,7 @@ Description: Cupy and Paste Saving Tweak
 Author: Malik
 Name: Pasithea2
 
-Package: com.Cydia05.DLeasy
+Package: me.pulandresk.dleasy
 Version: 2.9.1-2
 Architecture: iphoneos-arm
 Maintainer: cydia05
@@ -41,7 +41,7 @@ Description: Social Media Dwonloading
 Author: Malik
 Name: DLEasy
 
-Package: com.Cydia05.RocketForInstagram
+Package: com.pulandres.rockethack
 Version: 3.6.12
 Architecture: iphoneos-arm
 Maintainer: cydia05
@@ -55,7 +55,7 @@ Description: Instagram Dwonloading
 Author: Malik
 Name: Rocket For Instagram
 
-Package: com.Cydia05.sedfix
+Package: com.pulandres.sedfix
 Version: 100.3
 Architecture: iphoneos-arm
 Maintainer: cydia05
@@ -64,7 +64,7 @@ Size: 161830
 MD5sum: c0177882d5d368cb7ca0c1b3dcbc4dc8
 SHA1: f2664ec7300b9052e8e0d6704108e6b97cf7c29d
 SHA256: 6fc8f1144a4c1ec4a758fe43b7f9ad480b789b849d44c35647c1e96850068b1d
-Section: Tweaks
+Section: System
 Description: sedfix
 Author: Malik
-Name: SedFix
+Name: CrackHelper

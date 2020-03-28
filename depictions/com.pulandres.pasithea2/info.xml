@@ -1,10 +1,10 @@
 <package>
-	<id>com.Cydia05.DLeasy</id>
-	<name>DLEasy</name>
-	<version>2.9.1-2</version>
+	<id>com.pulandres.pasithea2</id>
+	<name>Pasithea2</name>
+	<version>2.2.4.1-1</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.0</maxiOS>
+			<maxiOS>13.3</maxiOS>
 			<otherVersions>unsupported</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
