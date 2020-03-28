@@ -4,7 +4,7 @@ Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: cydia05
 Filename: ./debs/facebooknoads_0.0.2_iphoneos-arm.deb
-Size: 20480
+Size: 19878
 MD5sum: 1ebc45cd01e93f362cfcd25fbf72f88d
 SHA1: 8562e98b64efbba6a775f4e01c35b2e029b783b6
 SHA256: 7c4217fe550597441a2bfb18192bb83d58ff1f824e4cd21a1d07e3a25b3a8266
@@ -18,7 +18,7 @@ Version: 2.2.4.1-1
 Architecture: iphoneos-arm
 Maintainer: cydia05
 Filename: ./debs/pasithea2_2.2.4.1-1_iphoneos-arm.deb
-Size: 802816 
+Size: 801062 
 MD5sum: e0cb0762464eb3dc3f512b2cb6224fe7
 SHA1: 90a6266995ee605026ede71b7ad03cadf2d367d4
 SHA256: 31695f96d3631aafddf3df76755846e205115abb0e01e5d70875f2d0cd5ba0cb
@@ -32,7 +32,7 @@ Version: 2.9.1-2
 Architecture: iphoneos-arm
 Maintainer: cydia05
 Filename: ./debs/dleasy_2.9.1-2_iphoneos-arm.deb
-Size: 24576 
+Size: 21024 
 MD5sum: a83c46de5fd0237c990e6cd529e4f3cb
 SHA1: 4e9fa0bdb5ecaac1cc06e923d4f31ee99571f5be
 SHA256: d775fa6c7dd5741d9eccd904963964a6d4bea6ae7acc85a7952bd98bb691dfd1
@@ -46,7 +46,7 @@ Version: 3.6.12
 Architecture: iphoneos-arm
 Maintainer: cydia05
 Filename: ./debs/rockethack_3.6.12_iphoneos-arm.deb
-Size: 9109504
+Size: 9107954
 MD5sum: 53a8284972ed02f7b2a9cf4c15b3c798
 SHA1: f83b14e555cd2d94503bf072de3eaa7fb1450eca
 SHA256: 4af9bf9f4df0270482b2d83898c53efcd263ef181bb6dac16ba9d6c7099e8323
