@@ -1,0 +1,15 @@
+
+Package: com.Cydia05.FacebookNoAds
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: cydia05
+Depends: SubstrateSafeMode
+Filename: /FacebookNods.deb
+Size: 20480
+MD5sum: 1EBC45CD01E93F362CFCD25FBF72F88D
+SHA1: 8562E98B64EFBBA6A775F4E01C35B2E029B783B6
+SHA256: 7C4217FE550597441A2BFB18192BB83D58FF1F824E4CD21A1D07E3A25B3A8266
+Section: Tweaks
+Description: Easy and Smooth tweak remove facebook ads
+Author: Twckid Repo
+Name: FacebookNoAds
