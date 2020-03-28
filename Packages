@@ -3,7 +3,6 @@ Package: com.Cydia05.FacebookNoAds
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: cydia05
-Depends: SubstrateSafeMode
 Filename: /FacebookNods.deb
 Size: 20480
 MD5sum: 1EBC45CD01E93F362CFCD25FBF72F88D
