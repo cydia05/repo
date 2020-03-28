@@ -3,7 +3,7 @@ Package: com.Cydia05.FacebookNoAds
 Version: 0.0.2
 Architecture: iphoneos-arm
 Maintainer: cydia05
-Depends: firmware (=<13.0)
+Depends: firmware (=>13.0)
 Filename: ./debs/facebooknoads_0.0.2_iphoneos-arm.deb
 Size: 20480
 MD5sum: 1EBC45CD01E93F362CFCD25FBF72F88D
@@ -18,7 +18,7 @@ Package: com.Cydia05.Pasithea2
 Version: 2.2.4.1-1
 Architecture: iphoneos-arm
 Maintainer: cydia05
-Depends: firmware (=<13.0)
+Depends: firmware (=>13.0)
 Filename: ./debs/pasithea2_2.2.4.1-1_iphoneos-arm.deb
 Size: 802816 
 MD5sum: E0CB0762464EB3DC3F512B2CB6224FE7
@@ -33,7 +33,7 @@ Package: com.Cydia05.DLeasy
 Version: 2.9.1-2
 Architecture: iphoneos-arm
 Maintainer: cydia05
-Depends: firmware (=<13.0)
+Depends: firmware (=>13.0)
 Filename: ./debs/dleasy_2.9.1-2_iphoneos-arm.deb
 Size: 24576 
 MD5sum: A83C46DE5FD0237C990E6CD529E4F3CB
@@ -48,7 +48,7 @@ Package: com.Cydia05.RocketForInstagram
 Version: 3.6.12
 Architecture: iphoneos-arm
 Maintainer: cydia05
-Depends: firmware (=<13.0)
+Depends: firmware (=>13.0)
 Filename: ./debs/rockethack_3.6.12_iphoneos-arm.deb
 Size: 9109504
 MD5sum: 53A8284972ED02F7B2A9CF4C15B3C798
