@@ -1,0 +1,43 @@
+"ENABLED" = "Enabled";
+"DISABLE_IN_APPS" = "Disable in Applications";
+
+"PASITHEA_KEYBOARD" = "Pasithea Keyboard";
+"KEYBOARD_DETAIL" = "In order for Pasithea Keyboard to work, it must replace either the Tamil or Tibetan keyboard. By default, Pasithea replaces the Tibetan keyboard. Choose whichever keyboard that you don't need to use.";
+
+"OFF" = "Off";
+"TAMIL" = "Tamil";
+"TIBETAN" = "Tibetan";
+
+"SKIP_KEYBOARD" = "Skip Keyboard";
+"LIMIT_CHARACTERS" = "Limit the number of characters";
+"SWAP_DELETE" = "Swap the Delete key";
+"USE_NOTIFY" = "Notifications";
+"DARK_KEYBOARD" = "Dark Keyboard";
+"KEY_INPUT_SOUND" = "Keyboard Sounds";
+"SEARCH_ENGINE" = "Search Engine";
+"OPTION_DETAIL" = "If the “Skip Keyboard” option is enabled, Pasithea Keyboard will only appear in the iOS keyboard switcher, accessible by holding the globe key. If notifications are enabled, Pasithea will send a notification every time you copy something to the pasteboard.";
+
+"MAX_HISTORY" = "Max Pasteboard History";
+
+"PASITHEA_MENU" = "Pasithea Menu";
+"USE_PASITHEA_MENU" = "Use Pasithea Menu";
+"USE_ICON" = "Use Icon";
+"DARK_MODE" = "Dark Mode";
+
+"DATA_MANAGEMENT" = "Data Management";
+"VIEW_HISTORY" = "View Pasteboard History";
+
+"AUTO_BACKUP" = "Auto Backup";
+"RESTORE_BACKUP" = "Restore Backup";
+"CREATE_BACKUP" = "Create Backup";
+"DELETE_BACKUP" = "Delete Backup";
+
+"VIDEO" = "Video";
+
+"COPYRIGHT_CANNATHEA" = "© 2015-2019 Cannathea - developed by ichitaso and Hiraku. Special thanks to @Sorega4 for designing the Pasithea icon.";
+
+"SETTINGS" = "Settings";
+
+"OPTION" = "Options";
+
+"SUPPORT" = "Support";

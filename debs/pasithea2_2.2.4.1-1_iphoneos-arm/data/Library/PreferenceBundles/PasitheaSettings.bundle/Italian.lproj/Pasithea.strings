@@ -1,0 +1,43 @@
+"ENABLED" = "Abilitato";
+"DISABLE_IN_APPS" = "Disattiva in Applicazioni";
+
+"PASITHEA_KEYBOARD" = "Tastiera Pasithea";
+"KEYBOARD_DETAIL" = "Per funzionare la tastiera Pasithea deve sostituire la tastiera Tamil o quella Tibetan. Di default Pasithea sostituisce la tastiera Tibetan. Scegli la tastiera che non hai bisogno di usare.";
+
+"OFF" = "Off";
+"TAMIL" = "Tamil";
+"TIBETAN" = "Tibetan";
+
+"SKIP_KEYBOARD" = "Salta tastiera";
+"LIMIT_CHARACTERS" = "Limitare il numero di caratteri";
+"SWAP_DELETE" = "Scambia il tasto Canc";
+"USE_NOTIFY" = "Notifiches";
+"DARK_KEYBOARD" = "Keyboard Scuro";
+"KEY_INPUT_SOUND" = "Suoni tastiera";
+"SEARCH_ENGINE" = "Motore di ricerca";
+"OPTION_DETAIL" = "Se l'opzione “Salta tastiera” è abilitata, la tastiera Pasithea apparirà solo nel selettore tastiera di iOS, accessibile tenendo premuto il tasto con il globo. Se le notifiche sono abilitate, Pasithea invierà una notifica ogni volta che copierai qualcosa negli appunti.";
+
+"MAX_HISTORY" = "Massima cronologia appunti";
+
+"PASITHEA_MENU" = "Pasithea Menu";
+"USE_PASITHEA_MENU" = "Use Pasithea Menu";
+"USE_ICON" = "Use Icon";
+"DARK_MODE" = "Dark Mode";
+
+"DATA_MANAGEMENT" = "Gestione dati";
+"VIEW_HISTORY" = "Vedi cronologia appunti";
+
+"AUTO_BACKUP" = "Backup automatico";
+"RESTORE_BACKUP" = "Ripristina Backup";
+"CREATE_BACKUP" = "Crea Backup";
+"DELETE_BACKUP" = "Elimina Backup";
+
+"VIDEO" = "Video";
+
+"COPYRIGHT_CANNATHEA" = "© 2015-2019 Cannathea - sviluppato da ichitaso e Hiraku. Ringraziamento speciale a @Sorega4 per la creazione dell'icona di Pasithea.";
+
+"SETTINGS" = "Impostazioni";
+
+"OPTION" = "Opzioni";
+
+"SUPPORT" = "Supporto";

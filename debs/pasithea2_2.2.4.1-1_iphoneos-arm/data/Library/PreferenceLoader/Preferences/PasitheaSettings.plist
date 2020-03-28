@@ -1,0 +1,10 @@
+{
+    entry = {
+	bundle = PasitheaSettings;
+	cell = PSLinkCell;
+	detail = PasitheaPreferenceController;
+	icon = Pasithea.png;
+	isController = 1;
+	label = "Pasithea 2";
+    };
+}

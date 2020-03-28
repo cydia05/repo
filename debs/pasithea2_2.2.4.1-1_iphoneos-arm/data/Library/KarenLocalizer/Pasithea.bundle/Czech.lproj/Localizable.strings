@@ -1,0 +1,72 @@
+"COPIED" = "\"%@\" byl zkopírován do schránky.";
+
+"CLEAR_ALL" = "Smazat vše";
+"HISTORY" = "Historie";
+"FAVORITES" = "Oblíbené";
+
+"RESPRING_REQUIRED" = "Nutné respringovat zařízení";
+"RESPRING_REQUIRED_DETAIL" = "Pro uložení změn v nastavení Pasithea klávesnice je nutné respringovat zařízení. Chcete jej respringovat nyní?";
+
+"NO" = "Ne";
+"YES" = "Ano";
+"APPLY" = "Použít";
+"CANCEL" = "Zrušit";
+"OK" = "OK";
+
+"OPEN_IN_TWITTER_QUERY" = "Otevřít v Twitteru?";
+"OPEN_IN_TWEETBOT" = "Otevřít v Tweetbotovi";
+"OPEN_IN_THE_WORLD" = "Otevřít v The World";
+"OPEN_IN_TWEETLOGIX" = "Otevřít v Tweetlogix";
+"OPEN_IN_TWITTER" = "Otevřít v Twitteru";
+"OPEN_IN_SAFARI" = "Otevřít v Safari";
+
+"FOLLOW_CANNATHEA" = "Sledovat @Cannathea";
+"FOLLOW_ICHITASO" = "Sledovat @ichitaso";
+"FOLLOW_HIRAKUJIRA" = "Sledovat @hirakujira";
+"FOLLOW_KAREN" = "Sledovat @angelXwind";
+
+"WATCH_THE_VIDEO" = "Podívat se na video";
+"WATCH_THE_VIDEO_DETAIL" = "Trailer k uvedení Pasithei je dostupný na YouTube a Youku. Prosím zvolte si, kde jej chcete zhlédnout.";
+"YOUTUBE" = "YouTube";
+"YOUKU" = "Youku";
+
+"RESTORE_BACKUP" = "Obnovit ze zálohy";
+"RESTORE_BACKUP_DETAIL" = "Obnovit data Pasithei ze zálohy? Všechny změny dat po vytvoření této zálohy budou ztraceny.";
+
+"CREATE_BACKUP" = "Vytvořit zálohu";
+"CREATE_BACKUP_DETAIL" = "Zálohovat data z Pasithei? Tento proces přepíše současnou zálohu.";
+
+"DELETE_BACKUP" = "Odstranit zálohu";
+"DELETE_BACKUP_DETAIL" = "Odstranit zálohu dat z Pasithei? Tento proces nenávratně odstraní současnou zálohu.";
+
+"BACKUP_RESTORE_FAILED" = "Obnovení ze zálohy se nezdařilo";
+"BACKUP_RESTORE_FAILED_DETAIL" = "Pasithea nenašla žádná zálohovaná data, která by bylo možno obnovit.";
+
+"BACKUP_SUCCESSFULLY_RESTORED" = "Úspěšně obnoveno ze zálohy";
+"BACKUP_SUCCESSFULLY_RESTORED_DETAIL" = "Data Pasithei byla úspěšně obnovena ze zálohy.";
+
+"BACKUP_SUCCESSFUL" = "Úspěšně zálohováno";
+"BACKUP_SUCCESSFUL_DETAIL" = "Pasithea úspěšně vytvořila zálohu.";
+
+"BACKUP_FAILED" = "Zálohování selhalo";
+"BACKUP_FAILED_DETAIL" = "Pasithee se nepodařilo najít žádná data k zálohování.";
+
+"BACKUP_DELETED_SUCCESSFULLY" = "Záloha byla úspěšně odstraněna";
+"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "Pasithea úspěšně odstranila zálohu.";
+
+"FATAL_ERROR" = "Závažná chyba";
+"FATAL_ERROR_DETAIL" = "Pasithea natazila na závažnou chybu.";
+
+"TWEET_INITIAL_TEXT" = "Používám tweak #Pasithea2 od @Cannathea a miluju ho!";
+"TEXT_TO_SHARE" = "Koukněte se na tweak Pasithea 2 od Cannathea!";
+
+"PLEASE_PURCHASE" = "Nakupujte prosím u společnosti Packix.";
+"THANK_YOU_PURCHASE" = "Děkujeme Vám za koupení Pasithei.";
+
+"CLEAR_DATA_HISTORY" = "Smazat historii dat";
+"CLEAR_DATA_HISTORY_DETAIL" = "Toto odstraní všechny data o schránce uložená Pasitheou. Pokud není vytvořena záloha těchto dat, je tento proces nevratný.";
+"CLEAR_FAV_HISTORY" = "Smazat historii oblíbených";
+"CLEAR_PASTEBOARD_HISTORY" = "Smazat historii schránky";
+
+"GO_TO_SETTINGS" = "Přejděte na Nastavení";
+"DELETE" = "Delete";

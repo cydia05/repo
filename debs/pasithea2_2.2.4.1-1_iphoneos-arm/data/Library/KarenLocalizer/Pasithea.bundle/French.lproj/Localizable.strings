@@ -1,0 +1,72 @@
+"COPIED" = "\"%@\" a été copié dans le presse-papier.";
+
+"CLEAR_ALL" = "Tout effacer";
+"HISTORY" = "Historique";
+"FAVORITES" = "Favoris";
+
+"RESPRING_REQUIRED" = "Veuillez Relancer le Springboard";
+"RESPRING_REQUIRED_DETAIL" = "Vous devez relancer le Springboard pour appliquer la nouvelle configuration clavier de Pasithea. Voulez-vous le relancer maintenant ?";
+
+"NO" = "Non";
+"YES" = "Oui";
+"APPLY" = "Appliquer";
+"CANCEL" = "Annuler";
+"OK" = "OK";
+
+"OPEN_IN_TWITTER_QUERY" = "Ouvrir dans Twitter";
+"OPEN_IN_TWEETBOT" = "Ouvrir dans Tweetbot";
+"OPEN_IN_THE_WORLD" = "Ouvrir dans The World";
+"OPEN_IN_TWEETLOGIX" = "Ouvrir dans Tweetlogix";
+"OPEN_IN_TWITTER" = "Ouvrir dans Twitter";
+"OPEN_IN_SAFARI" = "Ouvrir dans Safari";
+
+"FOLLOW_CANNATHEA" = "Suivre @Cannathea";
+"FOLLOW_ICHITASO" = "Suivre @ichitaso";
+"FOLLOW_HIRAKUJIRA" = "Suivre @hirakujira";
+"FOLLOW_KAREN" = "Suivre @angelXwind";
+
+"WATCH_THE_VIDEO" = "Regarder la vidéo";
+"WATCH_THE_VIDEO_DETAIL" = "La vidéo de présentation de Pasithéa est disponible sur Youtube et Youku. Veuillez choisir un de ces services.";
+"YOUTUBE" = "YouTube";
+"YOUKU" = "Youku";
+
+"RESTORE_BACKUP" = "Restaurer la sauvegarde";
+"RESTORE_BACKUP_DETAIL" = "Voulez-vous restaurer les données de Pasithea depuis la sauvegarde ? Tous les changements effectués depuis la sauvegarde seront perdus.";
+
+"CREATE_BACKUP" = "Créer la sauvegarde";
+"CREATE_BACKUP_DETAIL" = "Voulez-vous créer une sauvegarde des données de Pasithea ? Cela effacera la sauvegarde actuelle, si elle existe.";
+
+"DELETE_BACKUP" = "Supprimer la sauvegarde";
+"DELETE_BACKUP_DETAIL" = "Voulez-vous supprimer la sauvegarde des données de Pasithea ? Cela supprimera de façon permanente la sauvegarde actuelle.";
+
+"BACKUP_RESTORE_FAILED" = "Restauration de la sauvegarde échouée";
+"BACKUP_RESTORE_FAILED_DETAIL" = "Pasithea n'a pas pu trouver de données à restaurer.";
+
+"BACKUP_SUCCESSFULLY_RESTORED" = "Succès de la restauration de la sauvegarde";
+"BACKUP_SUCCESSFULLY_RESTORED_DETAIL" = "Les données de Pasithea ont été restaurées depuis la sauvegarde.";
+
+"BACKUP_SUCCESSFUL" = "Sauvegarde réussie";
+"BACKUP_SUCCESSFUL_DETAIL" = "Les données de Pasithea ont été restaurées depuis la sauvegarde.";
+
+"BACKUP_FAILED" = "Sauvegarde échouée";
+"BACKUP_FAILED_DETAIL" = "Pasithea n'a pas pu trouver de données à restaurer.";
+
+"BACKUP_DELETED_SUCCESSFULLY" = "Sauvegarde supprimée";
+"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "Pasithea a supprimé la sauvegarde.";
+
+"FATAL_ERROR" = "Erreur fatale";
+"FATAL_ERROR_DETAIL" = "Pasithea a rencontré une erreur fatale.";
+
+"TWEET_INITIAL_TEXT" = "J'utilise #Pasithea2 par @Cannathea et j'adore ça";
+"TEXT_TO_SHARE" = "Allez jetez un œil à Pasithea 2 par Cannathea!";
+
+"PLEASE_PURCHASE" = "Veuillez acheter Pasithea 2 depuis le Packix.";
+"THANK_YOU_PURCHASE" = "Merci pour votre achat.";
+
+"CLEAR_DATA_HISTORY" = "Effacer l'historique des données";
+"CLEAR_DATA_HISTORY_DETAIL" = "Cela supprimera toutes les données du presse papier actuellement sauvegardées par Pasithea. Si aucune sauvegarde n'a été faite, alors cette action sera irréversible.";
+"CLEAR_FAV_HISTORY" = "Effacer l'historique des favoris";
+"CLEAR_PASTEBOARD_HISTORY" = "Effacer l'historique du presse papier";
+
+"GO_TO_SETTINGS" = "Allez dans Paramètres";
+"DELETE" = "Delete";

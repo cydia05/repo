@@ -1,0 +1,43 @@
+"ENABLED" = "Ativado";
+"DISABLE_IN_APPS" = "Desativar nas Aplicações";
+
+"PASITHEA_KEYBOARD" = "Teclado Pasithea";
+"KEYBOARD_DETAIL" = "Para o Teclado Pasithea funcionar, o mesmo substitui o Teclado Tamil ou Tibetano. Por defeito, Pasithea substitui o Teclado Tibetano. Escolha qual dos teclados não quer usar.";
+
+"OFF" = "Desl.";
+"TAMIL" = "Tamil";
+"TIBETAN" = "Tibetano";
+
+"SKIP_KEYBOARD" = "Sem Teclado";
+"LIMIT_CHARACTERS" = "Limitar o número de caracteres";
+"SWAP_DELETE" = "Troque a excluir tecla";
+"USE_NOTIFY" = "Notificações";
+"DARK_KEYBOARD" = "Teclado Escuro";
+"KEY_INPUT_SOUND" = "Sons do Teclado";
+"SEARCH_ENGINE" = "Motor de BuscaSearch Engine";
+"OPTION_DETAIL" = "Se a opção 'Sem Teclado' estiver ativa, o Teclado Pasithea só aparecerá durante a mudança de teclados no iOS, acessivel através da tecla globo. Se as notificações estiverem ativas, Pasithea enviará uma notificação sempre que copiar algo para a Área de transferências.";
+
+"MAX_HISTORY" = "Máx Histórico Área de Transferência";
+
+"PASITHEA_MENU" = "Pasithea Menu";
+"USE_PASITHEA_MENU" = "Use Pasithea Menu";
+"USE_ICON" = "Use Icon";
+"DARK_MODE" = "Dark Mode";
+
+"DATA_MANAGEMENT" = "Gestão de Dados";
+"VIEW_HISTORY" = "Ver Histórico Área de Notificações";
+
+"AUTO_BACKUP" = "Backup Automático";
+"RESTORE_BACKUP" = "Restaurar Backup";
+"CREATE_BACKUP" = "Criar Backup";
+"DELETE_BACKUP" = "Apagar Backup";
+
+"VIDEO" = "Vídeo";
+
+"COPYRIGHT_CANNATHEA" = "© 2015-2019 Cannathea - desenvolvido por ichitaso e Hiraku. Agradecimentos especiais ao @Sorega4 por criar o ícone para o Pasithea.";
+
+"SETTINGS" = "Definições";
+
+"OPTION" = "Opções";
+
+"SUPPORT" = "Suporte";

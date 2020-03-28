@@ -1,0 +1,72 @@
+"COPIED" = "\"%@\" הועתק ללוח הגזירים.";
+
+"CLEAR_ALL" = "נקה הכל";
+"HISTORY" = "היסטוריה";
+"FAVORITES" = "מועדפים";
+
+"RESPRING_REQUIRED" = "נדרש רענון";
+"RESPRING_REQUIRED_DETAIL" = "עליך לרענן את מסך הבית (ריספרינג) כדי להחיל את השינויים בהגדרות המקלדת של Pasithea. לרענן כעת?";
+
+"NO" = "לא";
+"YES" = "כן";
+"APPLY" = "החל";
+"CANCEL" = "ביטול";
+"OK" = "אוקיי";
+
+"OPEN_IN_TWITTER_QUERY" = "לפתוח בטוויטר?";
+"OPEN_IN_TWEETBOT" = "פתח ב-Tweetbot";
+"OPEN_IN_THE_WORLD" = "פתח ב-The World";
+"OPEN_IN_TWEETLOGIX" = "פתח ב-Tweetlogix";
+"OPEN_IN_TWITTER" = "פתח בטוויטר";
+"OPEN_IN_SAFARI" = "פתח ב-Safari";
+
+"FOLLOW_CANNATHEA" = "עקוב אחרי Cannathea@ בטוויטר";
+"FOLLOW_ICHITASO" = "עקוב אחרי ichitaso@ בטוויטר";
+"FOLLOW_HIRAKUJIRA" = "עקוב אחרי hirakujira@ בטוויטר";
+"FOLLOW_KAREN" = "עקוב אחרי angelXwind@ בטוויטר";
+
+"WATCH_THE_VIDEO" = "צפייה בסרטון";
+"WATCH_THE_VIDEO_DETAIL" = "סרטון השחרור של Pasithea זמין לצפייה ב-Youtube וגם ב-Youku. אנא בחרו שירות  וידיאו ";
+"YOUTUBE" = "YouTube";
+"YOUKU" = "Youku";
+
+"RESTORE_BACKUP" = "שחזור מגיבוי";
+"RESTORE_BACKUP_DETAIL" = "לשחזר את המידע של Pasithea מגיבוי? כל השינויים שבוצעו ב-Pasithea לאחר הגיבוי יאבדו.";
+
+"CREATE_BACKUP" = "צור גיבוי";
+"CREATE_BACKUP_DETAIL" = "לגבות את הנתונים של Pasithea?\nפעולה זו תחליף את המידע של הגיבוי הנוכחי, אם קיים.";
+
+"DELETE_BACKUP" = "מחק גיבוי";
+"DELETE_BACKUP_DETAIL" = "למחוק את גיבוי המידע של Pasithea? פעולה זו תמחק את מידע הגיבוי הנוכחי, אם קיים ללא אפשרות לשחזרו.";
+
+"BACKUP_RESTORE_FAILED" = "שיחזור הגיבוי נכשל";
+"BACKUP_RESTORE_FAILED_DETAIL" = "לא נמצא שום מידע מגובה הניתן לשחזור.";
+
+"BACKUP_SUCCESSFULLY_RESTORED" = "הגיבוי שוחזר בהצלחה";
+"BACKUP_SUCCESSFULLY_RESTORED_DETAIL" = "המידע המגובה מ-Pasithea שוחזר בהצלחה.";
+
+"BACKUP_SUCCESSFUL" = "הגיבוי הסתיים בהצלחה";
+"BACKUP_SUCCESSFUL_DETAIL" = "Pasithea יצרה גיבוי בהצלחה.";
+
+"BACKUP_FAILED" = "הגיבוי נכשל";
+"BACKUP_FAILED_DETAIL" = "לא נמצא שום מידע לגבות.";
+
+"BACKUP_DELETED_SUCCESSFULLY" = "הגיבוי נמחק בהצלחה";
+"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "Pastithea מחקה את הגיבוי בהצלחה.";
+
+"FATAL_ERROR" = "שגיאה חמורה";
+"FATAL_ERROR_DETAIL" = "Pasithea נתקלה בשגיאה חמורה.";
+
+"TWEET_INITIAL_TEXT" = "אני משתמש/ת ב #Pasithea2 מאת @Cannathea ואני אוהב/ת את זה!";
+"TEXT_TO_SHARE" = "בדוק את Pasithea 2 מאת Cannathea!";
+
+"PLEASE_PURCHASE" = "אנא רכוש אתאנא רכוש מ- Packix.";
+"THANK_YOU_PURCHASE" = "תודה שרכשת את Pasithea 2.";
+
+"CLEAR_DATA_HISTORY" = "נקה את היסטוריית הנתונים ";
+"CLEAR_DATA_HISTORY_DETAIL" = "פעולה זו תמחק את כל הנתונים ששמורים בלוח הגזירים ע״י Pasithea. אם לא התבצע גיבוי, שינוי זה הוא בלתי הפיך.";
+"CLEAR_FAV_HISTORY" = "נקה היסטוריית מועדפים";
+"CLEAR_PASTEBOARD_HISTORY" = "נקה היסטוריית לוח-גזירים";
+
+"GO_TO_SETTINGS" = "עבור אל הגדרות";
+"DELETE" = "מחק";

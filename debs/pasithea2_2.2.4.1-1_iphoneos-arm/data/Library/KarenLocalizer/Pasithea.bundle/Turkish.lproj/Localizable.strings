@@ -1,0 +1,72 @@
+"COPIED" = "\"%@\" Panoya Kopyalandı.";
+
+"CLEAR_ALL" = "Hepsini Temizle";
+"HISTORY" = "Geçmiş";
+"FAVORITES" = "Favoriler";
+
+"RESPRING_REQUIRED" = "Respring Gerekli";
+"RESPRING_REQUIRED_DETAIL" = "Pasithe Klavye ayarlarının etki etmesi için Respring gerekli. Şimdi Respring etmek istiyor musunuz?";
+
+"NO" = "Hayır";
+"YES" = "Evet";
+"APPLY" = "Uygula";
+"CANCEL" = "Iptal";
+"OK" = "Tamam";
+
+"OPEN_IN_TWITTER_QUERY" = "Twitterda Aç?";
+"OPEN_IN_TWEETBOT" = "Tweetbotda Aç";
+"OPEN_IN_THE_WORLD" = "The Worldde Aç";
+"OPEN_IN_TWEETLOGIX" = "Tweetlogixde Aç";
+"OPEN_IN_TWITTER" = "Twitterda Aç";
+"OPEN_IN_SAFARI" = "Safaride Aç";
+
+"FOLLOW_CANNATHEA" = "Takip et @Cannathea";
+"FOLLOW_ICHITASO" = "Takip et @ichitaso";
+"FOLLOW_HIRAKUJIRA" = "Takip et @hirakujira";
+"FOLLOW_KAREN" = "Takip et @angelXwind";
+
+"WATCH_THE_VIDEO" = "Videoyu Izle";
+"WATCH_THE_VIDEO_DETAIL" = "The Pasithea fragmanı YouTube ve Youku'da yayınlandı. Lütfen Video Servis Sağlayıcısını Seçiniz.";
+"YOUTUBE" = "YouTube";
+"YOUKU" = "Youku";
+
+"RESTORE_BACKUP" = "Yedeklemeyi Geri Yükle";
+"RESTORE_BACKUP_DETAIL" = "Pasithea'nın Datalarını yedeklemeden Geri Yükle? Pasithea'nın tüm verileri Geri Yükleme sonrası kaybolacaktır.";
+
+"CREATE_BACKUP" = "Yedekleme Oluştur";
+"CREATE_BACKUP_DETAIL" = "Pasithea'nın Verilerini Yedekle? Eğer varsa; Şuanki yedekleme verisinin üzerine yazılacaktır.";
+
+"DELETE_BACKUP" = "Yedeklemeyi Sil";
+"DELETE_BACKUP_DETAIL" = "Pasithea'nın Yedekleme verisini Sil? Eğer varsa; Şuanki yedekleme verisi tamamiyle silinecektir.";
+
+"BACKUP_RESTORE_FAILED" = "Geri Yükleme Başarısız";
+"BACKUP_RESTORE_FAILED_DETAIL" = "Pasithea Geri yüklemek için yedekleme verisi bulamadı.";
+
+"BACKUP_SUCCESSFULLY_RESTORED" = "Yedekleme Başarıyla Geri Yüklendi";
+"BACKUP_SUCCESSFULLY_RESTORED_DETAIL" = "Pasithea'nın verileri yedeklemeden başarıyla yüklendi.";
+
+"BACKUP_SUCCESSFUL" = "Yedekleme Başarılı";
+"BACKUP_SUCCESSFUL_DETAIL" = "Pasithea'nın verileri yedeklemeden başarıyla yüklendi.";
+
+"BACKUP_FAILED" = "Yedekleme Başarısız";
+"BACKUP_FAILED_DETAIL" = "Pasithea yedeklenecek bir veri bulamadı.";
+
+"BACKUP_DELETED_SUCCESSFULLY" = "Yedekleme Başarıyla Silindi";
+"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "Pasithea Yedeklemesi Başarıyla Silindi.";
+
+"FATAL_ERROR" = "Önemli Hata";
+"FATAL_ERROR_DETAIL" = "Pasithea Önemli bir Hata ile Karşılaştı.";
+
+"TWEET_INITIAL_TEXT" = "I'm using #Pasithea2 by @Cannathea and I love it!";
+"TEXT_TO_SHARE" = "Check out Pasithea 2 by Cannathea!";
+
+"PLEASE_PURCHASE" = "Lütfen Pasithea'yı Packix Mağazasından Satın Alınız.";
+"THANK_YOU_PURCHASE" = "Satın aldığınız için Teşekkürler.";
+
+"CLEAR_DATA_HISTORY" = "Veri Geçmişini Temizle";
+"CLEAR_DATA_HISTORY_DETAIL" = "Bu işlem Pasithea tarafından Panoya kaydedilen tüm verileri silecektir. Eğer yedekleme yapılmadıysa, Bu değişiklik geri alınamaz.";
+"CLEAR_FAV_HISTORY" = "Favori Geçmişini Temizle ";
+"CLEAR_PASTEBOARD_HISTORY" = "Pano Geçmişini Temizle";
+
+"GO_TO_SETTINGS" = "Ayarlar git";
+"DELETE" = "Silmek";

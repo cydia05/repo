@@ -1,0 +1,43 @@
+"ENABLED" = "启用";
+"DISABLE_IN_APPS" = "在特定应用内禁用";
+
+"PASITHEA_KEYBOARD" = "Pasithea 键盘";
+"KEYBOARD_DETAIL" = "Pasithea 会替换一个您不使用的键盘为自定义键盘。请在列表中选择您不使用的键盘以供 Pasithea 取代之，默认为藏文键盘。";
+
+"OFF" = "不使用 Pasithea 键盘";
+"TAMIL" = "泰米尔文";
+"TIBETAN" = "藏文";
+
+"SKIP_KEYBOARD" = "跳过键盘";
+"LIMIT_CHARACTERS" = "限制字符数";
+"SWAP_DELETE" = "交换删除键";
+"USE_NOTIFY" = "通知";
+"DARK_KEYBOARD" = "黑色键盘";
+"KEY_INPUT_SOUND" = "按键音";
+"SEARCH_ENGINE" = "搜寻引擎";
+"OPTION_DETAIL" = "当「跳过键盘」启用时，Pasithea 的键盘只会在长按地球键时出现在选单中，平常短按地球键则不会出现。当启用「通知」时，每当复制文字，通知中心就会出现提示。";
+
+"MAX_HISTORY" = "剪贴板最大储存数量";
+
+"PASITHEA_MENU" = "Pasithea 选单";
+"USE_PASITHEA_MENU" = "使用 Pasithea 选单";
+"USE_ICON" = "显示图標";
+"DARK_MODE" = "深色模式";
+
+"DATA_MANAGEMENT" = "备份数据管理";
+"VIEW_HISTORY" = "浏览剪贴板纪录";
+
+"AUTO_BACKUP" = "自动备份";
+"RESTORE_BACKUP" = "回复备份";
+"CREATE_BACKUP" = "立即备份";
+"DELETE_BACKUP" = "删除备份";
+
+"VIDEO" = "介绍视频";
+
+"COPYRIGHT_CANNATHEA" = "© 2015-2019 Cannathea - developed by ichitaso and Hiraku. Special thanks to @Sorega4 for designing the Pasithea icon.";
+
+"SETTINGS" = "设置";
+
+"OPTION" = "选项";
+
+"SUPPORT" = "技术支持";

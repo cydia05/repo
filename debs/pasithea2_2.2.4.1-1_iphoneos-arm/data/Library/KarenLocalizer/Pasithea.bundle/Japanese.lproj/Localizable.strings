@@ -1,0 +1,72 @@
+"COPIED" = "\"%@\" ペーストボードにコピーされました。";
+
+"CLEAR_ALL" = "履歴を削除";
+"HISTORY" = "履歴";
+"FAVORITES" = "お気に入り";
+
+"RESPRING_REQUIRED" = "Respringが必要です";
+"RESPRING_REQUIRED_DETAIL" = "Pasithea Keyboardの設定を変更するにはRespringが必要です。 すぐにRespringを行いますか？";
+
+"NO" = "いいえ";
+"YES" = "はい";
+"APPLY" = "適用する";
+"CANCEL" = "キャンセル";
+"OK" = "OK";
+
+"OPEN_IN_TWITTER_QUERY" = "Twitterを開きますか？";
+"OPEN_IN_TWEETBOT" = "Tweetbotで開く";
+"OPEN_IN_THE_WORLD" = "The Worldで開く";
+"OPEN_IN_TWEETLOGIX" = "Tweetlogixで開く";
+"OPEN_IN_TWITTER" = "Twitterで開く";
+"OPEN_IN_SAFARI" = "Safariで開く";
+
+"FOLLOW_CANNATHEA" = "@CannatheaをFollow";
+"FOLLOW_ICHITASO" = "@ichitasoをFollow";
+"FOLLOW_HIRAKUJIRA" = "@hirakujiraをFollow";
+"FOLLOW_KAREN" = "@angelXwindをFollow";
+
+"WATCH_THE_VIDEO" = "動画を見る";
+"WATCH_THE_VIDEO_DETAIL" = "Pasitheaの使用方法はYouTubeとYoukuで閲覧できます。ビデオサービスを選択してください。";
+"YOUTUBE" = "YouTube";
+"YOUKU" = "Youku";
+
+"RESTORE_BACKUP" = "バックアップから復元する";
+"RESTORE_BACKUP_DETAIL" = "バックアップからPasitheaのデータを復元しますか？バックアップからデータを復元するとすべての変更が失われます。";
+
+"CREATE_BACKUP" = "バックアップを作成する";
+"CREATE_BACKUP_DETAIL" = "Pasitheaのデータをバックアップしますか？この操作を行うと既存のデータへ上書きされます。";
+
+"DELETE_BACKUP" = "バックアップの削除";
+"DELETE_BACKUP_DETAIL" = "Pasitheaのバックアップデータを削除しますか？この操作を行うと既存のバックアップを削除します。";
+
+"BACKUP_RESTORE_FAILED" = "バックアップからの復元に失敗";
+"BACKUP_RESTORE_FAILED_DETAIL" = "Pasitheaのバックアップデータが見つかりませんでした。";
+
+"BACKUP_SUCCESSFULLY_RESTORED" = "バックアップからの復元に成功";
+"BACKUP_SUCCESSFULLY_RESTORED_DETAIL" = "バックアップからPasitheaのデータを復元しました。";
+
+"BACKUP_SUCCESSFUL" = "バックアップの成功";
+"BACKUP_SUCCESSFUL_DETAIL" = "Pasitheaのデータバックアップに成功しました。";
+
+"BACKUP_FAILED" = "バックアップに失敗";
+"BACKUP_FAILED_DETAIL" = "バックアップするデータが見つかりませんでした。";
+
+"BACKUP_DELETED_SUCCESSFULLY" = "バックアップデータの削除に成功";
+"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "バックアップデータの削除に成功しました。";
+
+"FATAL_ERROR" = "何らかのエラー";
+"FATAL_ERROR_DETAIL" = "何らかのエラーによりバックアップの削除に失敗しました。";
+
+"TWEET_INITIAL_TEXT" = "I'm using #Pasithea2 by @Cannathea and I love it!";
+"TEXT_TO_SHARE" = "CannatheaのPasithea 2はとても便利です。チェックしてみてください！";
+
+"PLEASE_PURCHASE" = "Packixにて購入してください。";
+"THANK_YOU_PURCHASE" = "ご購入いただきありがとうございます。";
+
+"CLEAR_DATA_HISTORY" = "履歴のデータを削除";
+"CLEAR_DATA_HISTORY_DETAIL" = "Pasitheaによって保存したデータを削除しますか？もしバックアップがない場合、もとに戻すことは出来ません。";
+"CLEAR_FAV_HISTORY" = "お気に入りデータの削除";
+"CLEAR_PASTEBOARD_HISTORY" = "ペーストボード履歴の削除";
+
+"GO_TO_SETTINGS" = "設定を開く";
+"DELETE" = "削除";

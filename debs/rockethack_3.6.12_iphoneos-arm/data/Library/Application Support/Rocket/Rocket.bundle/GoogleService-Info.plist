@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>101746780749-jo7f1oihae0qg77vk0tfhg138f44aogv.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.101746780749-jo7f1oihae0qg77vk0tfhg138f44aogv</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDIk6GTjUtTDhf3V4sa_v9v2q0Ux_dbz8U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>101746780749</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>me.alfhaily.rocket</string>
+	<key>PROJECT_ID</key>
+	<string>rocket-for-instagram</string>
+	<key>STORAGE_BUCKET</key>
+	<string>rocket-for-instagram.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:101746780749:ios:e2d03f8777edc518</string>
+	<key>DATABASE_URL</key>
+	<string>https://rocket-for-instagram.firebaseio.com</string>
+</dict>
+</plist>

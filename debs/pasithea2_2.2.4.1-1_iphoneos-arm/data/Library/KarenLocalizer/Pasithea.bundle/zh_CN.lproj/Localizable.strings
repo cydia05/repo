@@ -1,0 +1,72 @@
+"COPIED" = "\"%@\" 已拷贝到剪贴板";
+
+"CLEAR_ALL" = "清除记录";
+"HISTORY" = "剪贴板";
+"FAVORITES" = "书签";
+
+"RESPRING_REQUIRED" = "必须重启 SpringBoard";
+"RESPRING_REQUIRED_DETAIL" = "您必须重启 SpringBoard 以套用键盘设定，您想要现在 Respring 吗？";
+
+"NO" = "取消";
+"YES" = "确定";
+"APPLY" = "套用";
+"CANCEL" = "取消";
+"OK" = "好";
+
+"OPEN_IN_TWITTER_QUERY" = "在 Twitter 开启？";
+"OPEN_IN_TWEETBOT" = "在 Tweetbot 开启";
+"OPEN_IN_THE_WORLD" = "在 The World 开启";
+"OPEN_IN_TWEETLOGIX" = "在 Tweetlogix 开启";
+"OPEN_IN_TWITTER" = "在 Twitter 开启";
+"OPEN_IN_SAFARI" = "在 Safari 开启";
+
+"FOLLOW_CANNATHEA" = "关注 @Cannathea";
+"FOLLOW_ICHITASO" = "关注 @ichitaso";
+"FOLLOW_HIRAKUJIRA" = "关注 @hirakujira";
+"FOLLOW_KAREN" = "关注 @angelXwind";
+
+"WATCH_THE_VIDEO" = "观看视频";
+"WATCH_THE_VIDEO_DETAIL" = "Pasithea 的介绍视频可以在 YouTube 以及优酷观看，请选择您想观看介绍视频的网站。";
+"YOUTUBE" = "YouTube";
+"YOUKU" = "优酷";
+
+"RESTORE_BACKUP" = "回复备份";
+"RESTORE_BACKUP_DETAIL" = "您确定要回复 Pasithea 的备份文件吗？所有在上次备份后尚未储存的数据将会遗失。";
+
+"CREATE_BACKUP" = "建立备份";
+"CREATE_BACKUP_DETAIL" = "您确定要建立备份资料吗？这将会覆盖目前已存在的备份文件。";
+
+"DELETE_BACKUP" = "删除备份";
+"DELETE_BACKUP_DETAIL" = "您确定要删除 Pasithea 的备份数据吗？这将会永久删除目前已存在的备份文件";
+
+"BACKUP_RESTORE_FAILED" = "恢复备份失败";
+"BACKUP_RESTORE_FAILED_DETAIL" = "Pasithea 找不到任何备份文件，因此无法恢复。";
+
+"BACKUP_SUCCESSFULLY_RESTORED" = "回复备份成功";
+"BACKUP_SUCCESSFULLY_RESTORED_DETAIL" = "Pasithea 已成功回复上次备份的数据。";
+
+"BACKUP_SUCCESSFUL" = "备份成功";
+"BACKUP_SUCCESSFUL_DETAIL" = "Pasithea 已成功备份数据。";
+
+"BACKUP_FAILED" = "备份失败";
+"BACKUP_FAILED_DETAIL" = "Pasithea 找不到任何数据，因此无法备份。";
+
+"BACKUP_DELETED_SUCCESSFULLY" = "成功删除备份";
+"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "Pasithea 已成功删除备份。";
+
+"FATAL_ERROR" = "错误";
+"FATAL_ERROR_DETAIL" = "你不應該看到這個錯誤";
+
+"TWEET_INITIAL_TEXT" = "我正在使用 @Cannathea 的 #Pasithea2 来管理剪贴板！";
+"TEXT_TO_SHARE" = "来看看 Cannathea 所制作的 Pasithea 2 tweak！";
+
+"PLEASE_PURCHASE" = "请从 Packix 中购买 Pasithea 2";
+"THANK_YOU_PURCHASE" = "Thank you for your purchase.";
+
+"CLEAR_DATA_HISTORY" = "清除数据";
+"CLEAR_DATA_HISTORY_DETAIL" = "Pasithea 将会清除目前储存的数据，若您没有任何备份文件的话，将无法回复删除的纪录。";
+"CLEAR_FAV_HISTORY" = "清除书签";
+"CLEAR_PASTEBOARD_HISTORY" = "清除剪贴板";
+
+"GO_TO_SETTINGS" = "进入设置";
+"DELETE" = "删除";

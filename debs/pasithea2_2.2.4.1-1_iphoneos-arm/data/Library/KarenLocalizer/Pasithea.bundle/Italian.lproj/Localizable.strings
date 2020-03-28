@@ -1,0 +1,72 @@
+"COPIED" = "\"%@\" è stato copiato negli appunti.";
+
+"CLEAR_ALL" = "Pulisci tutto";
+"HISTORY" = "Cronologia";
+"FAVORITES" = "Preferiti";
+
+"RESPRING_REQUIRED" = "Richiesto Respring";
+"RESPRING_REQUIRED_DETAIL" = "Un respring è richiesto per rendere effettivi i cambiamenti alle impostazioni della Tastiera Pasithea. Vuoi effettuare il respring ora?";
+
+"NO" = "No";
+"YES" = "Si";
+"APPLY" = "Applica";
+"CANCEL" = "Cancella";
+"OK" = "OK";
+
+"OPEN_IN_TWITTER_QUERY" = "Apri in Twitter?";
+"OPEN_IN_TWEETBOT" = "Apri in Tweetbot";
+"OPEN_IN_THE_WORLD" = "Apri in The World";
+"OPEN_IN_TWEETLOGIX" = "Open in Tweetlogix";
+"OPEN_IN_TWITTER" = "Apri in Twitter";
+"OPEN_IN_SAFARI" = "Apri in Safari";
+
+"FOLLOW_CANNATHEA" = "Segui @Cannathea";
+"FOLLOW_ICHITASO" = "Segui @ichitaso";
+"FOLLOW_HIRAKUJIRA" = "Segui @hirakujira";
+"FOLLOW_KAREN" = "Segui @angelXwind";
+
+"WATCH_THE_VIDEO" = "Guarda il Video";
+"WATCH_THE_VIDEO_DETAIL" = "Il trailer del rilascio di Pasithea è disponibile sia tramite YouTube che Youku. Scegli un servizio video.";
+"YOUTUBE" = "YouTube";
+"YOUKU" = "Youku";
+
+"RESTORE_BACKUP" = "Restore Backup";
+"RESTORE_BACKUP_DETAIL" = "Restore Pasithea's data from backup? All changes to Pasithea's data after the backup was performed will be lost.";
+
+"CREATE_BACKUP" = "Crea Backup";
+"CREATE_BACKUP_DETAIL" = "Crea un backup dei dati di Pasithea? Questo sovrascriverà il backup dei dati correntemente salvato.";
+
+"DELETE_BACKUP" = "Elimina Backup";
+"DELETE_BACKUP_DETAIL" = "Elimina il backup dei dati di Pasithea? Questo eliminerà irreversibilmente il backup dei dati correntemente salvato.";
+
+"BACKUP_RESTORE_FAILED" = "Ripristino Backup fallito";
+"BACKUP_RESTORE_FAILED_DETAIL" = "Pasithea non è in grado di trovare nessun backup dei dati da ripristinare.";
+
+"BACKUP_SUCCESSFULLY_RESTORED" = "Ripristino Backup completato";
+"BACKUP_SUCCESSFULLY_RESTORED_DETAIL" = "I dati di Pasithea sono stati ripristinati con successo dal backup.";
+
+"BACKUP_SUCCESSFUL" = "Backup eseguito";
+"BACKUP_SUCCESSFUL_DETAIL" = "I dati di Pasithea sono stati salvati con successo nel backup.";
+
+"BACKUP_FAILED" = "Backup fallito";
+"BACKUP_FAILED_DETAIL" = "Pasithea non è in grado di trovare alcun grado di cui fare un backup.";
+
+"BACKUP_DELETED_SUCCESSFULLY" = "Eliminazione Backup eseguita";
+"BACKUP_DELETED_SUCCESSFULLY_DETAIL" = "Pasithea ha eliminato con successo il backup.";
+
+"FATAL_ERROR" = "Errore Fatale";
+"FATAL_ERROR_DETAIL" = "Pasithea ha incontrato un errore fatale.";
+
+"TWEET_INITIAL_TEXT" = "Sto usando #Pasithea2 creato da @Cannathea e io lo adoro!";
+"TEXT_TO_SHARE" = "Controlla Pasithea 2 creato da Cannathea!";
+
+"PLEASE_PURCHASE" = "Per favore acquista Pasithea 2 dal Packix.";
+"THANK_YOU_PURCHASE" = "Grazie per il tuo acquisto.";
+
+"CLEAR_DATA_HISTORY" = "Pulisci cronologia dati";
+"CLEAR_DATA_HISTORY_DETAIL" = "Questo pulirà tutta la cronologia degli appunti salvati da Pasithea. Se nessun backup è stato fatto, questo cambiamento è irreversibile.";
+"CLEAR_FAV_HISTORY" = "Pulisci cronologia favoriti";
+"CLEAR_PASTEBOARD_HISTORY" = "Pulisci cronologia appunti";
+
+"GO_TO_SETTINGS" = "Vai a Impostazioni";
+"DELETE" = "Delete";

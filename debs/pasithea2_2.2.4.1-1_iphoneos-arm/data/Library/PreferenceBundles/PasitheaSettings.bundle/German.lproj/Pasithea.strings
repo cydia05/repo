@@ -1,0 +1,43 @@
+"ENABLED" = "Aktiviert";
+"DISABLE_IN_APPS" = "In Apps deaktivieren";
+
+"PASITHEA_KEYBOARD" = "Pasithea Tastatur";
+"KEYBOARD_DETAIL" = "Damit Pasithea Tastatur funktioniert, muss es entweder die tamilische oder tibetanische Tastatur ersetzen. Standardmäßig ersetzt Pasithea die tibetanische Tastatur. Wähle die Tastatur, die du nicht brauchst.";
+
+"OFF" = "Aus";
+"TAMIL" = "Tamilisch";
+"TIBETAN" = "Tibetanisch";
+
+"SKIP_KEYBOARD" = "Tastatur überspringen";
+"LIMIT_CHARACTERS" = "Zeichenanzahl begrenzen";
+"SWAP_DELETE" = "Entf-Taste\" tauschen";
+"USE_NOTIFY" = "Benachrichtigungen";
+"DARK_KEYBOARD" = "Dunkle Tastatur";
+"KEY_INPUT_SOUND" = "Tastatur-Töne";
+"SEARCH_ENGINE" = "Suchmaschine";
+"OPTION_DETAIL" = "Wenn die “Tastatur überspringen”-Option aktiviert ist, wird Pasithea nur in der iOS-Tastatur-Auswahl erscheinen, die über einen langen Druck auf die Globus-Taste erreichbar ist. Wenn Benachrichtigungen aktiviert sind, wird Pasithea jedes Mal eine Benachrichtigung senden, wenn du etwas in die Zwischenablage kopierst.";
+
+"MAX_HISTORY" = "Max. Zwischenablagen-Verlauf";
+
+"PASITHEA_MENU" = "Pasithea-Menü";
+"USE_PASITHEA_MENU" = "Pasithea-Menü benutzen";
+"USE_ICON" = "Icon benutzen";
+"DARK_MODE" = "Dark Mode";
+
+"DATA_MANAGEMENT" = "Datenverwaltung";
+"VIEW_HISTORY" = "Zwischenablagen-Verlauf ansehen";
+
+"AUTO_BACKUP" = "Automatische Sicherung";
+"RESTORE_BACKUP" = "Sicherung wiederherstellen";
+"CREATE_BACKUP" = "Sicherung erstellen";
+"DELETE_BACKUP" = "Sicherung löschen";
+
+"VIDEO" = "Video";
+
+"COPYRIGHT_CANNATHEA" = "© 2015-2019 Cannathea - entwickelt von ichitaso und Hiraku. Besonderer Dank geht an @Sorega4 für das Design und das Pasithea-Icon.";
+
+"SETTINGS" = "Einstellungen";
+
+"OPTION" = "Optionen";
+
+"SUPPORT" = "Support";
