@@ -10,6 +10,8 @@ Section: Tweaks
 Depends: mobilesubstrate, sedfix
 Architecture: iphoneos-arm
 Installed-Size: 200
+Depiction: https://sabaawi00.github.i0/Cydia/
+SileoDepiction: https://sabaawi00.github.i0/Cydia
 Icon: https://twickd.com/cdn/screenshots/0b2f5f0cdf881ceafca4b97eb305b503/default
 Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios13.3
 
@@ -24,8 +26,8 @@ Section: Tweaks
 Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), net.angelxwind.karenlocalizer (>= 1.0.5), com.opa334.ccsupport (>= 1.2-3) | com.ichitaso.pasithea2flipswitch
 Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea, com.ichitaso.pasithea2
 Replaces: com.ichitaso.pasithea2
-Depiction: https://repo.pulandres.me/index.php?pid=1741
-SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1741
+Depiction: https://sabaawi00.github.i0/Cydia/
+SileoDepiction: https://sabaawi00.github.i0/Cydia/
 Architecture: iphoneos-arm
 Installed-Size: 2565
 Icon: https://repo.packix.com/api/Packages/5cdeed72ec10a1001aa22f2b/icon/download?size=medium
@@ -40,8 +42,8 @@ Version: 3.6.12
 Section: Tweaks
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
 Replaces: me.alfhaily.rocket
-Depiction: https://repo.pulandres.me/index.php?pid=1669
-SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1669
+
+/
 Architecture: iphoneos-arm
 Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 
@@ -57,6 +59,8 @@ Installed-Size: 11368
 Author: AhmedBafkir <prooxy0@gmail.com>
 Maintainer: AhmedBafkir <prooxy0@gmail.com>
 Description: Download/Share images & videos from social apps easily!
+Depiction: https://sabaawi00.github.i0/Cydia/
+SileoDepiction: https://sabaawi00.github.i0/Cydia/
 Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
 
 
@@ -73,6 +77,8 @@ Conflicts: me.pulandres.dleasy
 Replaces: nono
 Architecture: iphoneos-arm
 Installed-Size: 484
+Depiction: https://sabaawi00.github.i0/Cydia/
+SileoDepiction: https://sabaawi00.github.i0/Cydia/
 Icon: https://repo.packix.com/api/Packages/5d093ef0ae6eb7001bab54e3/icon/download?size=medium
 
 
@@ -88,4 +94,4 @@ Depends: mobilesubstrate, wget, curl
 Replaces: com.hackyouriphone.sedfix
 Architecture: iphoneos-arm
 Installed-Size: 1000
-Icon: https://repo.pulandres.me/CydiaIcon.png
+Icon: https://sabaawi00.github.io/Cydia/images/logo.png
