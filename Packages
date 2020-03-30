@@ -1,71 +1,91 @@
 
 Package: com.pul.facebooknoads
-Name: Facebook NO ADS Free
+Name: Facebook NO ADS
 Author: pxcex <cexmac@gmail.com>
+Filename :./debs/com.pul.facebooknoads_0.0.2_iphoneos-arm.deb
 Description: Block all Facebook Ads! Super simple to use, light and FAST.
 Maintainer: Pulandres
 Version: 0.0.2
 Section: Tweaks
 Depends: mobilesubstrate, sedfix
-Depiction: https://repo.pulandres.me/index.php?pid=1431
-SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1431
 Architecture: iphoneos-arm
 Installed-Size: 200
 Icon: https://twickd.com/cdn/screenshots/0b2f5f0cdf881ceafca4b97eb305b503/default
 Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios13.3
 
 Package: com.pulandres.pasithea2
+Name: Pasithea 2 (iOS 10 to 13)
+Author: Cannathea <csupport@cannathea.com>
+Description: Awesome ClipBoard
+Maintainer: Pulandres
+Filename :./debs/com.pulandres.pasithea2_2.2.4.1-1_iphoneos-arm.deb
 Version: 2.2.4.1-1
-Architecture: iphoneos-arm
-Maintainer: cydia05
-Filename: ./debs/pasithea2_2.2.4.1-1_iphoneos-arm.deb
-Size: 801062 
-MD5sum: e0cb0762464eb3dc3f512b2cb6224fe7
-SHA1: 90a6266995ee605026ede71b7ad03cadf2d367d4
-SHA256: 31695f96d3631aafddf3df76755846e205115abb0e01e5d70875f2d0cd5ba0cb
 Section: Tweaks
-Description: Cupy and Paste Saving Tweak
-Author: Malik
-Name: Pasithea2
-
-Package: me.pulandresk.dleasy
-Version: 2.9.1-2
+Depends: firmware (>= 10.0), mobilesubstrate, preferenceloader (>= 2.2.4~beta1), applist (>= 1.5.15~beta1), com.rpetrich.rocketbootstrap (>= 1.0.7~beta3), net.angelxwind.karenlocalizer (>= 1.0.5), com.opa334.ccsupport (>= 1.2-3) | com.ichitaso.pasithea2flipswitch
+Conflicts: com.ichitaso.pasteboardswitch, com.ichitaso.pasithea, com.ichitaso.pasithea2
+Replaces: com.ichitaso.pasithea2
+Depiction: https://repo.pulandres.me/index.php?pid=1741
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1741
 Architecture: iphoneos-arm
-Maintainer: cydia05
-Filename: ./debs/dleasy_2.9.1-2_iphoneos-arm.deb
-Size: 21024 
-MD5sum: a83c46de5fd0237c990e6cd529e4f3cb
-SHA1: 4e9fa0bdb5ecaac1cc06e923d4f31ee99571f5be
-SHA256: d775fa6c7dd5741d9eccd904963964a6d4bea6ae7acc85a7952bd98bb691dfd1
-Section: Tweaks
-Description: Social Media Dwonloading
-Author: Malik
-Name: DLEasy
+Installed-Size: 2565
+Icon: https://repo.packix.com/api/Packages/5cdeed72ec10a1001aa22f2b/icon/download?size=medium
 
 Package: com.pulandres.rockethack
+Name: Rocket for Instagram
+Author: Majd Alfhaily
+Description: Rocket4Insta Crack and Rocket for Instagram Combined!.
+Maintainer: Pulandres
+Filename :./debs/rockethack_3.6.12_iphoneos-arm.deb
 Version: 3.6.12
-Architecture: iphoneos-arm
-Maintainer: cydia05
-Filename: ./debs/rockethack_3.6.12_iphoneos-arm.deb
-Size: 9107954
-MD5sum: 53a8284972ed02f7b2a9cf4c15b3c798
-SHA1: f83b14e555cd2d94503bf072de3eaa7fb1450eca
-SHA256: 4af9bf9f4df0270482b2d83898c53efcd263ef181bb6dac16ba9d6c7099e8323
 Section: Tweaks
-Description: Instagram Dwonloading
-Author: Malik
-Name: Rocket For Instagram
-
-Package: com.pulandres.sedfix
-Version: 100.3
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
+Replaces: me.alfhaily.rocket
+Depiction: https://repo.pulandres.me/index.php?pid=1669
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1669
 Architecture: iphoneos-arm
-Maintainer: cydia05
-Filename: ./debs/sedfix_100.3_iphoneos-arm.deb
-Size: 161830
-MD5sum: c0177882d5d368cb7ca0c1b3dcbc4dc8
-SHA1: f2664ec7300b9052e8e0d6704108e6b97cf7c29d
-SHA256: 6fc8f1144a4c1ec4a758fe43b7f9ad480b789b849d44c35647c1e96850068b1d
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+
+
+Package: me.ahmedbafkir.dleasy
+Name: DLEasy
+Version: 2.9.2
+Section: Tweaks
+Architecture: iphoneos-arm
+Filename :./debs/me.ahmedbafkir.dleasy_2.9.2_iphoneos-arm.deb
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap
+Installed-Size: 11368
+Author: AhmedBafkir <prooxy0@gmail.com>
+Maintainer: AhmedBafkir <prooxy0@gmail.com>
+Description: Download/Share images & videos from social apps easily!
+Icon: file:///Library/PreferenceBundles/DLEasy.bundle/icon@3x.png
+
+
+Package: me.pulandresk.dleasy
+Name: DLEasy Patch
+Author: AhmedBafkir <prooxy0@gmail.com>
+Description: Download images and videos from social apps easily!
+Maintainer: Pulandres
+Filename :./debs/me.pulandresk.dleasy_2.9.1-2_iphoneos-arm.deb
+Version: 2.9.1-2
+Section: Tweaks
+Depends: mobilesubstrate, preferenceloader, com.rpetrich.rocketbootstrap, curl
+Conflicts: me.pulandres.dleasy
+Replaces: nono
+Architecture: iphoneos-arm
+Installed-Size: 484
+Icon: https://repo.packix.com/api/Packages/5d093ef0ae6eb7001bab54e3/icon/download?size=medium
+
+
+Package: sedfix
+Name: CracksHelper
+Author: Pulandres
+Description: Package to get working Cracked Tweaks, IMPORTANT to future cracks, install please.
+Maintainer: Pulandres
+Filename :./debs/sedfix_100.3_iphoneos-arm.deb
+Version: 100.3
 Section: System
-Description: sedfix
-Author: Malik
-Name: CrackHelper
+Depends: mobilesubstrate, wget, curl
+Replaces: com.hackyouriphone.sedfix
+Architecture: iphoneos-arm
+Installed-Size: 1000
+Icon: https://repo.pulandres.me/CydiaIcon.png
