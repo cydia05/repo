@@ -1,17 +1,18 @@
 
 Package: com.pul.facebooknoads
+Name: Facebook NO ADS Free
+Author: pxcex <cexmac@gmail.com>
+Description: Block all Facebook Ads! Super simple to use, light and FAST.
+Maintainer: Pulandres
 Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: cydia05
-Filename: ./debs/facebooknoads_0.0.2_iphoneos-arm.deb
-Size: 19878
-MD5sum: 1ebc45cd01e93f362cfcd25fbf72f88d
-SHA1: 8562e98b64efbba6a775f4e01c35b2e029b783b6
-SHA256: 7c4217fe550597441a2bfb18192bb83d58ff1f824e4cd21a1d07e3a25b3a8266
 Section: Tweaks
-Description: Easy and Smooth tweak remove facebook ads
-Author: Malik
-Name: FacebookNoAds
+Depends: mobilesubstrate, sedfix
+Depiction: https://repo.pulandres.me/index.php?pid=1431
+SileoDepiction: https://repo.pulandres.me/sileo.php?pid=1431
+Architecture: iphoneos-arm
+Installed-Size: 200
+Icon: https://twickd.com/cdn/screenshots/0b2f5f0cdf881ceafca4b97eb305b503/default
+Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios13.3
 
 Package: com.pulandres.pasithea2
 Version: 2.2.4.1-1
