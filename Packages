@@ -37,13 +37,11 @@ Name: Rocket for Instagram
 Author: Majd Alfhaily
 Description: Rocket4Insta Crack and Rocket for Instagram Combined!.
 Maintainer: Pulandres
-Filename :./debs/rockethack_3.6.12_iphoneos-arm.deb
+Filename :./debs/com.pulandres.rockethack_3.6.12_iphoneos-arm.deb
 Version: 3.6.12
 Section: Tweaks
 Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap
-Replaces: me.alfhaily.rocket
-
-/
+Replaces: me.alfhaily.rocket/
 Architecture: iphoneos-arm
 Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 
