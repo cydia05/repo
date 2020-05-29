@@ -7,7 +7,7 @@ Description: Awosmoe theme I Edited to appeares great.
 Maintainer: Cydia05
 Version: 2
 Section: Themes
-Depends: SnowBoard
+Depends: 
 Architecture: iphoneos-arm
 Installed-Size: 10.2 MB
 Depiction: https://sabaawi00.github.i0/Cydia/
