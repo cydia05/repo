@@ -1,15 +1,13 @@
-
-Package:com.cydia05.amury
+Package: com.cydia05.amury
 Name: Amury
-Author: cydi05 <sabaaw@icloud.com>
-Filename :./debs/com.cydia05.amury_2_iphoneos-arm.deb
-Description: Awosmoe theme I Edited to appeares great.
-Maintainer: Cydia05
 Version: 2
 Section: Themes
-Depends: 
 Architecture: iphoneos-arm
-Installed-Size: 10.2 MB
-Depiction: https://sabaawi00.github.i0/Cydia/
-SileoDepiction: https://sabaawi00.github.i0/Cydia
-Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios13.
+Depiction: https://sabaawi00.github.io/Cydia/package/com.Cydia05.Amury
+Homepage: https://sabaawi00.github.io/Cydia/package/com.Cydia05.Amury
+Depends: firmware (>= 10.0)
+Installed-Size: 11.8 MB
+Icon: file:///Library/Themes/Amury-Icons/IconBundles/com.filippobiga.springtomize3-app@3x.png
+Author: cydia05
+Maintainer: cydia05
+Description: An awesome Mobile Theme.
