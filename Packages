@@ -1,16 +1,15 @@
 
-Package: com.pul.facebooknoads
-Name: Facebook NO ADS
-Author: pxcex <cexmac@gmail.com>
-Filename :./debs/com.pul.facebooknoads_0.0.2_iphoneos-arm.deb
-Description: Block all Facebook Ads! Super simple to use, light and FAST.
-Maintainer: Pulandres
-Version: 0.0.2
-Section: Tweaks
-Depends: mobilesubstrate, sedfix
+Package:com.cydia05.amury
+Name: Amury
+Author: cydi05 <sabaaw@icloud.com>
+Filename :./debs/com.cydia05.amury_2_iphoneos-arm.deb
+Description: Awosmoe theme I Edited to appeares great.
+Maintainer: Cydia05
+Version: 2
+Section: Themes
+Depends: SnowBoard
 Architecture: iphoneos-arm
-Installed-Size: 200
+Installed-Size: 10.2 MB
 Depiction: https://sabaawi00.github.i0/Cydia/
 SileoDepiction: https://sabaawi00.github.i0/Cydia
-Icon: https://twickd.com/cdn/screenshots/0b2f5f0cdf881ceafca4b97eb305b503/default
 Tag: purpose::extension, compatible_min::ios10.0, compatible_max::ios13.
