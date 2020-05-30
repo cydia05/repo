@@ -4,9 +4,8 @@ Version: 2
 Section: Themes
 Architecture: iphoneos-arm
 Filename: debs/com.cydia05.amury_2_iphoneos-arm.deb
-Depiction: https://sabaawi00.github.io/Cydia/package/com.Cydia05.Amury
-Homepage: https://sabaawi00.github.io/Cydia/package/com.Cydia05.Amury
-Depends: firmware (>= 10.0
+Depiction: https://sabaawi00.github.io/Cydia/
+Homepage: https://sabaawi00.github.io/Cydia/
 SHA1: CE68D328542202E2C02D3357EEF5D2ACAE84206E
 SHA256: D4642C7F238D8B019BF672A713B825FF1CF15B0BB72205FF25F042B081ACB7DA
 Installed-Size: 6827176
