@@ -13,3 +13,19 @@ Icon: file:///Library/Themes/Amury-Icons/IconBundles/com.filippobiga.springtomiz
 Author: cydia05
 Maintainer: cydia05
 Description: An awesome Mobile Theme.
+
+Homepage: Homepage: https://sabaawi00.github.io/Cydia/
+Depiction: Homepage: https://sabaawi00.github.io/Cydia/
+Author: Kef <theonlykef@gmail.com>
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Name: Rofi
+Filename: debs/rofi_1.0.0 2.deb
+Package: com.kef.rofi
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader, com.spark.libsparkcolourpicker (>=0.0.26), ws.hbang.common (>= 1.11), applist
+Section: Tweaks
+Installed-Size: 304
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A shortcut app launcher tweak.
+dev: kef
+Tag: purpose::extension, compatible::ios12, compatible::ios13
