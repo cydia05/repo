@@ -12,11 +12,12 @@ Author: cydia05
 Maintainer: cydia05
 Description: An awesome Mobile Theme.
 
+Package: com.cydia05.Saily
 Name: Saily
 Description: Modern. Fast. Beautiful.
 Author: Saily Team <master@233owo.com>
 Maintainer: Saily Team <master@233owo.com>
-Filename: debs/Saily-CI-1595492592.deb
+Filename: debs/com.cydia05.Saily_iphoneos-arm.deb
 Section: Applications
 Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
 Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
