@@ -1,12 +1,12 @@
 Package: com.cydia05.amury
 Name: Amury
-Version: 2
+Version: 2.0
 Section: Themes
 Architecture: iphoneos-arm
 Filename: debs/com.cydia05.amury_2_iphoneos-arm.deb
 Depiction: https://cydia05.github.io/repo/
 Homepage: https://cydia05.github.io/repo/
-Installed-Size: 6827176
+Size: 6.51 MB
 Icon: file:///Library/Themes/Amury-Icons/IconBundles/com.filippobiga.springtomize3-app@3x.png
 Author: cydia05
 Maintainer: cydia05
