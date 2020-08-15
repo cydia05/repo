@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "## TWEAK_NAME\nSHORT_DESCRIPTION"
+					"markdown": "Amury an aowsome the for you"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,32 +19,32 @@
 				},
 				{
 					"title": "Version",
-					"text": "VERSION_NUMBER",
+					"text": "1.0",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "RELEASE_DATE",
+					"text": "2020",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Price",
-					"text": "PRICE",
+					"text": "free",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Developer",
-					"text": "DEVELOPER_NAME",
+					"text": "cydia05",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Website",
-					"action": "WEBSITE_HERE",
+					"action": "cydia05.github.io",
 					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Use This Template",
-					"action": "https://github.com/syns/repo.me",
+					"action": "https://github.com/mkstaff95",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -62,13 +62,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "VERSION_NUMBER",
+					"title": "2.0",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 UPDATE_DESCRIPTION",
+					"markdown": "\t\n\u2022 add some icons",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
