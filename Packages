@@ -25,8 +25,8 @@ Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
 Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
 Architecture: iphoneos-arm
 Size: 28402232
-SileoDepiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Amury/depiction.json
-Depiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Amury/depiction.json
-Homepage: https://github.com/cydia05/repo/tree/gh-pages/depictions/web/com.cydia05.Amury/screenshots
+SileoDepiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Saily/depiction.json
+Depiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Saily/depiction.json
+Homepage: https://github.com/cydia05/repo/tree/gh-pages/depictions/web/com.cydia05.Saily/screenshots
 Icon: https://github.com/SailyTeam/main/raw/master/Protein/Assets.xcassets/AppIcon.appiconset/icon-83.5%402x.png
 Version: 1.0-b18
