@@ -5,7 +5,7 @@ Section: Themes
 Architecture: iphoneos-arm
 SileoDepiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Amury/depiction.json
 Depiction: https://cydia05.github.io/repo/depictions/web/?p=com.cydia05.Amury
-Homepage: https://github.com/cydia05/repo/tree/gh-pages/depictions/web/com.cydia05.Amury/screenshots
+Homepage: https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/web/com.cydia05.Amury/info.xml
 Depends: firmware (>= 10.0)
 Size: 6959490
 Installed-Size: 11.8 MB
