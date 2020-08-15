@@ -14,12 +14,12 @@
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"title": "Latest Version",
+					"title": "informations package",
 					"class": "DepictionHeaderView"
 				},
 				{
 					"title": "Version",
-					"text": "1.0",
+					"text": "2.0",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -39,11 +39,11 @@
 				},
 				{
 					"title": "Website",
-					"action": "cydia05.github.io",
+					"action": "https://twitter.com/cydia05",
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"title": "Use This Template",
+					"title": "github",
 					"action": "https://github.com/mkstaff95",
 					"class": "DepictionTableButtonView"
 				},
@@ -73,7 +73,7 @@
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">Released RELEASE_DATE</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\"> Updated at 2020/08/015</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}
