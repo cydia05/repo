@@ -4,7 +4,7 @@ Version: 2.0
 Section: Themes
 Architecture: iphoneos-arm
 SileoDepiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Amury/depiction.json
-Depiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Amury/depiction.json
+Depiction:Depiction: https://cydia05.github.io/repo/depictions/web/?p=com.cydia05.amury
 Homepage: https://github.com/cydia05/repo/tree/gh-pages/depictions/web/com.cydia05.Amury/screenshots
 Depends: firmware (>= 10.0)
 Size: 6959490
@@ -26,7 +26,7 @@ Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr23
 Architecture: iphoneos-arm
 Size: 28402232
 SileoDepiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Saily/depiction.json
-Depiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Saily/depiction.json
+Depiction: https://cydia05.github.io/repo/depictions/web/?p=com.cydia05.Saily
 Homepage: https://github.com/cydia05/repo/tree/gh-pages/depictions/web/com.cydia05.Saily/screenshots
 Icon: https://github.com/SailyTeam/main/raw/master/Protein/Assets.xcassets/AppIcon.appiconset/icon-83.5%402x.png
 Version: 1.0-b18
