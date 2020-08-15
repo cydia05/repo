@@ -5,7 +5,7 @@ Section: Themes
 Architecture: iphoneos-arm
 SileoDepiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Amury/depiction.json
 Depiction: https://cydia05.github.io/repo/depictions/web/?p=com.cydia05.Amury
-Homepage: https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/web/com.cydia05.Amury/info.xml
+Homepage: 
 Depends: firmware (>= 10.0)
 Size: 6959490
 Installed-Size: 11.8 MB
@@ -27,6 +27,6 @@ Architecture: iphoneos-arm
 Size: 28402232
 SileoDepiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Saily/depiction.json
 Depiction: https://cydia05.github.io/repo/depictions/web/?p=com.cydia05.Saily
-Homepage: https://github.com/cydia05/repo/tree/gh-pages/depictions/web/com.cydia05.Saily/screenshots
+Homepage: Depiction: http://cydia05.github.io/description.html?id=com.cydia05.Saily
 Icon: https://github.com/SailyTeam/main/raw/master/Protein/Assets.xcassets/AppIcon.appiconset/icon-83.5%402x.png
 Version: 1.0-b18
