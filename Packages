@@ -13,19 +13,3 @@ Icon:
 Author: cydia05
 Maintainer: cydia05
 Description: An awesome Mobile Theme!
-
-Package: com.cydia05.Saily
-Name: Saily
-Description: Modern. Fast. Beautiful.
-Author: Saily Team <master@233owo.com>
-Maintainer: Saily Team <master@233owo.com>
-Filename: debs/com.cydia05.Saily_iphoneos-arm.deb
-Section: Applications
-Pre-Depends: firmware (>= 13.0), dpkg, uikittools, apt
-Conflicts: com.lakr233.SailyTest, com.lakr233.jw.SailyPackageManager, com.lakr233.jw.SailyStartupDaemon
-Architecture: iphoneos-arm
-Size: 28402232
-SileoDepiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Saily/depiction.json
-Depiction: http://cydia05.github.io/description.html?id=com.cydia05.Saily
-Icon: https://github.com/SailyTeam/main/raw/master/Protein/Assets.xcassets/AppIcon.appiconset/icon-83.5%402x.png
-Version: 1.0-b18
