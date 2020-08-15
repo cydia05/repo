@@ -3,14 +3,15 @@ Name: Amury
 Version: 2.0
 Section: Themes
 Architecture: iphoneos-arm
-Filename: debs/com.cydia05.amury_2_iphoneos-arm.deb
-Depiction: https://cydia05.github.io/repo/
-Homepage: https://cydia05.github.io/repo/
-Size: 6827176 
-Icon: file:///Library/Themes/Amury-Icons/IconBundles/com.filippobiga.springtomize3-app@3x.png
+SileoDepiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Amury/depiction.json
+Depiction: https://cydia05.github.io/repo/depictions/native/com.cydia05.Amury/depiction.json
+Homepage: https://github.com/cydia05/repo/tree/gh-pages/depictions/web/com.cydia05.Amury/screenshots
+Depends: firmware (>= 10.0)
+Installed-Size: 11.8 MB
+Icon:
 Author: cydia05
 Maintainer: cydia05
-Description: An awesome Mobile Theme.
+Description: An awesome Mobile Theme!
 
 Package: com.cydia05.Saily
 Name: Saily
