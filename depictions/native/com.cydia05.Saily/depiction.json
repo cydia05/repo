@@ -1,0 +1,88 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://raw.githubusercontent.com/syns/repo.me/master/assets/Banners/RepoHeader.png",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Amury an aowsome the for you"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "informations package",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "b-18",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "2020",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Saily Team",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Website",
+					"action": "https://twitter.com/trysaily",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Saily team",
+					"action": "master@233owo.com",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "2.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 We have changed the way users used to set avatar.
+
+From now on, installed packages are shown with a little green dot.",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\"> Updated at 2020/07/24</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
