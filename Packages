@@ -5,11 +5,10 @@ Section: Themes
 Architecture: iphoneos-arm
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.cydia05.Amury/depiction.json
 Depiction: https://cydia05.github.io/repo/description.html?id=com.cydia05.Amury
-Homepage: 
 Depends: firmware (>= 10.0)
 Size: 6959490
 Installed-Size: 11.8 MB
-Icon:
+Icon: https://raw.githubusercontent.com/cydia05/repo/gh-pages/Themes.png
 Author: cydia05
 Maintainer: cydia05
 Description: An awesome Mobile Theme!
