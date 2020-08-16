@@ -14,7 +14,7 @@
 					"class": "DepictionSeparatorView"
 				},
 				{
-					"title": "informations package",
+					"title": "Package Info",
 					"class": "DepictionHeaderView"
 				},
 				{
@@ -38,8 +38,8 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Website",
-					"action": "https://twitter.com/cydia05",
+					"title": "Descriptins Package",
+					"action": "https://cydia05.github.io/repo/description.html?id=com.cydia05.Amury",
 					"class": "DepictionTableButtonView"
 				},
 				{
