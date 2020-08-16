@@ -1,8 +1,8 @@
 {
 	"name": "Amury",
 	"desc_short": "awsome theme",
-	"desc_long": "very nice theme help you redesign you UIs iphone.<br><br>No Options To Configure.",
-	"compatitle": "iOS 11, 12 and 13",
+	"desc_long": "Very nice Theme help you to redesign you UI's iPhone.<br><br>No Options To Configure.",
+	"compatitle": "All versions by Work Partial With Unc0ver",
 	"changelog": "<strong>2.0</strong><br>+ add new icons's.<br><strong>1.1.0</strong><br>+ Support iOS 10, 11, 12, 13.<br>+ Replase Icons.<br><strong>1.0</strong><br>+ Initial Release.<br>",
 	"screenshot": "<div style='text-align:center;'><a href='https://raw.githubusercontent.com/cydia05/repo/gh-pages/assets/repo/Screenshots/screenshot.png' target='_blank'><img width=95% src='https://raw.githubusercontent.com/cydia05/repo/gh-pages/assets/repo/Screenshots/screenshot2.png'/></a><br></div>",
 	"open": true,
