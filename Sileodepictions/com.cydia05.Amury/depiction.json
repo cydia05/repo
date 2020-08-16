@@ -38,7 +38,7 @@
 					"class": "DepictionTableTextView"
 				},
 				{
-					"title": "Descriptins Package",
+					"title": "More Package Informations",
 					"action": "https://cydia05.github.io/repo/description.html?id=com.cydia05.Amury",
 					"class": "DepictionTableButtonView"
 				},
