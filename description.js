@@ -7,15 +7,15 @@ function iOSVersion() {
 }
 var theme = localStorage.Theme;
 if(!theme) {
-	theme = "ios7.min";
+	theme = "ios13dark";
 	localStorage.setItem('Theme', theme);
 }
 $('head').append('<link rel="stylesheet" href="'+theme+'.css?_=f" type="text/css" />');
 function toogleTheme()
 {
-	var themeNew = "ios7.min";
+	var themeNew = "i0s13dark";
 	if(localStorage.Theme === themeNew) {
-		themeNew = "ios7dark";
+		themeNew = "ios13dark";
 	}
 	localStorage.setItem('Theme', themeNew);
 	window.location.reload(false);
