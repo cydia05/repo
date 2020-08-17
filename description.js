@@ -13,7 +13,7 @@ if(!theme) {
 $('head').append('<link rel="stylesheet" href="'+theme+'.css?_=f" type="text/css" />');
 function toogleTheme()
 {
-	var themeNew = "i0s13dark";
+	var themeNew = "ios13dark";
 	if(localStorage.Theme === themeNew) {
 		themeNew = "ios13dark";
 	}
