@@ -12,14 +12,7 @@ if(!theme) {
 }
 $('head').append('<link rel="stylesheet" href="'+theme+'.css?_=f" type="text/css" />');
 function toogleTheme()
-{
-	var themeNew = "ios13light";
-	if(localStorage.Theme === themeNew) {
-		themeNew = "ios13dark";
-	}
-	localStorage.setItem('Theme', themeNew);
-	window.location.reload(false);
-}
+
 $(function() {
   $("li").on("click",function() {
 	  if(this.id=="dnt") {
