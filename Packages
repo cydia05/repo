@@ -2,7 +2,7 @@ Package: com.cydia05.Amury
 Name: Amury
 Version: 2.0
 Section: Themes
-Filename: ./debs/com.cydia05.Amury_iphoneos-arm.deb
+Filename: ./debs/Amury.deb
 Architecture: iphoneos-arm
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.cydia05.Amury/depiction.json
 Depiction: https://cydia05.github.io/repo/description.html?id=com.cydia05.Amury
@@ -13,3 +13,18 @@ Icon: https://raw.githubusercontent.com/cydia05/repo/gh-pages/Themes.png
 Author: cydia05
 Maintainer: cydia05
 Description: An awesome Mobile Theme!
+
+Package: com.malik.CuteCUT
+Section: Tweaks
+Maintainer: MALIK MOHAMMED
+Filename: ./debs/CuteCUT.deb
+Pre-Depends: firmware (>= 12.2), com.linusyang.appinst
+Architecture: iphoneos-arm
+Version: 1.8.10
+Size: 38720782
+Description: Cute Cut pro For Free.
+Name: CuteCUT
+Author: Malik Mohammed
+SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.malik.cutecut/depiction.json
+Depiction: https://cydia05.github.io/repo/description.html?id=com.malik.cutecut
+Icon: https://raw.githubusercontent.com/cydia05/repo/gh-pages/Themes.png
