@@ -5,8 +5,8 @@
   "banners": [
     {
         "url": "https://raw.githubusercontent.com/cydia05/repo/gh-pages/Screenshots/screenshot.png",
-        "title": "Amury",
-        "package": "com.cydia05.Amury",
+        "title": "CuteCUT",
+        "package": "com.malik.cutecut",
         "hideShadow": false
     }
   ]
