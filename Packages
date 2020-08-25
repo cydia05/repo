@@ -5,7 +5,7 @@ Section: Themes
 Filename: ./debs/Amury.deb
 Architecture: iphoneos-arm
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.cydia05.Amury/depiction.json
-Depiction: https://cydia05.github.io/repo/description.html?id=com.cydia05.Amury
+Depiction: https://cydia05.github.io/repo/depictions/?p=com.cydia05.Amury
 Depends: firmware (>= 10.0)
 Size: 5684772
 Installed-Size: 11739
