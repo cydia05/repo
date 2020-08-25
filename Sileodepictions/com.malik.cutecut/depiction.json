@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Amury an aowsome the for you"
+					"markdown": "Latest Free Cutecut Pro App"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,7 +19,7 @@
 				},
 				{
 					"title": "Version",
-					"text": "2.0",
+					"text": "1.8.10",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -34,12 +34,12 @@
 				},
 				{
 					"title": "Developer",
-					"text": "cydia05",
+					"text": "Malik Mohammed",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "More Package Informations",
-					"action": "https://cydia05.github.io/repo/description.html?id=com.cydia05.Amury",
+					"action": "https://cydia05.github.io/repo/depictions/?p=com.malik.cutecut",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -62,13 +62,13 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "2.0",
+					"title": "Latest Version",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 add some icons",
+					"markdown": "\t\n\u2022 Full Features",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
