@@ -1,0 +1,85 @@
+{
+	"minVersion": "0.1",
+	"headerImage": "https://pbs.twimg.com/profile_banners/4372426108/1528800797/1500x500",
+	"tintColor": "#ffae8e",
+	"tabs": [
+		{
+			"tabname": "Details",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Latest Free Cutecut Pro App"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "Package Info",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "Version",
+					"text": "1.8.10",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Released",
+					"text": "2020",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Price",
+					"text": "free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "Malik Mohammed",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "More Package Informations",
+					"action": "https://cydia05.github.io/repo/depictions/?p=com.malik.cutecut",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "github",
+					"action": "https://github.com/mkstaff95",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "Changelog",
+			"views": [
+				{
+					"title": "Latest Version",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 Full Features",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\"> Updated at 2020/08/15</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
