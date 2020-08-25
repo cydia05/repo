@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>JsSkal</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="stylesheet" type="text/css" media="screen" href="index.css" />
+        <script src="https://cdn.jsdelivr.net/gh/nicolaspanel/numjs@0.15.1/dist/numjs.min.js"></script>
+        <script src="index.js"></script>
+    </head>
+
+    <body>
+        
+        <div class="group border">
+            <h1>JsSkal</h1>
+            <h3>A JavaScript Version of <a href="https://github.com/pr0crustes/Pyskal">Pyskal</a></h3>
+
+            <div class="group border">
+                <h4>What is it?</h4>
+                <p>JsSkal is a client-side web page that is able to transform text into a image, in a non-reversible process.</p>
+                <br>
+                <h4>How does it work? (For Nerds)</h4>
+                <p>First, a hash algorithm is used, hashing the text input into a hex string.</p>
+                <p>The hash is then used to set each pixel color, creating the image.</p>
+            </div>
+            <br>
+            <div class="group border" id="canvas_parent">
+                <p>
+                    Input:  
+                    <input id="text_input" type="text" name="text_input">
+                </p>
+                <br>
+                <canvas height="0" width="0" id="canvas_image"></canvas>
+            </div>
+        </div>
+        
+    </body>
+
+    <footer>
+        <p>@2018</p>
+        <p>Made by <a href="https://github.com/pr0crustes">pr0crustes</a>.</p>
+        <p>This project uses <a href="https://www.npmjs.com/package/numjs">numjs</a> that is licensed under MIT.</p>
+        <p>The way the image is transformed into an image was create by me and has all rights reserved.</p>
+    </footer>
+
+</html>
+
+

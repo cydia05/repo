@@ -1,0 +1,302 @@
+p {
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+a { 
+    color: red; 
+}
+
+h1, h2 {
+    font-family: "Times New Roman";
+    color: red;
+}
+
+h1 {
+    font-size: 300%;
+}
+
+body {
+    line-height: 1.3;
+    background-color: #1C1C1C;
+    color: #FAFAFA;
+}
+
+.group {
+    margin: auto;
+    width: 70%;
+    text-align: center;
+}
+
+.border {
+    margin-bottom: 30px;
+    border: 5px solid green;
+    padding: 20px;
+}
+
+footer {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.redirect_button:hover {
+    background: rgb(200, 200, 200);
+}
+
+.redirect_button * {
+    padding: 15px;
+    color:#3a8a9e;
+    text-decoration: none;
+}
+
+@media (max-width: 600px) {
+    .redirect_button * {
+        padding: 5px;
+    }
+}
+
+.pre_content {
+    width: 90%;
+}
+
+
+.center {
+    text-align: center;
+    margin: auto;
+}
+
+.width_50 {
+    width: 50%;
+}
+
+.width_70 {
+    width: 70%;
+}
+
+.width_85 {
+    width: 85%;
+}
+
+.width_90 {
+    width: 90%;
+}
+
+.pad_sides {
+    width: 90%;
+}
+
+@media (max-width: 600px) {
+    .pad_sides {
+        width: 100%;
+    }
+}
+
+.dark_color {
+    font-size: 120%;
+    line-height: 1.5;
+    background-color: #1C1C1C;
+    color: #FAFAFA;
+    border: 5px solid rgba(128, 128, 128, 0.7);
+}
+
+.header {
+    line-height: 250%;
+    font-size: 200%;
+    width: 90%;
+    padding: 10px;
+    background-clip: content-box, padding-box;
+}
+
+.header_color {
+    background-color: rgb(90, 90, 90);
+}
+
+.content {
+    padding: 15px;
+}
+
+.post {
+    padding: 30px;
+    outline: 2px solid white;
+    outline-offset: -10px;
+}
+
+.post_title {
+    font-family: "Times New Roman";
+    font-weight: bold;
+    font-size: 140%;
+    padding: 10px;
+    border-bottom: 2px solid gray;
+}
+
+.post_body {
+    padding: 5px;
+    font-size: 110%;
+}
+
+.paddedchoicebox {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.interactionbox {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font-size: 90%;
+}
+
+.maininput {
+    width: 100%;
+}
+
+.roundedinput {
+    border-radius: 10px;
+    height: 20px;
+}
+
+.input_section {
+    padding: 6px;
+}
+
+.search_div {
+    padding-top: 15px;
+}
+
+.selectfield {
+    border: 3px solid rgb(136, 136, 136);
+}
+
+td {
+    padding: 15px;
+    border-radius: 5px;
+}
+
+.border_table {
+    margin: auto;
+    border-radius: 5px;
+    border: 1px solid white;
+}
+
+.side_by_side_container {
+    display: flex;
+}
+
+.flex_item {
+    flex-grow: 1;
+}
+
+.pre_content {
+    width: 90%;
+}
+
+
+.redirect_button {
+    display: table-cell;
+
+	-moz-box-shadow: 3px 4px 0px 0px #899599;
+	-webkit-box-shadow: 3px 4px 0px 0px #899599;
+	box-shadow: 3px 4px 0px 0px #899599;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #bab1ba));
+	background:-moz-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+	background:-webkit-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+	background:-o-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+	background:-ms-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+	background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#bab1ba',GradientType=0);
+	background-color:#ededed;
+	-moz-border-radius:15px;
+	-webkit-border-radius:15px;
+	border-radius:15px;
+	border:1px solid #d6bcd6;
+	cursor:pointer;
+	color:#3a8a9e;
+	font-family:Arial;
+	font-size:17px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e1e2ed;
+}
+
+@media (max-width: 600px) {
+    .redirect_button {
+        display: table-cell;
+
+        -moz-box-shadow: 3px 4px 0px 0px #899599;
+        -webkit-box-shadow: 3px 4px 0px 0px #899599;
+        box-shadow: 3px 4px 0px 0px #899599;
+        background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ededed), color-stop(1, #bab1ba));
+        background:-moz-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+        background:-webkit-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+        background:-o-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+        background:-ms-linear-gradient(top, #ededed 5%, #bab1ba 100%);
+        background:linear-gradient(to bottom, #ededed 5%, #bab1ba 100%);
+        filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ededed', endColorstr='#bab1ba',GradientType=0);
+        background-color:#ededed;
+        -moz-border-radius:15px;
+        -webkit-border-radius:15px;
+        border-radius:15px;
+        border:1px solid #d6bcd6;
+        cursor:pointer;
+        color:#3a8a9e;
+        font-family:Arial;
+        font-size:13px;
+        text-decoration:none;
+        text-shadow:0px 1px 0px #e1e2ed;
+    }
+}
+
+.redirect_button:hover {
+    background: rgb(200, 200, 200);
+}
+
+.redirect_button * {
+    padding: 15px;
+    color:#3a8a9e;
+    text-decoration: none;
+}
+
+@media (max-width: 600px) {
+    .redirect_button * {
+        padding: 5px;
+    }
+}
+
+button {
+	-moz-box-shadow: 0px 1px 0px 0px #fff6af;
+	-webkit-box-shadow: 0px 1px 0px 0px #fff6af;
+	box-shadow: 0px 1px 0px 0px #fff6af;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffec64), color-stop(1, #ffab23));
+	background:-moz-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	background:-webkit-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	background:-o-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	background:-ms-linear-gradient(top, #ffec64 5%, #ffab23 100%);
+	background:linear-gradient(to bottom, #ffec64 5%, #ffab23 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffec64', endColorstr='#ffab23',GradientType=0);
+	background-color:#ffec64;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #ffaa22;
+	display:inline-block;
+	cursor:pointer;
+	color:#333333;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffee66;
+}
+
+.flash {
+    animation: flash .15s;
+}
+
+@keyframes flash {
+    50% {
+        background: rgb(179, 255, 0);
+    }
+    100% {
+        background: transparent;
+    }
+}
