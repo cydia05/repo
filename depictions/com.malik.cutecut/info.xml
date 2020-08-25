@@ -1,34 +1,34 @@
 <package>
-	<id>me.pr0crustes.smoothtable</id>
-	<name>SmoothTable</name>
+	<id>com.malik.cutecut</id>
+	<name>CuteCUT</name>
 	<version>1.0.4-1</version>
 	<compatibility>
 		<firmware>
 		    <miniOS>10.0.0</miniOS>
-            <maxiOS>12.4.0</maxiOS>
+            <maxiOS>13.6.1</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!-- either unsupported or unconfirmed -->
 		</firmware>
 	</compatibility>
 	<dependencies>preferenceloader</dependencies>
 	<descriptionlist>
-		<description>SmoothTable is a tweak that allows you to inset and round UITableViews, just install and change the settings!</description>
+		<description> useful free app you can download it by free because it purshase in app store!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Without SmoothTable</description>
+			<description>Without CuteCUT</description>
 			<image>without.jpeg</image>
 		</screenshot>		
 		<screenshot>
-			<description>With SmoothTable</description>
+			<description>With CuteCUT</description>
 			<image>with.jpeg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
-		<change>Updated to iOS 12.</change>
+		<change>no changes.</change>
 	</changelog>
 	<links>
 		<name>Source Code</name>
-		<url>https://github.com/pr0crustes/SmoothTable</url>
+		<url>https://github.com/mkstaff95/CuteCUT</url>
 	</links>
 </package>
