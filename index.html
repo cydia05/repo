@@ -1,62 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<title>cydia05's Repo</title>
-	<noscript>
-		<link rel="stylesheet" href="ios7.min.css?_=f" type="text/css" />
-	</noscript>
-	<meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=0">
-	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-	<meta charset="utf-8">
-</head>
-<script src="jquery-3.5.1.min.js"></script>
-<script src="description.js?_=f"></script>
-<body onload="loadPackages();">
-	<main id="content">
-		<h2 role="header">cydia05's Repo</h2>
-		<ul>
-			<li class="has-icon">
-				<a href="cydia://url/https://cydia.saurik.com/api/share#?source=https://cydia05.github.io/repo/" role="button">
-					<img style = "border-radius: 20%;" href="cydia7.png" alt="" srcset="cydia7.png 2x, cydia7.png 3x" class="icon"/>
-					<label>Open Cydia</label>
-				</a>
-			</li>
-		</ul>
-		<p style="text-align: center; font-size: 85%;" role="footer" id="neo">Repo: https://cydia05.github.io/repo/</p>
-		<noscript>
-			<h2></h2><ul style="background:#ff0000"><center><li><p>Error JavaScript Disabled.</p></li></center></ul>
-		</noscript>
-		<span id="updates_" hidden><h2 role="header">Last Updates</h2><ul id="updates"></ul></span>
-		<span id="browser_" hidden><h2 role="header">Browse Packages</h2><ul id="browser"></ul></span>
-		<h2 role="header">Social</h2>
-		<ul>
-			<li class="has-icon">
-				<a href="https://github.com/mkstaff95" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="github.png" alt="" srcset="github.png 2x, github.png 3x" class="icon"/>
-					<label>GitHub</label>
-				</a>
-			</li>
-			<li class="has-icon">
-				<a href="https://www.reddit.com/user/mkstaff95" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="reddit.png" alt="" srcset="reddit.png 2x, reddit.png 3x" class="icon"/>
-					<label>Reddit</label>
-				</a>
-			</li>
-			<li class="has-icon">
-				<a href="https://twitter.com/cydia05" target="_blank" role="button">
-					<img style = "border-radius: 20%;" href="twitter.png" alt="" srcset="twitter.png 2x, twitter.png 3x" class="icon"/>
-					<label>Follow cydia05</label>
-				</a>
+	<head>
+		<title>Pr0crustes</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
+	</head>
 
-      <h2 role="header">Theme</h2>
-		<ul>
-			<li>
-				<a onclick="toogleTheme();" role="button">
-					<p>Change Theme</p>
-				</a>
-			</li>
-		</ul>
-	</main>
-	<p style="text-align: center; font-size: 85%; margin-top: 10px;" role="footer" id="neo">cydia05 © 2020</p>
-</body>
+	<body>
+
+		<div class="container">
+			<h1><img src="CydiaIcon.png"> Pr0crustes</h1>
+		</div>
+
+		<div class="container">
+			<div class="well">
+				<p><span class="text-primary"><b>Pr0crustes repo</span></b> a Cydia repository.</p>
+				<a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://pr0crustes.github.io/repo/">Add to Cydia</a>
+			</div>
+		</div>
+
+		<div class="container">
+			<h3 id="wells" class="page-header">Featured Packages</h3>
+		</div>
+
+		
+		<div class="container">
+
+			<div class="panel panel-default">
+				<div class="panel-heading">SmoothTable</div>
+				<div class="panel-body">
+					<p>SmoothTable is a Mobile Substrate Tweak that allows the user to add inset and corner rounding to UITableViews.<br></p>
+					<a class="btn btn-xs btn-default" href="depictions/?p=me.pr0crustes.smoothtable">More info</a>
+				</div>
+			</div>
+
+		</div>
+
+		<div class="container">
+
+			<div class="panel panel-default">
+				<div class="panel-heading">ColorBook</div>
+				<div class="panel-body">
+					<p>ColorBook is a Mobile Substrate Tweak that changes the boring facebook blue color.<br></p>
+					<a class="btn btn-xs btn-default" href="depictions/?p=me.pr0crustes.colorbook">More info</a>
+				</div>
+			</div>
+
+		</div>
+
+		<div class="container">
+
+			<div class="panel panel-default">
+				<div class="panel-heading">BetterW</div>
+				<div class="panel-body">
+					<p>BetterW is a Mobile Substrate Tweak that is a bunch of whatsapp features.<br></p>
+					<a class="btn btn-xs btn-default" href="depictions/?p=me.pr0crustes.betterw">More info</a>
+				</div>
+			</div>
+
+		</div>
+
+		<div class="container">
+
+			<div class="panel panel-default">
+				<div class="panel-heading">JustRemove</div>
+				<div class="panel-body">
+					<p>Never again click on "clear" to remove a notification, just slide!<br></p>
+					<a class="btn btn-xs btn-default" href="depictions/?p=me.pr0crustes.justremove">More info</a>
+				</div>
+			</div>
+
+		</div>
+
+	</body>
+
 </html>
