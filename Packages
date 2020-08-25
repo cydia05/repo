@@ -21,7 +21,8 @@ Filename: ./debs/CuteCUT.deb
 Pre-Depends: firmware (>= 12.2), com.linusyang.appinst
 Architecture: iphoneos-arm
 Version: 1.8.10
-Size: 38720782
+Size: 35730924
+Installed-Size: 38720782
 Description: Cute Cut pro For Free.
 Name: CuteCUT
 Author: Malik Mohammed
