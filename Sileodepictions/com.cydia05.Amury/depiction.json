@@ -39,7 +39,7 @@
 				},
 				{
 					"title": "More Package Informations",
-					"action": "https://cydia05.github.io/repo/description.html?id=com.cydia05.Amury",
+					"action": "https://cydia05.github.io/repo/depictions/?p=com.cydia05.Amury",
 					"class": "DepictionTableButtonView"
 				},
 				{
