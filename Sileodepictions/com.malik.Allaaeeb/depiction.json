@@ -8,7 +8,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Latest Free Cutecut Pro App"
+					"markdown": "Dates And Watch Sports Sat tv "
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -19,12 +19,12 @@
 				},
 				{
 					"title": "Version",
-					"text": "1.8.10",
+					"text": "1.5",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "Released",
-					"text": "2020",
+					"text": "2020/08/28",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -62,18 +62,18 @@
 			"tabname": "Changelog",
 			"views": [
 				{
-					"title": "Latest Version",
+					"title": "Remove Adds",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "\t\n\u2022 Full Features",
+					"markdown": "\t\n\u2022 Add Icons",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\"> Updated at 2020/08/15</small>",
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\"> Updated at 2020/08/28</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

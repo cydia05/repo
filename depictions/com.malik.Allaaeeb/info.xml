@@ -1,7 +1,7 @@
 <package>
-	<id>com.malik.cutecut</id>
-	<name>CuteCUT</name>
-	<version>1.8.10</version>
+	<id>com.malik.Allaaeeb</id>
+	<name>Allaaeeb</name>
+	<version>1.5</version>
 	<compatibility>
 		<firmware>
 		    <miniOS>10.0.0</miniOS>
@@ -10,18 +10,18 @@
 			<!-- either unsupported or unconfirmed -->
 		</firmware>
 	</compatibility>
-	<dependencies>preferenceloader</dependencies>
+	<dependencies>libhooker</dependencies>
 	<descriptionlist>
-		<description> useful free app you can download it by free because it purshase in app store!</description>
+		<description> Watching Tv And matchday for many Sports Teams!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>Without CuteCUT</description>
-			<image>without.jpeg</image>
+			<description></description>
+			<image></image>
 		</screenshot>		
 		<screenshot>
-			<description>With CuteCUT</description>
-			<image>with.jpeg</image>
+			<description></description>
+			<imagewith.jpeg</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
@@ -29,6 +29,6 @@
 	</changelog>
 	<links>
 		<name>Source Code</name>
-		<url>https://github.com/mkstaff95/CuteCUT</url>
+		<url>https://github.com/mkstaff95/Allaaeeb</url>
 	</links>
 </package>
