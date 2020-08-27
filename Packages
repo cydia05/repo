@@ -15,7 +15,7 @@ Maintainer: cydia05
 Description: An awesome Mobile Theme!
 
 Package: com.malik.CuteCUT
-Section: Tweaks
+Section: Applications
 Maintainer: MALIK MOHAMMED
 Filename: ./debs/CuteCUT.deb
 Pre-Depends: firmware (>= 12.2), com.linusyang.appinst
@@ -31,13 +31,13 @@ Depiction: https://cydia05.github.io/repo/depictions/?p=com.malik.cutecut
 
 
 Package: com.malik.Allaaeeb
-Section: Tweaks
+Section: Applications
 Maintainer: MALIK MOHAMMED
 Filename: ./debs/Allaaeeb.deb
 Pre-Depends: firmware (>=13.0)
 Architecture: iphoneos-arm
 Version: 1.5
-Size: 7998032
+Size: 7998316
 Description: Open Free bein sport.
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.malik.Allaaeeb/depiction.json
 Name: Allaaeeb
