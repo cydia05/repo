@@ -1,5 +1,5 @@
 a { 
-    color: red; 
+    color: rgb(17, 175, 141); 
 }
 
 .footer {
@@ -20,8 +20,8 @@ a {
 .dark_color {
     font-size: 120%;
     line-height: 1.5;
-    background-color: #1C1C1C;
-    color: #FAFAFA;
+    background-color: #ffffff;
+    color: #535353;
     border: 5px solid rgba(128, 128, 128, 0.7);
 }
 
@@ -38,7 +38,7 @@ a {
 }
 
 .header_color:hover {
-    background-color: rgb(110, 110, 110);
+    background-color: rgb(78, 78, 78);
 }
 
 .content {
@@ -47,7 +47,7 @@ a {
 
 .post {
     padding: 30px;
-    outline: 2px solid white;
+    outline: 2px solid rgb(39, 39, 39);
     outline-offset: -10px;
 }
 
