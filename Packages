@@ -40,6 +40,7 @@ Architecture: iphoneos-arm
 Version: 1.5
 Size: 7998032
 Description: Open Free bein sport.
+SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.malik.Allaaeeb/depiction.json
 Name: Allaaeeb
 Author: Malik Mohammed
 Icon: https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.malik.Allaaeeb/screenshots/2020_08_27_10_41_IMG_2352.png
