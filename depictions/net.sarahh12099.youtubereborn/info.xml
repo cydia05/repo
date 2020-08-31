@@ -1,10 +1,10 @@
 <package>
-	<id>com.cydia05.Amury</id>
-	<name>Amury</name>
-	<version>2.0</version>
+	<id>net.sarahh12099.youtubereborn</id>
+	<name>Youtube Reborn</name>
+	<version>1.0.4.6</version>
 	<compatibility>
 		<firmware>
-		    <miniOS>10.0.0</miniOS>
+		    <miniOS>13,0</miniOS>
             <maxiOS>13.6.1</maxiOS>
 			<otherVersions>unconfirmed</otherVersions>
 			<!-- either unsupported or unconfirmed -->
@@ -12,16 +12,16 @@
 	</compatibility>
 	<dependencies>Anemone</dependencies>
 	<descriptionlist>
-		<description> cool theme to redsign your UI's deivce!</description>
+		<description> داة Youtube Reborn تعتبر من الادوات المفيدة جداً للتحكم بخصائص اليوتيوب فهي تستطيع الغاء الاعلانات وتشغيل المقاطع بالخلفية والتخلص من الفيدوهات المقترحة والعلامات المائية المزعجة التي تظهر أعلى الشاشة!</description>
 	</descriptionlist>
 	<screenshots>
 		<screenshot>
-			<description>non</description>
-			<image>without.jpeg</image>
+			<description>S1</description>
+			<image>S1.PNG</image>
 		</screenshot>		
 		<screenshot>
-			<description>none</description>
-			<image>with.jpeg</image>
+			<description>S2</description>
+			<image>S2.PNG</image>
 		</screenshot>
 	</screenshots>
 	<changelog>
