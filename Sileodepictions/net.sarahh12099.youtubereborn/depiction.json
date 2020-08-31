@@ -26,16 +26,12 @@
 					"screenshots":[
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://featuredpage.getsileo.app/depictionassets/org.coolstar.sileo-screen2.png"
+							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/net.sarahh12099.youtubereborn/screenshots/S1.PNG"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://featuredpage.getsileo.app/depictionassets/org.coolstar.sileo-screen3.png"
+							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/net.sarahh12099.youtubereborn/screenshots/S2.PNG"
 						},
-						{
-							"accessibilityText":"Screenshot",
-							"url":"https://featuredpage.getsileo.app/depictionassets/org.coolstar.sileo-screen5.png"
-						}
 					]
 				},
 			
