@@ -51,6 +51,21 @@
 					"class":"DepictionTableTextView",
 					"text":"Free Package",
 					"title":"License"
+				},
+                                {
+					"class":"DepictionTableTextView",
+					"text":"1.0.4.6",
+					"title":"version"
+				},
+                                {
+					"class":"DepictionTableTextView",
+					"text":"SarahH12099",
+					"title":"Developer"
+				},
+                                {
+					"class":"DepictionTableTextView",
+					"text":"MALIK MOHAMMED",
+					"title":"Maintainer"
 				}
 			]
 		},
@@ -64,6 +79,11 @@
 					"useBoldText":true,
 					"useBottomMargin":false
 				},
+                                 {
+     "class":"DepictionMarkdownView",
+     "markdown":"Support iOS 13,5",
+     "useSpacing":true
+    }
 				
 			]
 		}
