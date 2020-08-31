@@ -47,6 +47,7 @@ Depiction: https://cydia05.github.io/repo/depictions/?p=com.malik.Allaaeeb
 
 Package: net.sarahh12099.youtubereborn
 Section: Tweaks
+Filename: ./debs/Reborn.deb
 Maintainer: MALIK MOHAMMED
 Pre-Depends: firmware (>= 13.0)
 Architecture: iphoneos-arm
