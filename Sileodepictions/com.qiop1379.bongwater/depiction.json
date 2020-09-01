@@ -2,7 +2,7 @@
 	"class":"DepictionTabView",
 	"minVersion":"0.3",
 	"headerImage":"https://pbs.twimg.com/profile_banners/4372426108/1528800797/1500x500",
-        "tintColor": "#8000FF",
+        "tintColor": "#8220FF",
 	"tabs":[
 		{
 			"class":"DepictionStackView",
@@ -66,7 +66,12 @@
 					"class":"DepictionTableTextView",
 					"text":"MALIK MOHAMMED",
 					"title":"Maintainer"
-				}
+				},
+{
+					"title": "Package Depiction",
+					"action": "https://cydia05.github.io/repo/depictions/com.malik.cutecut",
+					"class": "DepictionTableButtonView"
+				},
 			]
 		},
 		{
