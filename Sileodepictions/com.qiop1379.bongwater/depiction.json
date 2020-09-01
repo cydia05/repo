@@ -71,7 +71,7 @@
 					"title": "Package Depiction",
 					"action": "https://cydia05.github.io/repo/depictions/com.malik.cutecut",
 					"class": "DepictionTableButtonView"
-				},
+				}
 			]
 		},
 		{
