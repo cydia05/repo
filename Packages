@@ -76,12 +76,11 @@ Section: Tweaks
 Version: 1.1.2
 Installed-Size: 172
 Size: 19782
-File: 	F:\repo\debs\Bongwater.deb
 MD5:  	62000d767e345f92c9416f3b163187ef
 SHA1:  	43f09cfb62c95ad3790c6654fcd16a43037d979a
 SAH256:	7a3002697c28deac8ed2c123d09f027fae72ffeb0079c39f4db0119cd5f238ca
 SHA384:	a034d5b8812b37d25e2906e2dd2dd2d943d5294a283169041cc04167b5804d2cbeabb5f23fbb31653ae7831c7ffa3c04
 SHA512:	063804ecf9553d8c7addd7745279d78612c94d66c4334da452f3d64bec9e1fce1a4a2bde82684c3e66dc114c5df66ebe70ee2a06c997e9c1683be0b03ee15222
-SileoDepiction: https://github.com/cydia05/repo/blob/gh-pages/Sileodepictions/com.qiop1379.bongwater/depiction.json
+SileoDepiction: https://github.com/cydia05/Sileodepictions/com.qiop1379.bongwater/depiction.json
 Depiction: https://cydia05.github.io/repo/depictions/com.qiop1379.bongwater
 
