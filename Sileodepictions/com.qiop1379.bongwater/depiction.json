@@ -44,8 +44,8 @@
 				},
 				{
 					"class":"DepictionTableTextView",
-					"text":"August 31, 2020",
-					"title":"Updated"
+					"text":"Septamber 1, 2020",
+					"title":"Added"
 				},
 				{
 					"class":"DepictionTableTextView",
@@ -54,12 +54,12 @@
 				},
                                 {
 					"class":"DepictionTableTextView",
-					"text":"1.0.4.6",
-					"title":"version"
+					"text":"1.5",
+					"title":"Version"
 				},
                                 {
 					"class":"DepictionTableTextView",
-					"text":"SarahH12099",
+					"text":"qwertyuiop1379",
 					"title":"Developer"
 				},
                                 {
@@ -75,13 +75,14 @@
 			"views":[
 				{
 					"class":"DepictionSubheaderView",
-					"title":"1.0.4.6",
+					"title":"1.5
+ \n\n NO CHANGES ARE REPORTED",
 					"useBoldText":true,
 					"useBottomMargin":false
 				},
                                  {
      "class":"DepictionMarkdownView",
-     "markdown":"Support iOS 13,5",
+     "markdown":"Support iOS 13.5",
      "useSpacing":true
     }
 				
