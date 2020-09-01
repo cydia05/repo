@@ -63,3 +63,24 @@ SHA384:	f760deb96acf53c017950f5235c9dc78f8ff2cb7b6049419d94a6eb87ec9ce93367f3920
 SHA512:	c2a5b9ec66654baaeca4c8e5895d73dcaa5bd162be680575de23ca5f91670e3b7182beb36a5609976a90b68cd7012e6c57a1d47337fdbed8bc46b6e1d2b3480a
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/net.sarahh12099.youtubereborn/depiction.json
 Depiction: https://cydia05.github.io/repo/depictions/?p=net.sarahh12099.youtubereborn
+
+Package: com.qiop1379.bongwater
+Name: Bongwater
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/Bongwater.deb
+Architecture: iphoneos-arm
+Description: Completely redesign the phone app contacts screen
+Maintainer: Malik Mohammed
+Author: qwertyuiop1379 <thoffman8839@gmail.com>
+Section: Tweaks
+Version: 1.1.2
+Installed-Size: 172
+Size: 19782
+File: 	F:\repo\debs\Bongwater.deb
+MD5:  	62000d767e345f92c9416f3b163187ef
+SHA1:  	43f09cfb62c95ad3790c6654fcd16a43037d979a
+SAH256:	7a3002697c28deac8ed2c123d09f027fae72ffeb0079c39f4db0119cd5f238ca
+SHA384:	a034d5b8812b37d25e2906e2dd2dd2d943d5294a283169041cc04167b5804d2cbeabb5f23fbb31653ae7831c7ffa3c04
+SHA512:	063804ecf9553d8c7addd7745279d78612c94d66c4334da452f3d64bec9e1fce1a4a2bde82684c3e66dc114c5df66ebe70ee2a06c997e9c1683be0b03ee15222
+SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.qiop1379.bongwater/depiction.json
+Depiction: https://cydia05.github.io/repo/depictions/?p=com.qiop1379.bongwater
