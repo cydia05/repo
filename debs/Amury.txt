@@ -1,0 +1,17 @@
+SubiSoft ComputeHash 4.4
+
+
+File: 	F:\repo\debs\Amury.deb
+
+MD5:  	2bac336f346ef182b52147f496a6f27f
+
+SHA1:  	7cee6d1caeb135bac0a53af5bd6c9b89b46c5b53
+
+SAH256:	a69c57600ecfc13b958ea66c39c98c34f29fdc90b57d57f72e2a9a7fba66cac4
+
+SHA384:	b19f0cc0866c3b97e7a629cac8d2b5d1edc4d3f504745147fb3a9923803cd994138116cbb605d63f7656516aa952dca5
+
+SHA512:	c675eab4009479f2daff3ce49b4370b4ca14035b5d0cb22dfa8828cb29c3e809e76633dd53e024dd2fa12889a47e433b2df29d41019142df086d5fec1eaf6a33
+
+
+www.subisoft.net
