@@ -1,11 +1,12 @@
 
 body{
 background-color: #353434;
-padding:5px 5px 5px 5px;
+padding:5px 15px 5px 15px;
 
 }
 div.container{
     margin-top: -1px;
+
 
 }
 .container a{
@@ -51,6 +52,7 @@ h3{
 padding-bottom: 10px;
 padding-top: 10px;
     color: white;
+    text-align: center;
   
 }
 div{
