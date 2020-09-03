@@ -23,7 +23,14 @@ div.container{
 .header_color h3{
     color: #ffffff;
 }
+ .container p{
 
+    margin-top: -20px;
+
+ }
+ div a.btn[
+margin-top:-100px
+ ]
 .header_color:hover {
     background-color: rgb(37, 37, 37);
 }
@@ -42,6 +49,7 @@ color: white;
 }
 .btn-default{
     border-radius: 7px;
+    
 }
 .page-header{
 
@@ -81,13 +89,14 @@ div .Amury{
  }
  p{
      padding:10px;
-     margin-right: 60px;
+    margin-bottom: -17px;
      color: white;
+     padding-top:10px;
  }
  a {
 margin-top: -20px;
 margin-left: 10px;
  }
- a.btn-xs.btn-default{
+   a.btn-xs.btn-default{
     margin-bottom:-85px;
  }
