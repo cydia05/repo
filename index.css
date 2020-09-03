@@ -1,15 +1,21 @@
 
+html{margin:10px;}
+
 body{
 background-color: #000000;
-padding:5px 15px 5px 15px;
-
+margin: auto
 }
 div.container{
-    margin-top: -1px;
+    
     background-color: rgb(37, 37, 37)l;
-
+   margin:auto ;
+margin-top:10px
 
 }
+a.btn.btn-sm.btn-defaul{
+   margin-top:100px
+   marign-right:100px
+    }
 .container a{
     margin-bottom: 5px;
 }
@@ -26,13 +32,19 @@ div.container{
  .container p{
 
     margin-top: -20px;
-
  }
  div a.btn[
-margin-top:-100px
+
  ]
 .header_color:hover {
     background-color: rgb(37, 37, 37);
+}
+div.btn{
+    background-color: rgb(255, 255, 255);
+    text-align:center;
+    width: 100px;
+    margin-top: 200px;
+  margin-bottom:1px;
 }
 .well{
 border-radius: 5px;
@@ -62,6 +74,7 @@ padding-bottom: 5px;
 padding-top: 5px;
     color: white;
     text-align: center;
+    margin-left:-11px;
   
 }
 div{
@@ -86,12 +99,17 @@ div .Amury{
      margin-top:-70px;
      padding-right: 10px;
      background:rgb(59, 59, 59);
+     margin-righ;t:10px
+     margin:auto
  }
  p{
-     padding:10px;
-    margin-bottom: -17px;
+     padding:auto;
+ margin-bottom: -10px;
      color: white;
      padding-top:10px;
+   align-items: center;
+  margin-left:10px;
+     
  }
  a {
 margin-top: -20px;
@@ -100,3 +118,9 @@ margin-left: 10px;
    a.btn-xs.btn-default{
     margin-bottom:-85px;
  }
+.btn.btn-sm.btn-default{
+    margin: auto;
+    margin-bottom:10px;
+    margin-top:10px
+
+}
