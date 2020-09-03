@@ -13,6 +13,11 @@ div.container{
 margin-top:10px
 
 }
+h4{
+padding:10px;
+ color: white ; 
+ text-align: center; 
+}
 a.btn.btn-sm.btn-defaul{
    margin-top:100px
    marign-right:100px
@@ -74,7 +79,7 @@ h3{
 padding-bottom: 5px;
 padding-top: 5px;
     color: white;
-    text-align: center;
+    text-align:center;
     margin-left:-11px;
   
 }
