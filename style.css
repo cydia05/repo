@@ -1,10 +1,18 @@
-
+@media (min-device-widt :32px)
+and (max-device-width: 480px){
+  body{
+    background-color: #000000 ;
+    align-items: center;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 25px;
+    justify-content: center;
+  }
+}
 body{
-  background-color: #000;
+  background-color: #000000 ;
   align-items: center;
   font-family: 'Roboto', sans-serif;
   margin-bottom: 25px;
-  max-width: 300px;
   justify-content: center;
 }
 
