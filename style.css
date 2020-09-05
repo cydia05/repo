@@ -1,0 +1,146 @@
+
+html{
+    background-color: #000;
+align-items: center;
+    display: flex;
+    justify-content: center;
+}
+body{
+  font-family: 'Roboto', sans-serif;
+  width: 720px;
+  margin-bottom: 15px;
+}
+
+h3.cydiatitle{
+  background: rgb(40,40,40);
+  color: white;
+border-radius: 5px;
+display: inline-block;
+margin: block;
+padding: 10px;
+ 
+}
+
+
+
+div.kpp{
+  background-color: rgb(40, 40, 40);
+  text-align-last: center;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 40px;
+
+  
+}
+
+h3.buttond{
+    color: rgb(255, 255, 255);
+text-align-last: center;
+margin: auto;
+padding: 5px;
+}
+
+.button {
+    background-color: gainsboro; 
+    color: rgb(12, 138, 85);
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    border-radius:6px;
+    border-color: #12c08c;
+    -webkit-transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+  align-items: center;
+  box-decoration-break: unset;
+  }
+  
+
+  .button5:hover {
+    background-color: #12c08c;
+    color: white;
+  }`
+
+
+div.tweaks{
+    text-align-last: center;
+    }
+   
+    
+
+h3.tweaks{
+padding: 10px;
+background: rgb(40,40,40);
+color: white;
+display: inline-block;
+text-align-last: center;
+border-radius: 5px;
+}
+
+
+
+main.description{
+  background: rgb(40,40,40);
+margin:auto;
+padding: 10px;
+padding-bottom: 55px;
+  border-radius: 5px;
+    }
+
+
+
+    p.description{
+text-align: left;
+ background-color:rgb(70,70,70);
+border-radius: 5px;
+padding: 10px;
+margin: 5px;
+color:white;  
+    }
+    main.btn{
+     transform:translatey(-54px);
+  
+     margin-left: 10px;
+    }
+
+
+    button.description{
+      background-color: gainsboro; 
+      color: rgb(12, 138, 85);
+      padding: 5px 10px;
+      text-align: center;
+      text-decoration: none;
+      display: inline-block;
+      font-size: 16px;
+      margin: 5px;
+      font-family: 'Roboto', sans-serif;
+      cursor: pointer;
+      border-radius:6px;
+      border-color: #12c08c;
+      -webkit-transition-duration: 0.4s;
+      box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+      transition-duration: 0.4s;
+    box-decoration-break: unset;
+    }
+    h2.nametool{
+background-color:rgb(70,70,70);
+align-items:center;
+display: inline-block;
+padding: 5px;
+margin: 5px;
+border-radius: 5px;
+      color: white;
+    }
+ 
+#mylicense{
+margin: auto;
+justify-items: center;
+  color: aliceblue;
+  padding: 10px;
+  text-align-last: center;
+}
