@@ -1,6 +1,8 @@
 
 html{
-    margin:20px;}
+    margin:20px;
+    padding-bottom:100px ;
+}
 
 body{
 background-color: #000000;
@@ -22,6 +24,7 @@ a.btn.btn-sm.btn-defaul{
    margin-top:100px
    marign-right:100px
     }
+   
 .container a{
     margin-bottom: 5px;
 }
