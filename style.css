@@ -4,6 +4,8 @@ body{
   align-items: center;
   font-family: 'Roboto', sans-serif;
   margin-bottom: 25px;
+  max-width: 300px;
+  justify-content: center;
 }
 
 h3.cydiatitle{
