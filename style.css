@@ -2,10 +2,7 @@
 and (max-device-width: 480px){
   body{
     background-color: #000000 ;
-    align-items: center;
-    font-family: 'Roboto', sans-serif;
-    margin-bottom: 25px;
-    justify-content: center;
+    width: 100%;
   }
 }
 body{
