@@ -99,7 +99,7 @@ Pre-Depends: firmware (>=11.0)
 Filename: ./debs/Cinemana.deb
 Architecture: iphoneos-arm
 Version: 3.1.5
-Size: 11524756
+Size: 11524772 
 Installed-Size: 61027
 Description: Enjoy movies and series on the Cinemana app provided by Earthlink Internet.
 Name: Cinemana
