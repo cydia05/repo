@@ -8,7 +8,7 @@ SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.cydia05.Amury
 Depiction: https://cydia05.github.io/repo/depictions/com.cydia05.Amury
 Depends: firmware (>= 10.0)
 Size: 568477
-Installed-Size: 1173900
+Installed-Size: 1173
 Icon: https://raw.githubusercontent.com/cydia05/repo/gh-pages/CydiaIcon.png
 Author: cydia05
 Maintainer: cydia05
@@ -100,7 +100,7 @@ Filename: ./debs/Cinemana.deb
 Architecture: iphoneos-arm
 Version: 3.1.5
 Size: 11524756
-Installed-Size: 61027123
+Installed-Size: 61027
 Description: Enjoy movies and series on the Cinemana app provided by Earthlink Internet.
 Name: Cinemana
 Author: Earthlink
