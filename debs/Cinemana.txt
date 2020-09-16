@@ -1,0 +1,17 @@
+SubiSoft ComputeHash 4.4
+
+
+File: 	F:\repo\debs\Cinemana.deb
+
+MD5:  	d645ce74b01d58003480dbb18cf4e770
+
+SHA1:  	edfc91457854c4271f9599a123dc5ac34dd5d598
+
+SAH256:	5510bcc6eec9757be1a6c41af22b736380f13e59aff8441a4e6de7c8dce0fa67
+
+SHA384:	13998bd1bb0991796d6ed0647af6b8d4cea027e72546ca63effa507558140a822b8b38d186ff612904478be40fb63ddd
+
+SHA512:	1abd51acf4b2665247f7bb6ad6ad0d3a04b7138df4b108bc7eeabedeea8f6f012ce813cf5db16681c1676b02c494194aebe5e5d50815cf9139aa8c1cab33a87f
+
+
+www.subisoft.net
