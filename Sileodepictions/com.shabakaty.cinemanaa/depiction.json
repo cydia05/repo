@@ -2,7 +2,7 @@
 	"class":"DepictionTabView",
 	"minVersion":"0.3",
 	"headerImage":"https://pbs.twimg.com/profile_banners/4372426108/1528800797/1500x500",
-        "tintColor": "#8220FF",
+        "tintColor": "#bf0200",
 	"tabs":[
 		{
 			"class":"DepictionStackView",
@@ -84,7 +84,7 @@
 			"views":[
 				{
 					"class":"DepictionSubheaderView",
-					"title":"1.5 \n\n NO CHANGES ARE REPORTED",
+					"title":"NO CHANGES ARE REPORTED",
 					"useBoldText":true,
 					"useBottomMargin":false
 				}
