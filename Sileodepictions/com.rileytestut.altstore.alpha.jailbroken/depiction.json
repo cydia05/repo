@@ -1,0 +1,95 @@
+{
+	"class":"DepictionTabView",
+	"minVersion":"0.3",
+	"headerImage":"https://pbs.twimg.com/profile_banners/4372426108/1528800797/1500x500",
+        "tintColor": "#2c8188",
+	"tabs":[
+		{
+			"class":"DepictionStackView",
+			"tabname":"Details",
+			"views":[
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":" Jailbroken version of AltStore with on device signing feauture.",
+					"useSpacing":true
+				},
+				
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"#### Supports and Screenshots \n\n Supports iOS 12.2 and up.",
+					"useSpacing":true
+				},
+				{
+					"class":"DepictionScreenshotsView",
+					"itemCornerRadius":12.8,
+					"itemSize":"{160, 346}",
+					"screenshots":[
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.rileytestut.altstore.alpha.jailbroken/screenshots/S1.jpg"
+						},
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.rileytestut.altstore.alpha.jailbroken/screenshots/S2.jpg"
+						},
+{
+							"accessibilityText":"Screenshot",
+							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.rileytestut.altstore.alpha.jailbroken/screenshots/S3.jpg"
+						},
+					]
+				},
+			
+				{
+					"class":"DepictionSeparatorView"
+				},
+				{
+					"class":"DepictionHeaderView",
+					"title":"Information"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"Septamber 17, 2020",
+					"title":"Added"
+				},
+				{
+					"class":"DepictionTableTextView",
+					"text":"Free Package",
+					"title":"License"
+				},
+                                {
+					"class":"DepictionTableTextView",
+					"text":"1.4a12",
+					"title":"Version"
+				},
+                                {
+					"class":"DepictionTableTextView",
+					"text":"Riley Testut",
+					"title":"Developer"
+				},
+                                {
+					"class":"DepictionTableTextView",
+					"text":"MALIK MOHAMMED",
+					"title":"Maintainer"
+				},
+{
+					"title": "Package Depiction",
+					"action": "https://cydia05.github.io/repo/depictions/com.rileytestut.altstore.alpha.jailbroken",
+					"class": "DepictionTableButtonView"
+				}
+			]
+		},
+		{
+			"class":"DepictionStackView",
+			"tabname":"Changelog",
+			"views":[
+				{
+					"class":"DepictionSubheaderView",
+					"title":"iOS 14 support \n\n Add homescreen widget",
+					"useBoldText":true,
+					"useBottomMargin":false
+				}
+				
+			]
+		}
+	]
+}

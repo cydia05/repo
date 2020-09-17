@@ -113,7 +113,24 @@ SAH256:	0a57192b507cc41e2733e94d615e2af6be99c2adbba4cfbfc2a2c3970b76fe86
 SHA384:	cac56bd130c59a65c825ff0d7254116b1c089b8b27451bce35131f77630237030a88c367493a29f06fef4d6982797691
 SHA512:	6abf147d763ef4c3385c52d391424b4ae6bef6eaa98b55b409f47d0a60917e35b7a9d452aa598729aa639fb96d3f9b3e342c46c5a161d51a66760a57d95f82d0
 
-
-
-
+Package: com.rileytestut.altstore.alpha.jailbroken
+Section: Tweaks
+Maintainer: Riley Testut
+Pre-Depends: firmware (>= 12.2), com.linusyang.appinst
+Depends: com.rileytestut.altdaemon
+Architecture: iphoneos-arm
+Filename: ./debs/Altstore.deb
+Version: 1.4a12
+Size: 5329256 
+Description: Jailbroken version of AltStore with on device signing feauture.
+Name: AltStore (ALPHA)
+Author: Riley Testut
+Icon: https://cydia05.github.io/repo/screenshots/Altstore.png
+SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.rileytestut.altstore.alpha.jailbroken/depiction.json
+Depiction: https://cydia05.github.io/repo/depictions/com.rileytestut.altstore.alpha.jailbroken
+MD5:  	fad5d9c4b73a5ad62dc0bf332a907124
+SHA1:  	c07c5800d9c8524e426b7a7cddc4180c655b738d
+SAH256:	fd43c627c2ba0554758b743c3c8fa405dbbb6dae3c0cf563ba98e9bcff633849
+SHA384:	a31a82e091206906ee33237e1ace55dcf2606f43265a7f89f91a0df2e14424c9bd8858a392f7fb3777fc0d2e7abe72df
+SHA512:	bdd8cb2ef1b3deffdd4ef279c5ac89295abc1340f17f634e8930ff0415922ad86af6ed71ca1624c97b40427a6c95de2d6fa4db4272a210cc281fa1a3526e33a9
 
