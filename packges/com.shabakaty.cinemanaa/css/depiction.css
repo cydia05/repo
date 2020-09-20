@@ -189,6 +189,7 @@
     right: 20px;
 }
 
+
 /*Header Pill Selector (Details/Changelog)*/
 .headerPillSelector {
     background-color: var(--bg-color);
@@ -664,3 +665,13 @@ a {
     width: 100%;
     text-align: center;
 }
+.Repo {margin:auto;text-align:center;color:#777}
+.Logo {height:32px;width:32px;display:inline;
+}
+#logotext{
+align-items: center;
+    text-align: center;
+    padding: 0;
+    margin: auto;
+  
+} 
