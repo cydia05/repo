@@ -665,8 +665,13 @@ a {
     width: 100%;
     text-align: center;
 }
-.Repo {margin:auto;text-align:center;color:#777}
-.Logo {height:32px;width:32px;display:inline;
+.Repologo {
+    margin:auto;
+    text-align:center;
+    color:#777}
+.Logostyle {height:32px;
+    width:32px;
+    display:inline;
 }
 #logotext{
 align-items: center;
