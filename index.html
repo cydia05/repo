@@ -1,85 +1,116 @@
+<!DOCTYPE html> 
+<html>
+    <head>
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700" rel="stylesheet">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title id="websiteTitle">Depiction</title>
+        <link id="websiteIcon" rel="icon">
+        <link rel="stylesheet" href="global.css">
+        <link rel="stylesheet" href="depiction.css">
+    </head>
+    <body>
 
-<!DOCTYPE html>
-<html lang="en"></html>
-<head>
-    <meta charset="UTF-8">
-    <meta data-n-head="ssr" name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
-    <meta data-n-head="ssr" data-hid="mobile-web-app-capable" name="mobile-web-app-capable" content="yes">
-    <meta data-n-head="ssr" data-hid="apple-mobile-web-app-capable" name="apple-mobile-web-app-capable" content="yes">
-    <meta data-n-head="ssr" data-hid="apple-mobile-web-app-status-bar-style" name="apple-mobile-web-app-status-bar-style" content="default">
-    <meta data-n-head="ssr" data-hid="apple-mobile-web-app-title" name="apple-mobile-web-app-title" content="">
-    <title>Cydia05 Repository</title>
-    <link rel="stylesheet" href="style.css">
-    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap" rel="stylesheet">
-    <link rel="icon" href="https://cydia05.github.io/repo/CydiaIcon.png">
+        <div id="overlayPopup">
+            <div class="doneButton" onclick="hideOverlayPopup()">Done</div>
+            <div id="aboutInfo">
+                <h1 style="font-size: 24pt; margin-top: 0">About</h1>
+                <h2 style="font-size: 16pt">Sileo Depiction WebView</h2>
+                <h4>Generate Websites using Sileo Depiction Files!</h4>
+                <p>This project was created and maintained by PINPAL.</p>
+                <p>If you found a bug or issue, or simply want to contact me you can do so here:</p>
+                <a href="https://twitter.com/TPinpal" class="socialLink" 
+                style="background-image: url('https://pinpal.github.io/assets/social-icons/Discord.png')">
+                    <p>Twitter<br><span>@TPINPAL</span></p>
+                </a>
+                <a href="https://discordapp.com/channels/@me" class="socialLink" 
+                style="background-image: url('https://pinpal.github.io/assets/social-icons/Twitter.png')">
+                    <p>Discord<br><span>PINPAL#2591</span></p>
+                </a>
+                <a href="https://www.reddit.com/user/THE_PINPAL614" class="socialLink" 
+                style="background-image: url('https://pinpal.github.io/assets/social-icons/Reddit.png')">
+                    <p>Reddit<br><span>PINPAL</span></p>
+                </a>
+                <a href="https://github.com/PINPAL/" class="socialLink"
+                style="background-image: url('https://pinpal.github.io/assets/social-icons/Github.png')">
+                    <p>Github<br><span>PINPAL</span></p>
+                </a>
+            </div>
+            <div id="configureSettings">
+                <h1>Settings</h1>
+                <p class="settingsCapsText">Display</p>
+                <div class="settingsTableArray">
+                    <div class="settingsTableCell">
+                        Dark Mode
+                        <div class="toggleSwitch" id="enableDarkMode" onclick="toggleSetting(this)">
+                            <div class="toggleSwitchKnob"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="overlayPopupContent"></div>
+         </div>
+
+        <div id="modifyPopup">
+            <div class="popupButtonWrapper">
+                <div class="popupButton" onClick="displayOverlayPopup(this)">About</div>
+                <div class="popupButton" onClick="sharePackage()">Share Package</div>
+                <div class="popupButton" onClick="displayOverlayPopup(this)">Configure</div>
+                <div class="popupButton" onclick="hidePopup()">Cancel</div>
+            </div>
+        </div>
+
+        <div id="everythingWrapper">
+            <div id="bannerWrapper">
+                <div id="bannerImage"></div>
+                <div id="bannerNavItems">
+                    <div class="leftNavButton">
+                        <a class="backURL" style="color: white">
+                            <div class="backArrow"></div>Back
+                        </a>
+                    </div>
+                    <div class="rightNavButton">
+                        <div class="modifyButton"></div>
+                    </div>
+                </div>
+            </div>
     
-</head>
-<body>
+            <div class="navbar">
+                <div class="leftNavButton">
+                    <a class="backURL">
+                        <div class="backArrow"></div>Back
+                    </a>
+                </div>
+                <div class="changedNavbarItems">
+                    <div id="navbarTweakIcon"></div>
+                    <div class="rightNavButton">
+                        <div class="priceButton" onclick="modifyButton()">Free</div>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="contentWrapper">
+                <div class="headerSection">
+                    <div id="tweakIcon"></div>
+                    <h1 id="tweakName"></h1>
+                    <h4 id="developerName"></h4>
+                    <div class="priceButton">Free</div>
+                </div>
+                <div class="headerPillSelector">
+                    <div class="pillSelectorLine"></div>
+                </div>
+                <div id="mainWrapper">
+                        <div id="reloadingRepoWrapper">
+                            <img src="https://pinpal.github.io/Sileo-Depiction-WebViews/assets/loading.gif">
+                            <div id="reloadingRepoText">Fetching Sileo Depiction</div>
+                        </div>
+                </div>
+            </div>
+        </div>
 
-  <div class="cydiatitle">
-    <h3 class="cydiatitle">Cydia05 repository</h3>
-  </div>
- <div class="kpp"> <h3 class="buttond">You can add my repo to Cydia or Sileo</h3>
-  <a id="astylebottom" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://Cydia05.github.io/repo/"><button class="button button5">Add to</button></a>
-</div>
-<div class="tweaks">
-  <h3 class="tweaks">More Packages featured</h3>
-</div>
-
-
-<main class="description">
-  <h2 class="nametool">Amury</h2>
-    <P class="description">Awesome springboard Theme.</P>
-</main>
-<main class="btn"><a id="description" href="packges/"><button class="description button5">More info</button></a></main>
-
-
-<main class="description">
-  <h2 class="nametool">Cutecut Pro</h2>
-    <P class="description">Now, you can DRAW movies, AND you can draw ON movies! Cute CUT’s powerful, easy-to-use editing features put YOU in control, allowing you to make the highest quality movies.</P>
-</main>
-<main class="btn"><a id="description" href="packges/"><button class="description button5">More info</button></a></main>
-
-
-<main class="description">
-  <h2 class="nametool">Bongwater</h2>
-    <P class="description">Add call and messege Button  beside Call contacts Names .</P>
-</main>
-<main class="btn"><a id="description" href="packges/com.qiop1379.bongwater/"><button class="description button5">More info</button></a></main>
-
-
-
-<main class="description">
-  <h2 class="nametool">Allaaeeb</h2>
-    <P class="description"> A cool Application Show Live tv sports and movies also Matches time.</P>
-</main>
-<main class="btn"><a id="description" href="packges/com.malik.Allaaeeb"><button class="description button5">More info</button></a></main>
-
-<main class="description">
-  <h2 class="nametool">Youtube Reborn </h2>
-    <P class="description">Youtube Customization.<br>
-      -Remove Ads from Vieos	<br>
-       -Remove stores <br>
-       -Play in background <br>
-       -Disable any tap from buttom bar. <br>
-       -Disable any tap from overlay <br>
-       -Disable any Youtube feature .</P>
-</main>
-<main class="btn"><a id="description" href="depictions/net.sarahh12099.youtubereborn"><button class="description button5">More info</button></a></main>
-
-<main class="description">
-  <h2 class="nametool">Cinemana </h2>
-    <P class="description">Enjoy movies and series on the Cinemana app provided by Earthlink Internet.</P>
-</main>
-<main class="btn"><a id="description" href="packges/com.shabakaty.cinemanaa/"><button class="description button5">More info</button></a></main>
-
-
-<main class="description">
-  <h2 class="nametool">Altstore </h2>
-    <P class="description">Jailbroken version of AltStore with on device signing feauture.</P>
-</main>
-<main class="btn"><a id="description" href="packges/com.rileytestut.altstore.alpha.jailbroken/"><button class="description button5">More info</button></a></main>
-
-<footer id="mylicense"> <p>Copyrights all rights reserved Cydia05 repository ©2020Malik Mohammed</p> </footer>
-</body>
+        <script src="global.js"></script>
+        <script src="packageIconHandler.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/showdown"></script>
+        <script src="viewHandler.js"></script>
+        <script src="depiction.js"></script> 
+    </body>
 </html>
