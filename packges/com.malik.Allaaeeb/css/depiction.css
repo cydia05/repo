@@ -110,8 +110,8 @@
     min-height: 20px;
     background-color: #2CB1BE; /*fallback for IE*/
     background-color: var(--tint-color);
-    mask-image: url("https://cydia05.github.io/repo/packges/com.rileytestut.altstore.alpha.jailbroken/webview/assets/back.png");
-    -webkit-mask-image: url("https://cydia05.github.io/repo/packges/com.rileytestut.altstore.alpha.jailbroken/webview/assets/back.png");
+    mask-image: url("https://cydia05.github.io/repo/assets/back.png");
+    -webkit-mask-image: url("https://cydia05.github.io/repo/assets/back.png");
     mask-mode: alpha;
     -webkit-mask-mode: alpha;
     mask-size: cover;
@@ -127,7 +127,7 @@
     position: absolute;
     min-width: 25px;
     min-height: 25px;
-    background-image: url("https://cydia05.github.io/repo/packges/com.rileytestut.altstore.alpha.jailbroken/webview/assets/modify.png");
+    background-image: url("https://cydia05.github.io/repo/assets/modify.png");
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -188,6 +188,7 @@
     transform: translateY(-50%);
     right: 20px;
 }
+
 
 /*Header Pill Selector (Details/Changelog)*/
 .headerPillSelector {
@@ -313,7 +314,7 @@ a {
 /*Generic Error View*/
 #unsupportedView {
     font-size: 10pt;
-    background-image: url(https://cydia05.github.io/repo/packges/com.rileytestut.altstore.alpha.jailbroken/webview/assets/error.png);
+    background-image: url(https://cydia05.github.io/repo/assets/error.png);
     background-size: contain;
     background-repeat: no-repeat;
     background-position: 10px center;
@@ -374,8 +375,8 @@ a {
     min-height: 16px;
     background-color: #2CB1BE; /*fallback for IE*/
     background-color: var(--tint-color);
-    mask-image: url("https://cydia05.github.io/repo/packges/com.rileytestut.altstore.alpha.jailbroken/webview/assets/back.png");
-    -webkit-mask-image: url("https://cydia05.github.io/repo/packges/com.rileytestut.altstore.alpha.jailbroken/webview/assets/back.png");
+    mask-image: url("https://cydia05.github.io/repo/assets/back.png");
+    -webkit-mask-image: url("https://cydia05.github.io/repo/assets/back.png");
     mask-mode: alpha;
     -webkit-mask-mode: alpha;
     mask-size: cover;
@@ -664,3 +665,42 @@ a {
     width: 100%;
     text-align: center;
 }
+.Repologo {
+    margin:auto;
+    text-align:center;
+    color:#777}
+.Logostyle {height:32px;
+    width:32px;
+    display:inline;
+}
+#logotext{
+align-items: center;
+    text-align: center;
+    padding: 0;
+    margin: auto;
+  
+} .priceButton {
+    background-color: #c01212; 
+    color:;
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 5px;
+    cursor: pointer;
+    font-family: 'Roboto', sans-serif;
+    border-radius:20px;
+    border-color: #12c08c;
+    -webkit-transition-duration: 0.4s;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    transition-duration: 0.4s;
+  align-items: center;
+  box-decoration-break: unset;
+}
+  
+
+  .button5:hover {
+    background-color: #12c08c;
+    color: white;
+  }`

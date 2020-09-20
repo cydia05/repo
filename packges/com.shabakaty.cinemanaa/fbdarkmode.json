@@ -1,0 +1,104 @@
+{
+    "minVersion": "0.1",
+    "tintColor": "#7887f7",
+    "tabs": [
+    {
+        "tabname": "Details",
+        "views": [
+        {
+            "title": "Enable hidden dark mode in Facebook!",
+            "useBoldText": true,
+            "useBottomMargin": false,
+            "class": "DepictionSubheaderView"
+        },
+        {
+            "markdown": "If it's white on first launch, go to settings section, and there you will find \"Dark Mode\" section",
+            "useSpacing": true,
+            "class": "DepictionMarkdownView"
+        },
+        {
+            "itemCornerRadius": 6,
+            "itemSize": "{160, 346.4533333333333}",
+            "screenshots": [
+            {
+                "accessibilityText": "Screenshot",
+                "url": "https://repo.p0358.net/screenshots/fbdarkmode/1.png",
+                "fullSizeURL": "https://repo.p0358.net/screenshots/fbdarkmode/1.png"
+            },
+            {
+                "accessibilityText": "Screenshot",
+                "url": "https://repo.p0358.net/screenshots/fbdarkmode/2.png",
+                "fullSizeURL": "https://repo.p0358.net/screenshots/fbdarkmode/2.png"
+            }
+            ],
+            "class": "DepictionScreenshotsView"
+        },
+        {
+            "class": "DepictionSeparatorView"
+        },
+        {
+            "title": "Latest version",
+            "class": "DepictionHeaderView"
+        },
+        {
+            "title": "Version",
+            "text": "1.0.1",
+            "class": "DepictionTableTextView"
+        },
+        {
+            "title": "Released",
+            "text": "2020-06-09",
+            "class": "DepictionTableTextView"
+        },
+        {
+            "title": "Price",
+            "text": "Free",
+            "class": "DepictionTableTextView"
+        }
+        ],
+        "class": "DepictionStackView"
+    },
+    {
+        "tabname": "Changelog",
+        "views": [
+        {
+            "title": "Version 1.0.1",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+        },
+        {
+            "markdown": "- hotfix for a little oversight, should work now if it didn't work for you before!",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+        },
+        {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2020-06-09</small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+        },
+        {
+            "class": "DepictionSeparatorView"
+        },
+        {
+            "title": "Version 1.0.0",
+            "useBoldText": true,
+            "useBottomMargin": true,
+            "class": "DepictionSubheaderView"
+        },
+        {
+            "markdown": "First version.",
+            "useSpacing": false,
+            "class": "DepictionMarkdownView"
+        },
+        {
+            "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2020-06-09</small>",
+            "useRawFormat": true,
+            "class": "DepictionMarkdownView"
+        }
+        ],
+        "class": "DepictionStackView"
+    }
+    ],
+    "class": "DepictionTabView"
+}
