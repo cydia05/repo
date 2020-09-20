@@ -8,6 +8,7 @@ html {
     --light-text-color: #8F8E94;
     --medium-text-color: #958E80;
     scroll-behavior: smooth;
+    display:inline-block;
 }
 .darkMode {
     --bg-color: #282828;
