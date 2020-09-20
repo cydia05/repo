@@ -111,7 +111,7 @@
     background-color: #2CB1BE; /*fallback for IE*/
     background-color: var(--tint-color);
     mask-image: url("https://cydia05.github.io/repo/assets/back.png");
-    -webkit-mask-image: url("https://cydia05.github.io/assets/back.png");
+    -webkit-mask-image: url("https://cydia05.github.io/repo/assets/back.png");
     mask-mode: alpha;
     -webkit-mask-mode: alpha;
     mask-size: cover;
