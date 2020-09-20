@@ -7,8 +7,8 @@ Architecture: iphoneos-arm
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.cydia05.Amury/depiction.json
 Depiction: https://cydia05.github.io/repo/depictions/com.cydia05.Amury
 Depends: firmware (>= 10.0)
-Size: 568477
-Installed-Size: 1173
+Size: 5684770
+Installed-Size: 11730
 Icon: Icon: https://cydia05.github.io/repo/icon/Cydiaicon.png
 Author: cydia05
 Maintainer: cydia05
