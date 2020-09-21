@@ -1,6 +1,6 @@
 {
 	"class":"DepictionTabView",
-	"minVersion":"0.3",
+	"minVersion":"0.1",
 	"headerImage":"https://pbs.twimg.com/profile_banners/4372426108/1528800797/1500x500",
         "tintColor": "#bf0200",
 	"tabs":[
