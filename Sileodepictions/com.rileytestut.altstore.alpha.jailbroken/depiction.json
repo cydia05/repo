@@ -3,40 +3,6 @@
 	"headerImage": "https://pbs.twimg.com/profile_banners/4372426108/1528800797/1500x500",
 	"tintColor": "#ffae8e",
 	"tabs": [
-{
-			"class":"DepictionStackView",
-			"tabname":"Details",
-			"views":[
-				{
-					"class":"DepictionMarkdownView",
-					"markdown":"Enjoy movies and series on the Cinemana app provided by Earthlink Internet",
-					"useSpacing":true
-				},
-				
-				{
-					"class":"DepictionMarkdownView",
-					"markdown":"#### Supports and Screenshots \n\n Supports all Versions.",
-					"useSpacing":true
-				},
-				{
-					"class":"DepictionScreenshotsView",
-					"itemCornerRadius":12.8,
-					"itemSize":"{160, 346}",
-					"screenshots":[
-						{
-							"accessibilityText":"Screenshot",
-							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S1.jpg"
-						},
-						{
-							"accessibilityText":"Screenshot",
-							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S2.jpg"
-						},
-{
-							"accessibilityText":"Screenshot",
-							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S3.jpg"
-						},
-					]
-				},
 		{
 			"tabname": "Details",
 			"views": [
