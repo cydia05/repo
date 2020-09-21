@@ -71,6 +71,11 @@
           "class": "DepictionHeaderView"
         },
         {
+          "title": "Developer",
+          "text": "Dynastic",
+          "class": "DepictionTableTextView"
+        },
+        {
           "title": "Version",
           "text": "1.0.14",
           "class": "DepictionTableTextView"
@@ -97,11 +102,7 @@
           "spacing": 12,
           "class": "DepictionSpacerView"
         },
-        {
-          "title": "Developer",
-          "text": "Dynastic",
-          "class": "DepictionTableTextView"
-        },
+     
         {
           "title": "Contact Support",
           "action": "depiction-https://repo.dynastic.co/sileo-depiction/68292503631036416/support",
