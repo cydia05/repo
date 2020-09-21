@@ -1,22 +1,21 @@
 {
-	"class":"DepictionTabView",
-	"minVersion":"0.3",
-	"headerImage":"https://pbs.twimg.com/profile_banners/4372426108/1528800797/1500x500",
-        "tintColor": "#2c8188",
-	"tabs":[
-		{
+	"minVersion": "0.1",
+	"headerImage": "https://pbs.twimg.com/profile_banners/4372426108/1528800797/1500x500",
+	"tintColor": "#ffae8e",
+	"tabs": [
+{
 			"class":"DepictionStackView",
 			"tabname":"Details",
 			"views":[
 				{
 					"class":"DepictionMarkdownView",
-					"markdown":" Jailbroken version of AltStore with on device signing feauture.",
+					"markdown":"Enjoy movies and series on the Cinemana app provided by Earthlink Internet",
 					"useSpacing":true
 				},
 				
 				{
 					"class":"DepictionMarkdownView",
-					"markdown":"#### Supports and Screenshots \n\n Supports iOS 12.2 and up.",
+					"markdown":"#### Supports and Screenshots \n\n Supports all Versions.",
 					"useSpacing":true
 				},
 				{
@@ -26,70 +25,95 @@
 					"screenshots":[
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.rileytestut.altstore.alpha.jailbroken/screenshots/S1.jpg"
+							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S1.jpg"
 						},
 						{
 							"accessibilityText":"Screenshot",
-							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.rileytestut.altstore.alpha.jailbroken/screenshots/S2.jpg"
+							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S2.jpg"
 						},
 {
 							"accessibilityText":"Screenshot",
-							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.rileytestut.altstore.alpha.jailbroken/screenshots/S3.jpg"
+							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S3.jpg"
 						},
 					]
 				},
-			
+		{
+			"tabname": "Details",
+			"views": [
 				{
-					"class":"DepictionSeparatorView"
-				},
-				{
-					"class":"DepictionHeaderView",
-					"title":"Information"
-				},
-				{
-					"class":"DepictionTableTextView",
-					"text":"Septamber 17, 2020",
-					"title":"Added"
+					"class": "DepictionMarkdownView",
+					"markdown": "Amury an aowsome the for you"
 				},
 				{
-					"class":"DepictionTableTextView",
-					"text":"Free Package",
-					"title":"License"
+					"class": "DepictionSeparatorView"
 				},
-                                {
-					"class":"DepictionTableTextView",
-					"text":"1.4a12",
-					"title":"Version"
+				{
+					"title": "Package Info",
+					"class": "DepictionHeaderView"
 				},
-                                {
-					"class":"DepictionTableTextView",
-					"text":"Riley Testut",
-					"title":"Developer"
+				{
+					"title": "Version",
+					"text": "2.0",
+					"class": "DepictionTableTextView"
 				},
-                                {
-					"class":"DepictionTableTextView",
-					"text":"MALIK MOHAMMED",
-					"title":"Maintainer"
+				{
+					"title": "Released",
+					"text": "2020",
+					"class": "DepictionTableTextView"
 				},
-{
-					"title": "Package Depiction",
-					"action": "https://cydia05.github.io/repo/depictions/com.rileytestut.altstore.alpha.jailbroken",
+				{
+					"title": "Price",
+					"text": "free",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Developer",
+					"text": "cydia05",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "More Package Informations",
+					"action": "https://cydia05.github.io/repo/depictions/?p=com.cydia05.Amury",
 					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "github",
+					"action": "https://github.com/mkstaff95",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
 				}
-			]
+			],
+			"class": "DepictionStackView"
 		},
 		{
-			"class":"DepictionStackView",
-			"tabname":"Changelog",
-			"views":[
+			"tabname": "Changelog",
+			"views": [
 				{
-					"class":"DepictionSubheaderView",
-					"title":"iOS 14 support \n\n Add homescreen widget",
-					"useBoldText":true,
-					"useBottomMargin":false
+					"title": "2.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "\t\n\u2022 add some icons",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\"> Updated at 2020/08/15</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
 				}
-				
-			]
+			],
+			"class": "DepictionStackView"
 		}
-	]
+	],
+	"class": "DepictionTabView"
 }
