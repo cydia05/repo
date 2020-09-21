@@ -59,7 +59,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "AltStore is a very useful tool for jailbreakers, as it helps you to renew the application certificate so that you can enjoy it even if your device does not have a jailbreak.\n\n### Bold, Features in the tool.\n\nIt helps you to renew the certificate without the need for a computer.\n\nYou can install applications from inside your device with one touch.\n\nCertificate renewal automatically.",
+          "markdown": "AltStore is a very useful tool for jailbreakers, as it helps you to renew the application certificate so that you can enjoy it even if your device does not have a jailbreak.\n\n### Features in the tool.\n\n\n- It helps you to renew the certificate without the need for a computer.\n\n\n- You can install applications from inside your device with one touch.\n\n\n- Certificate renewal automatically.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
