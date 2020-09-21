@@ -1,96 +1,163 @@
 {
-	"class":"DepictionTabView",
-	"minVersion":"0.3",
-	"headerImage":"https://pbs.twimg.com/profile_banners/4372426108/1528800797/1500x500",
-        "tintColor": "#8220FF",
-	"tabs":[
-		{
-			"class":"DepictionStackView",
-			"tabname":"Details",
-			"views":[
-				{
-					"class":"DepictionMarkdownView",
-					"markdown":"Completely redesign the phone app contacts screen",
-					"useSpacing":true
-				},
-				
-				{
-					"class":"DepictionMarkdownView",
-					"markdown":"#### Supports and Screenshots \n\n Supports iOS 13 Through iOS 13.5.\n\nAdd call tap.\n\nAdd Messeges tpa",
-					"useSpacing":true
-				},
-				{
-					"class":"DepictionScreenshotsView",
-					"itemCornerRadius":12.8,
-					"itemSize":"{160, 346}",
-					"screenshots":[
-						{
-							"accessibilityText":"Screenshot",
-							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.qiop1379.bongwater/screenshots/S1.JPG"
-						},
-						{
-							"accessibilityText":"Screenshot",
-							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.qiop1379.bongwater/screenshots/S2.JPG"
-						},
-					]
-				},
-			
-				{
-					"class":"DepictionSeparatorView"
-				},
-				{
-					"class":"DepictionHeaderView",
-					"title":"Information"
-				},
-				{
-					"class":"DepictionTableTextView",
-					"text":"Septamber 1, 2020",
-					"title":"Added"
-				},
-				{
-					"class":"DepictionTableTextView",
-					"text":"Free Package",
-					"title":"License"
-				},
-                                {
-					"class":"DepictionTableTextView",
-					"text":"1.5",
-					"title":"Version"
-				},
-                                {
-					"class":"DepictionTableTextView",
-					"text":"qwertyuiop1379",
-					"title":"Developer"
-				},
-                                {
-					"class":"DepictionTableTextView",
-					"text":"MALIK MOHAMMED",
-					"title":"Maintainer"
-				},
-{
-					"title": "Package Depiction",
-					"action": "https://cydia05.github.io/repo/depictions/com.malik.cutecut",
-					"class": "DepictionTableButtonView"
-				}
-			]
-		},
-		{
-			"class":"DepictionStackView",
-			"tabname":"Changelog",
-			"views":[
-				{
-					"class":"DepictionSubheaderView",
-					"title":"1.5 \n\n NO CHANGES ARE REPORTED",
-					"useBoldText":true,
-					"useBottomMargin":false
-				},
-                                 {
-     "class":"DepictionMarkdownView",
-     "markdown":"Support iOS 13.5",
-     "useSpacing":true
+  "minVersion": "0.1",
+  "headerImage": "https://pbs.twimg.com/profile_banners/4372426108/1528800797/1500x500",
+  "tintColor": "#2d8088",
+  "tabs": [
+    {
+      "tabname": "Details",
+      "views": [
+        {
+          "title": "Shut down your computer and install AltStore.",
+          "useBoldText": true,
+          "useBottomMargin": false,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "itemCornerRadius": 6,
+          "itemSize": "{160, 346.4533333333333}",
+          "screenshots": [
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
+            }
+           
+          ],
+          "ipad": {
+            "itemCornerRadius": 9,
+            "itemSize": "{320, 692.9066666666666}",
+            "screenshots": [
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
+              }
+            
+            ],
+            "class": "DepictionScreenshotView"
+          },
+          "class": "DepictionScreenshotsView"
+        },
+        {
+          "markdown": "AltStore is a very useful tool for jailbreakers, as it helps you to renew the application certificate so that you can enjoy it even if your device does not have a jailbreak.\n\n### Features in the tool.\n\n\n- It helps you to renew the certificate without the need for a computer.\n\n\n- You can install applications from inside your device with one touch.\n\n\n- Certificate renewal automatically.",
+          "useSpacing": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "Latest Version",
+          "class": "DepictionHeaderView"
+        },
+           {
+          "title": "Developer",
+          "text": "Riley Testut",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Version",
+          "text": "1.4a12",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Added",
+          "text": "2019-9-17",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "title": "Price",
+          "text": "Free",
+          "class": "DepictionTableTextView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "title": "More Packages",
+          "action": "https://cydia05.github.io/repo/Sileo-Depiction-WebViews/repo/?repo=https://cydia05.github.io/repo",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
+     
+        {
+          "title": "Contact",
+          "action": "https://twitter.com/cydia05",
+          "class": "DepictionTableButtonView"
+        },
+        {
+          "spacing": 12,
+          "class": "DepictionSpacerView"
+        },
+      
+        {
+          "URL": "https://cydia05.github.io/repo/CydiaIcon.png",
+          "width": 40,
+          "height": 40,
+          "alignment": 1,
+          "cornerRadius": 0,
+          "class": "DepictionImageView"
+        },
+        {
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">All copyrights reserved by ©MALIK MOHAMMED.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "spacing": 20,
+          "class": "DepictionSpacerView"
+        }
+      ],
+      "class": "DepictionStackView"
+    },
+    {
+      "tabname": "Changelog",
+      "views": [
+        {
+          "title": "Version 1.4a12",
+          "useBoldText": true,
+          "useBottomMargin": true,
+          "class": "DepictionSubheaderView"
+        },
+        {
+          "markdown": "Thanks for using AltStore Tweak! We’ve been working hard to make your experience even better.\n- Full support for A12(X) devices.\n- Full support iOS 14 widgets.",
+          "useSpacing": false,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Added 2019-9-17</small>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        }
+      ],
+      "class": "DepictionStackView"
     }
-				
-			]
-		}
-	]
+  ],
+  "class": "DepictionTabView"
 }
