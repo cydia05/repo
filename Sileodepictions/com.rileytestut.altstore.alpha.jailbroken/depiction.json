@@ -18,29 +18,20 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://repo-cdn.dynastic.co/87966724552392705.3a0a6aca8197f4f398e78aba28d45801-750?size=480",
-              "fullSizeURL": "https://repo.dynastic.co/data/static/version/174906684227977216/174906684639019008"
+              "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://repo-cdn.dynastic.co/87966743447732225.2b9927c32e7989c9593af3b9af758181-750?size=480",
-              "fullSizeURL": "https://repo.dynastic.co/data/static/version/174906684227977216/174906684639019009"
+              "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://repo-cdn.dynastic.co/87966754386477057.b281d0d686aa134d7efd00dd083f7c16-750?size=480",
-              "fullSizeURL": "https://repo.dynastic.co/data/static/version/174906684227977216/174906684639019010"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://repo-cdn.dynastic.co/87966766088585217.23a82791121436693f746f9664adf6f6-750?size=480",
-              "fullSizeURL": "https://repo.dynastic.co/data/static/version/174906684227977216/174906684639019011"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://repo-cdn.dynastic.co/87966782144380929.407f08479bbdf88d9255967be043b264-750?size=480",
-              "fullSizeURL": "https://repo.dynastic.co/data/static/version/174906684227977216/174906684639019012"
+              "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
             }
+           
           ],
           "ipad": {
             "itemCornerRadius": 9,
@@ -48,29 +39,20 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://repo-cdn.dynastic.co/87966724552392705.3a0a6aca8197f4f398e78aba28d45801-750?size=640",
-                "fullSizeURL": "https://repo.dynastic.co/data/static/version/174906684227977216/174906684639019008"
+                "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
               },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://repo-cdn.dynastic.co/87966743447732225.2b9927c32e7989c9593af3b9af758181-750?size=640",
-                "fullSizeURL": "https://repo.dynastic.co/data/static/version/174906684227977216/174906684639019009"
+                "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
               },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://repo-cdn.dynastic.co/87966754386477057.b281d0d686aa134d7efd00dd083f7c16-750?size=640",
-                "fullSizeURL": "https://repo.dynastic.co/data/static/version/174906684227977216/174906684639019010"
-              },
-              {
-                "accessibilityText": "Screenshot",
-                "url": "https://repo-cdn.dynastic.co/87966766088585217.23a82791121436693f746f9664adf6f6-750?size=640",
-                "fullSizeURL": "https://repo.dynastic.co/data/static/version/174906684227977216/174906684639019011"
-              },
-              {
-                "accessibilityText": "Screenshot",
-                "url": "https://repo-cdn.dynastic.co/87966782144380929.407f08479bbdf88d9255967be043b264-750?size=640",
-                "fullSizeURL": "https://repo.dynastic.co/data/static/version/174906684227977216/174906684639019012"
+                "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
               }
+            
             ],
             "class": "DepictionScreenshotView"
           },
