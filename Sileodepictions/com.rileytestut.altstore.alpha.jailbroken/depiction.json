@@ -70,7 +70,7 @@
           "title": "Latest Version",
           "class": "DepictionHeaderView"
         },
-        {
+           {
           "title": "Developer",
           "text": "Dynastic",
           "class": "DepictionTableTextView"
@@ -123,17 +123,17 @@
           "class": "DepictionTableButtonView"
         },
         {
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">All prices shown are in American Dollars (USD).</small><style>body { text-align: center; }</style>",
-          "useRawFormat": true,
-          "class": "DepictionMarkdownView"
-        },
-        {
           "URL": "https://cydia05.github.io/repo/CydiaIcon.png",
           "width": 44,
           "height": 44,
           "alignment": 1,
           "cornerRadius": 0,
           "class": "DepictionImageView"
+        },
+        {
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">All copyrights reserved by ©MALIK MOHAMMED.</small><style>body { text-align: center; }</style>",
+          "useRawFormat": true,
+          "class": "DepictionMarkdownView"
         },
         {
           "spacing": 20,
