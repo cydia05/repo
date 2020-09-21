@@ -18,7 +18,7 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/amury.jpg",
+              "url": "https://cydia05.github.io/repo/screenshots/amury1.jpg",
               "fullSizeURL": "https://cydia05.github.io/repo/screenshots/amury1.jpg"
             },
             {
@@ -30,6 +30,11 @@
               "accessibilityText": "Screenshot",
               "url": "https://cydia05.github.io/repo/screenshots/amury3.jpg",
               "fullSizeURL": "https://cydia05.github.io/repo/screenshots/amury3.jpg"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://cydia05.github.io/repo/screenshots/amury4.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/amury4.jpg"
             }
           ],
           "ipad": {
@@ -50,6 +55,11 @@
                 "accessibilityText": "Screenshot",
                 "url": "https://cydia05.github.io/repo/screenshots/amury3.jpg",
                 "fullSizeURL": "https://cydia05.github.io/repo/screenshots/amury3.jpg"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://cydia05.github.io/repo/screenshots/amury4.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/amury4.jpg"
               }
             
             ],
