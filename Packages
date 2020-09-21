@@ -127,7 +127,7 @@ Name: AltStore (ALPHA)
 Author: Riley Testut
 Icon: https://cydia05.github.io/repo/icon/Altstore.png
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.rileytestut.altstore.alpha.jailbroken/depiction.json
-Depiction: https://cydia05.github.io/repo/packges/com.rileytestut.altstore.alpha.jailbroken/
+Depiction:https://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/com.rileytestut.altstore.alpha.jailbroken/depiction.json&name=AltStore%20(ALPHA)&section=Utilites&dev=Riley%20Testut&icon=https://cydia05.github.io/repo/icon/Altstore.png
 MD5:  	fad5d9c4b73a5ad62dc0bf332a907124
 SHA1:  	c07c5800d9c8524e426b7a7cddc4180c655b738d
 SAH256:	fd43c627c2ba0554758b743c3c8fa405dbbb6dae3c0cf563ba98e9bcff633849
