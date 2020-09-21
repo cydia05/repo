@@ -72,30 +72,30 @@
         },
            {
           "title": "Developer",
-          "text": "Dynastic",
+          "text": "Riley Testut",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Version",
-          "text": "1.0.14",
+          "text": "1.4a12",
           "class": "DepictionTableTextView"
         },
         {
-          "title": "Released",
-          "text": "2019-5-1",
+          "title": "Added",
+          "text": "2019-9-17",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Price",
-          "text": "$3.99",
+          "text": "Free",
           "class": "DepictionTableTextView"
         },
         {
           "class": "DepictionSeparatorView"
         },
         {
-          "title": "ShortLook Website",
-          "action": "https://www.dynastic.co/shortlook/?refsrc=repo",
+          "title": "More Packages",
+          "action": "https://cydia05.github.io/repo/Sileo-Depiction-WebViews/repo/?repo=https://cydia05.github.io/repo",
           "class": "DepictionTableButtonView"
         },
         {
@@ -104,28 +104,19 @@
         },
      
         {
-          "title": "Contact Support",
-          "action": "depiction-https://repo.dynastic.co/sileo-depiction/68292503631036416/support",
+          "title": "Contact",
+          "action": "https://twitter.com/cydia05",
           "class": "DepictionTableButtonView"
         },
         {
           "spacing": 12,
           "class": "DepictionSpacerView"
         },
-        {
-          "title": "Gift to a Friend",
-          "action": "form-https://repo.dynastic.co/api/v0/client-vendor/forms/co.dynastic.ios.tweak.shortlook/send-gift",
-          "class": "DepictionTableButtonView"
-        },
-        {
-          "title": "Redeem Gift Code",
-          "action": "form-https://repo.dynastic.co/api/v0/client-vendor/forms/co.dynastic.ios.tweak.shortlook/gift-code",
-          "class": "DepictionTableButtonView"
-        },
+      
         {
           "URL": "https://cydia05.github.io/repo/CydiaIcon.png",
-          "width": 44,
-          "height": 44,
+          "width": 40,
+          "height": 40,
           "alignment": 1,
           "cornerRadius": 0,
           "class": "DepictionImageView"
@@ -146,18 +137,18 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "Version 1.0.14",
+          "title": "Version 1.4a12",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "Thanks for using ShortLook! We’ve been working hard to make your experience even better.\n- Full support for A12(X) devices.",
+          "markdown": "Thanks for using AltStore Tweak! We’ve been working hard to make your experience even better.\n- Full support for A12(X) devices.\n- Full support iOS 14 widgets.",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Released 2019-5-1</small>",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Added 2019-9-17</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },
