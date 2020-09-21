@@ -10,7 +10,24 @@
 					"markdown":"Enjoy movies and series on the Cinemana app provided by Earthlink Internet",
 					"useSpacing":true
 				},
-				
+{
+					"class":"DepictionScreenshotsView",
+					"itemCornerRadius":12.8,
+					"itemSize":"{160, 346}",
+					"screenshots":[
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://cydia05.github.io/repo/screenshots/as1.jpg"
+						},
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://cydia05.github.io/repo/screenshots/as2.jpg"
+						},
+{
+							"accessibilityText":"Screenshot",
+							"url":"https://cydia05.github.io/repo/screenshots/as3.jpg"
+						},
+		
 				{
 					"class":"DepictionMarkdownView",
 					"markdown":"#### Supports and Screenshots \n\n Supports all Versions.",
@@ -67,24 +84,7 @@
 					"spacing": 20,
 					"class": "DepictionSpacerView"
 				
-{
-					"class":"DepictionScreenshotsView",
-					"itemCornerRadius":12.8,
-					"itemSize":"{160, 346}",
-					"screenshots":[
-						{
-							"accessibilityText":"Screenshot",
-							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S1.jpg"
-						},
-						{
-							"accessibilityText":"Screenshot",
-							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S2.jpg"
-						},
-{
-							"accessibilityText":"Screenshot",
-							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S3.jpg"
-						},
-			],
+
 			"class": "DepictionStackView"
 		},
 		{
