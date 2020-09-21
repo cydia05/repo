@@ -145,7 +145,7 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "URL": "https://cydia05.github.io/repo/screenshots/Cydiaicon.png",
+          "URL": "https://cydia05.github.io/repo/screenshots/Cydia.png",
           "width": 44,
           "height": 27,
           "alignment": 1,
@@ -178,8 +178,9 @@
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },
-
-        
+        {
+          "class": "DepictionSeparatorView"
+        }
       ],
       "class": "DepictionStackView"
     }
