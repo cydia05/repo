@@ -4,7 +4,7 @@
   "itemCornerRadius": 10,
   "banners": [
     {
-        "url": "https://raw.githubusercontent.com/cydia05/repo/gh-pages/Screenshots/screenshot.png",
+        "url": "https://cydia05.github.io/repo/screenshot/amury2.jpg",
         "title": "Amury",
         "package": "com.cydia05.Amury",
         "hideShadow": false
