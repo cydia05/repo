@@ -7,7 +7,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "Your notifications. At a glance.",
+          "title": "Shut down your computer and install AltStore.",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -59,7 +59,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "ShortLook displays on your locked iPhone as you receive a notification using it's beautiful full screen design, allowing for readability from a distance. Made to be as unobtrusive as possible, it dismisses as soon as you tap the screen or Raise to Wake. It's configurable UI and behaviours ensure that ShortLook works how you want it to work.\n\n### Bold, but not obtrusive.\n\nShortLook shows only when you receive a notification while your device’s display is turned off, allowing you to quickly view incoming notifications from a distance. It’s full screen design makes your notifications pop, and all of it’s animations are fully interruptible, making your Lock Screen immediately accessible when the device is raised or tapped.\n\n### Popular? No problem.\n\nShortLook was designed from the beginning to adapt seamlessly to different use cases, from a single email to the most annoying of group chats. It intelligently groups and marks notifications from the same app with a badge indicator, displaying the increase with a subtle bounce of the screen. When a notification from another app is received, it promptly switches to show the new notifications.\n\n### Choose your style.\n\nOn iPhone X, ShortLook shows your notifications on a pure black background to take advantage of the beautiful OLED display, but that's not for everyone. If you'd prefer, you can opt for a dark blurred background, best suited for older devices, to display your notifications on.",
+          "markdown": "AltStore is a very useful tool for jailbreakers, as it helps you to renew the application certificate so that you can enjoy it even if your device does not have a jailbreak.\n\n### Bold, Features in the tool.\n\nIt helps you to renew the certificate without the need for a computer.\n\nYou can install applications from inside your device with one touch.\n\nCertificate renewal automatically.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
