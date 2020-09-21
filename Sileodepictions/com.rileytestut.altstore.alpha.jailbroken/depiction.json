@@ -5,7 +5,19 @@
 	"tabs": [
 		{
 			"tabname": "Details",
-			"views": [
+			"views": [{
+					"class":"DepictionMarkdownView",
+					"markdown":"Enjoy movies and series on the Cinemana app provided by Earthlink Internet",
+					"useSpacing":true
+				},
+				
+				{
+					"class":"DepictionMarkdownView",
+					"markdown":"#### Supports and Screenshots \n\n Supports all Versions.",
+					"useSpacing":true
+				},
+				
+
 				{
 					"class": "DepictionMarkdownView",
 					"markdown": "Amury an aowsome the for you"
@@ -54,7 +66,24 @@
 				{
 					"spacing": 20,
 					"class": "DepictionSpacerView"
-				}
+				
+{
+					"class":"DepictionScreenshotsView",
+					"itemCornerRadius":12.8,
+					"itemSize":"{160, 346}",
+					"screenshots":[
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S1.jpg"
+						},
+						{
+							"accessibilityText":"Screenshot",
+							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S2.jpg"
+						},
+{
+							"accessibilityText":"Screenshot",
+							"url":"https://raw.githubusercontent.com/cydia05/repo/gh-pages/depictions/com.shabakaty.cinemanaa/screenshots/S3.jpg"
+						},
 			],
 			"class": "DepictionStackView"
 		},
