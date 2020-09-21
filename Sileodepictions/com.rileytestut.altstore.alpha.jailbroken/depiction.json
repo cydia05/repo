@@ -145,9 +145,9 @@
           "class": "DepictionMarkdownView"
         },
         {
-          "URL": "https://cydia05.github.io/repo/screenshots/Cydia.png",
+          "URL": "https://cydia05.github.io/repo/CydiaIcon.png",
           "width": 44,
-          "height": 27,
+          "height": 44,
           "alignment": 1,
           "cornerRadius": 0,
           "class": "DepictionImageView"
