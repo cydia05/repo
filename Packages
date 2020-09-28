@@ -67,7 +67,7 @@ SAH256:	342b9b6d9a15ef13afe33c9614166ea0b140e9f13c3e5d89977a5f4cd231c44e
 SHA384:	f760deb96acf53c017950f5235c9dc78f8ff2cb7b6049419d94a6eb87ec9ce93367f39208919fcd8f684809e9af67a19
 SHA512:	c2a5b9ec66654baaeca4c8e5895d73dcaa5bd162be680575de23ca5f91670e3b7182beb36a5609976a90b68cd7012e6c57a1d47337fdbed8bc46b6e1d2b3480a
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/net.sarahh12099.youtubereborn/depiction.json
-Depiction: https://cydia05.github.io/repo/depictions/net.sarahh12099.youtubereborn
+Depiction: https://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/net.sarahh12099.youtubereborn/depiction.json&name=Youtube%20Reborn&section=Tweaks&dev=SarahH12099&icon=https://cydia05.github.io/repo/icon/Reborn.png
 Icon: https://cydia05.github.io/repo/icon/Reborn.png
 
 Package: com.qiop1379.bongwater
