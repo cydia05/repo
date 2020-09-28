@@ -20,7 +20,7 @@ SHA384:	b19f0cc0866c3b97e7a629cac8d2b5d1edc4d3f504745147fb3a9923803cd994138116cb
 SHA512:	c675eab4009479f2daff3ce49b4370b4ca14035b5d0cb22dfa8828cb29c3e809e76633dd53e024dd2fa12889a47e433b2df29d41019142df086d5fec1eaf6a33
 
 Package: com.malik.CuteCUT
-Section: Utilites
+Section: Utilities
 Maintainer: MALIK MOHAMMED
 Filename: ./debs/CuteCUT.deb
 Pre-Depends: firmware (>= 12.2), com.linusyang.appinst
@@ -36,7 +36,7 @@ Depiction: https://cydia05.github.io/repo/depictions/com.malik.cutecut
 
 
 Package: com.malik.Allaaeeb
-Section: Utilites
+Section: Utilities
 Maintainer: MALIK MOHAMMED
 Filename: ./debs/Allaaeeb.deb
 Pre-Depends: firmware (>=13.0)
@@ -48,7 +48,7 @@ SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.malik.Allaaee
 Name: Allaaeeb
 Author: Malik Mohammed
 Icon: https://cydia05.github.io/repo/icon/Allaaeeb.png
-Depiction: https://cydia05.github.io/repo/depictions/com.malik.Allaaeeb
+Depiction: https://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/com.malik.Allaaeeb/depiction.json&name=Allaaeeb&section=Utilites&dev=Malik%20Mohammed&icon=https://cydia05.github.io/repo/icon/Allaaeeb.png
 
 Package: net.sarahh12099.youtubereborn
 Section: Tweaks
@@ -68,7 +68,6 @@ SHA384:	f760deb96acf53c017950f5235c9dc78f8ff2cb7b6049419d94a6eb87ec9ce93367f3920
 SHA512:	c2a5b9ec66654baaeca4c8e5895d73dcaa5bd162be680575de23ca5f91670e3b7182beb36a5609976a90b68cd7012e6c57a1d47337fdbed8bc46b6e1d2b3480a
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/net.sarahh12099.youtubereborn/depiction.json
 Depiction: https://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/net.sarahh12099.youtubereborn/depiction.json&name=Youtube%20Reborn&section=Tweaks&dev=SarahH12099&icon=https://cydia05.github.io/repo/icon/Reborn.png
-Icon: https://cydia05.github.io/repo/icon/Reborn.png
 
 Package: com.qiop1379.bongwater
 Name: Bongwater
@@ -93,7 +92,7 @@ Icon: https://cydia05.github.io/repo/icon/Tweak.png
 
 
 Package: com.shabakaty.cinemanaa
-Section: Utilites
+Section: Utilities
 Maintainer: MALIK MOHAMMED
 Pre-Depends: firmware (>=11.0)
 Filename: ./debs/Cinemana.deb
@@ -114,7 +113,7 @@ SHA384:	cac56bd130c59a65c825ff0d7254116b1c089b8b27451bce35131f77630237030a88c367
 SHA512:	6abf147d763ef4c3385c52d391424b4ae6bef6eaa98b55b409f47d0a60917e35b7a9d452aa598729aa639fb96d3f9b3e342c46c5a161d51a66760a57d95f82d0
 
 Package: com.rileytestut.altstore.alpha.jailbroken
-Section: Utilites
+Section: Utilities
 Maintainer: Riley Testut
 Pre-Depends: firmware (>= 12.2), com.linusyang.appinst
 Depends: com.rileytestut.altdaemon
