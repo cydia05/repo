@@ -134,3 +134,24 @@ SAH256:	fd43c627c2ba0554758b743c3c8fa405dbbb6dae3c0cf563ba98e9bcff633849
 SHA384:	a31a82e091206906ee33237e1ace55dcf2606f43265a7f89f91a0df2e14424c9bd8858a392f7fb3777fc0d2e7abe72df
 SHA512:	bdd8cb2ef1b3deffdd4ef279c5ac89295abc1340f17f634e8930ff0415922ad86af6ed71ca1624c97b40427a6c95de2d6fa4db4272a210cc281fa1a3526e33a9
 
+Package: com.malik.msramadan
+Version: 2.9
+Section: Utilities
+Maintainer: MALIK MOHAMMED
+Description: More series and files
+Architecture: iphoneos-arm
+Name: MSRamadan
+Author: @cydia05 <eng.srg@icloud.com>
+Depends: firmware (>=13.0)
+Size: 3232028
+Installed-Size: 12.3 MB
+Icon: https://cydia05.github.io/repo/icon/msramadan.png
+SileoDepiction:https://cydia05.github.io/repo/Sileodepictions/com.malik.msramadan/depiction.json
+Depiction:
+MD5:  	7c9a8c9122c93a3a41a8e21dd8ff5bf2
+SHA1:  	c99efa14edbe59a85f5e109902de1b74cdd16cca
+SAH256:	142518dd4367db5a995bd52232ebf68868d4b65f48f0eac7c986581c61cd95d7
+SHA384:	7d0158e9d501c325eb6ce09836909f4c356239371f60724d80118750a965861b03611c71382d957b5874ce7335a16cef
+SHA512:	546e77c2ea32ebed323801bc52d789b8499e6ca15da6b5f13fb3afdd105b659ad7af7d3a6b7368294fb819fe4b0e762353209b6d5c91fb5b85c9cfdbe83ec454
+
+
