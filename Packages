@@ -138,8 +138,9 @@ Package: com.malik.msramadan
 Version: 2.9
 Section: Utilities
 Maintainer: MALIK MOHAMMED
-Description: More series and files
+Description: More series, filmes and live tv
 Architecture: iphoneos-arm
+Filename: ./debs/MSRamadan.deb
 Name: MSRamadan
 Author: @cydia05 <eng.srg@icloud.com>
 Depends: firmware (>=13.0)
