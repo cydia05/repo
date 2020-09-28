@@ -147,8 +147,8 @@ Depends: firmware (>=13.0)
 Size: 3232028
 Installed-Size: 12300
 Icon: https://cydia05.github.io/repo/icon/msramadan.png
-SileoDepiction:https://cydia05.github.io/repo/Sileodepictions/com.malik.msramadan/depiction.json
-Depiction:
+SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.malik.msramadan/depiction.json
+Depiction:https://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=ttps://cydia05.github.io/repo/Sileodepictions/com.malik.msramadan/depiction.json&name=MSRamadan&section=Utilities&dev=@cydia05&icon=https://cydia05.github.io/repo/icon/msramadan.png
 MD5:  	7c9a8c9122c93a3a41a8e21dd8ff5bf2
 SHA1:  	c99efa14edbe59a85f5e109902de1b74cdd16cca
 SAH256:	142518dd4367db5a995bd52232ebf68868d4b65f48f0eac7c986581c61cd95d7
