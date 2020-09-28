@@ -7,7 +7,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "Shut down your computer and install AltStore.",
+          "title": "Allaaeeb app for free Bein sports Channels and matchdays.",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -18,18 +18,23 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
+              "url": "https://cydia05.github.io/repo/screenshots/allaaeeb1.PNG",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/allaaeeb1.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
+              "url": "https://cydia05.github.io/repo/screenshots/allaaeeb2.PNG",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/allaaeeb2.PNG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
+              "url": "https://cydia05.github.io/repo/screenshots/allaaeeb3.PNG",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/allaaeeb3.PNG"
+            },
+            {
+              "accessibilityText": "Screenshot",
+              "url": "https://cydia05.github.io/repo/screenshots/allaaeeb4.PNG",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/allaaeeb4.PNG"
             }
            
           ],
@@ -39,27 +44,31 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
-                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
+                "url": "https://cydia05.github.io/repo/screenshots/allaaeeb1.PNG",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/allaaeeb1.PNG"
               },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
-                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
+                "url": "https://cydia05.github.io/repo/screenshots/allaaeeb2.PNG",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/allaaeeb2.PNG"
               },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
-                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
+                "url": "https://cydia05.github.io/repo/screenshots/allaaeeb3.PNG",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/allaaeeb3.PNG"
+              },
+              {
+                "accessibilityText": "Screenshot",
+                "url": "https://cydia05.github.io/repo/screenshots/allaaeeb4.PNG",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/allaaeeb4.PNG"
               }
-            
             ],
             "class": "DepictionScreenshotView"
           },
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "AltStore is a very useful tool for jailbreakers, as it helps you to renew the application certificate so that you can enjoy it even if your device does not have a jailbreak.\n\n### Features in the tool.\n\n\n- It helps you to renew the certificate without the need for a computer.\n\n\n- You can install applications from inside your device with one touch.\n\n\n- Certificate renewal automatically.",
+          "markdown": "You can watch bein sports by free on allaaeb app.\n\n### Tweak features.\n\n\n- Free paid Channels.\n\n\n- Matchs day time.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -72,17 +81,17 @@
         },
            {
           "title": "Developer",
-          "text": "Riley Testut",
+          "text": "Allaaeb",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Version",
-          "text": "1.4a12",
+          "text": "1.5",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Added",
-          "text": "2019-9-17",
+          "text": " September 18,2020",
           "class": "DepictionTableTextView"
         },
         {
@@ -122,7 +131,7 @@
           "class": "DepictionImageView"
         },
         {
-          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">All copyrights reserved by ©MALIK MOHAMMED.</small><style>body { text-align: center; }</style>",
+          "markdown": "<small style=\"color: #aaa; font-size: 8pt;\">CYDIA05 REPO ©MALIK MOHAMMED.</small><style>body { text-align: center; }</style>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },
@@ -137,18 +146,18 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "Version 1.4a12",
+          "title": "Version 1.5",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "Thanks for using AltStore Tweak! We’ve been working hard to make your experience even better.\n- Full support for A12(X) devices.\n- Full support iOS 14 widgets.",
+          "markdown": "First release.",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Added 2019-9-17</small>",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Added September 18,2019</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },
