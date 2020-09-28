@@ -1,7 +1,7 @@
 {
   "minVersion": "0.1",
   "headerImage": "https://pbs.twimg.com/profile_banners/4372426108/1528800797/1500x500",
-  "tintColor": "#ffffff",
+  "tintColor": "#000000",
   "tabs": [
     {
       "tabname": "Details",
