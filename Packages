@@ -145,7 +145,7 @@ Name: MSRamadan
 Author: @cydia05 <eng.srg@icloud.com>
 Depends: firmware (>=13.0)
 Size: 3232028
-Installed-Size: 12.3 MB
+Installed-Size: 12300
 Icon: https://cydia05.github.io/repo/icon/msramadan.png
 SileoDepiction:https://cydia05.github.io/repo/Sileodepictions/com.malik.msramadan/depiction.json
 Depiction:
