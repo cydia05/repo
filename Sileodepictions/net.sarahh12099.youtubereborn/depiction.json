@@ -157,13 +157,13 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "Version 1.0.4.6",
+          "title": "Version 2.0.0.3",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "Thanks for using Yputube Reborn Tweak! We’ve been working hard to make your experience even better.\n- Full support for A12(X) devices.\n- Fixing bugs. \n- translate to Arabic.",
+          "markdown": "Thanks for using Yputube Reborn Tweak! We’ve been working hard to make your experience even better.\n- Full support for iOS 14-14.3 devices.\n- Fixing bugs.",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
