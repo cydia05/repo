@@ -7,7 +7,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "Shut down your computer and install AltStore.",
+          "title": "Bongwater App.",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -18,18 +18,13 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
+              "url": "https://cydia05.github.io/repo/screenshots/bw1.JPG",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/bw1.JPG"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
+              "url": "https://cydia05.github.io/repo/screenshots/bw2.JPG",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/bw2.JPG"
             }
            
           ],
@@ -39,27 +34,21 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
-                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
+                "url": "https://cydia05.github.io/repo/screenshots/bw1.JPG",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/bw1.JPG"
               },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
+                "url": "https://cydia05.github.io/repo/screenshots/bw2.JPGg",
                 "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
-              },
-              {
-                "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
-                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
               }
-            
             ],
             "class": "DepictionScreenshotView"
           },
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "AltStore is a very useful tool for jailbreakers, as it helps you to renew the application certificate so that you can enjoy it even if your device does not have a jailbreak.\n\n### Features in the tool.\n\n\n- It helps you to renew the certificate without the need for a computer.\n\n\n- You can install applications from inside your device with one touch.\n\n\n- Certificate renewal automatically.",
+          "markdown": "Customize App Contact.\n\n### Features in the tool.\n\n\n- Add Call And Messege Button beside Contact Names.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -72,12 +61,12 @@
         },
            {
           "title": "Developer",
-          "text": "Riley Testut",
+          "text": "qwertyuiop1379",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Version",
-          "text": "1.4a12",
+          "text": "2.3.1",
           "class": "DepictionTableTextView"
         },
         {
