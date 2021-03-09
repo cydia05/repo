@@ -79,7 +79,40 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Youtube customasition.\n\n### Features in the tool.\n\n\n- Remove ads for videos.\n\n\n- Play in background.\n\n\n- Hide any section you want.",
+          "markdown": "Youtube customasition.\n\n### Features of YouTube Reborn:
+\n\n\n- No Video And No Homescreen Ads (Default On).
+\n\n\n-  Background Playback.
+\n\n\n-  Allow HD On Cellular Data.
+\n\n\n- Disable Video Endscreen Popups.
+\n\n\n- Disable Video Info Cards.
+\n\n\n-Disable Video AutoPlay.
+\n\n\n-Disable Double Tap To Skip.
+\n\n\n-Disable Age Restriction.
+\n\n\n- Always Show Player Bar.
+\n\n\n-Show Status Bar In Overlay (Portrait Only).
+\n\n\n-Hide Previous & Next Button In OverlayHide AutoPlay Switch In Overlay.
+\n\n\n- Hide Captions/Subtitles Button In Overlay.
+\n\n\n- Disable Related Videos In Overlay.
+\n\n\n- Hide Overlay Dark Background.
+\n\n\n- Hide Tab Bar Labels.
+\n\n\n- Hide Tabs (Explore, Create/Upload[+], Subscriptions, Library).
+\n\n\n- Enable iPad Style On iPhone.
+\n\n\n- No Download Button.
+\n\n\n- No Comments Section.
+\n\n\n- No Cast Button.
+\n\n\n- No Notification Button.
+\n\n\n- No Search Button.
+\n\n\n- No Topics Section.
+\n\n\n- Disable YouTube Kids Popup.
+\n\n\n- Disable Voice Search.
+\n\n\n- Disable Hints.
+\n\n\n- Oled Dark Mode (iOS 13-).
+\n\n\n- Colour Options (iOS 14+).
+\n\n\n- Audio Downloading (Experimental, iPhone Only Currently).
+\n\n\n- Video Downloading (Can Import Downloaded Videos To Camera Roll).
+\n\n\n- Picture-In-Picture (iOS 14+).
+\n\n### YT Reborn settings are located in the YT app, the "OP" button next to the logo.
+The Download/PIP Button is located in the video overlay (portrait only, "OP" button)",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -92,17 +125,17 @@
         },
            {
           "title": "Developer",
-          "text": "SarahH12099",
+          "text": "Rayn H",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Version",
-          "text": "2.0.0.3",
+          "text": "2.1.0.3",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Added",
-          "text": "2021,05 February",
+          "text": "2021,08 March",
           "class": "DepictionTableTextView"
         },
         {
@@ -157,13 +190,18 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "Version 2.0.0.3",
+          "title": "Version 2.1.0.3",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "Thanks for using Yputube Reborn Tweak! We’ve been working hard to make your experience even better.\n- Full support for iOS 14-14.3 devices.\n- Fixing bugs.",
+          "markdown": "Thanks for using Yputube Reborn Tweak! We’ve been working hard to make your experience even better.\n- Full support for iOS 14-14.3 devices.
+\n- Fixing bugs.
+\n- Oled Dark Mode (iOS 13-)
+\n- Colour Options (iOS 14+)
+\n- Audio Downloading (Experimental, iPhone Only Currently)
+\n- Video Downloading (Can Import Downloaded Videos To Camera Roll",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
