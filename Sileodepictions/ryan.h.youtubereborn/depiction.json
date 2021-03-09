@@ -79,7 +79,35 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Youtube customasition.\n\n### Features of YouTube Reborn:\n\n\n- No Video And No Homescreen Ads (Default On).",
+          "markdown": "Youtube customasition.\n\n### Features of YouTube Reborn:
+\n\n\n- Background Playback.
+\n\n\n- Allow HD On Cellular Data
+\n\n\n- Disable Video Endscreen Popups
+\n\n\n- Disable Video Info Cards
+\n\n\n- Disable Video AutoPlay
+\n\n\n- Disable Double Tap To Skip
+\n\n\n - Disable Age Restriction
+\n\n\n- Always Show Player Bar
+\n\n\n- Show Status Bar In Overlay (Portrait Only)
+\n\n\n- Hide Previous & Next Button In Overlay
+\n\n\n- Hide AutoPlay Switch In Overlay
+\n\n\n- Hide Captions/Subtitles Button In Overlay
+\n\n\n- Disable Related Videos In Overlay
+\n\n\n- Hide Overlay Dark Background
+\n\n\n- Hide Tab Bar Labels
+\n\n\n- Hide Tabs (Explore, Create/Upload[+], Subscriptions, Library)
+\n\n\n- Enable iPad Style On iPhone
+\n\n\n- No Download Button
+\n\n\n- No Comments Section
+\n\n\n- No Cast Button
+\n\n\n- No Notification Button
+\n\n\n- No Search Button
+\n\n\n- No Topics Section
+\n\n\n- Disable YouTube Kids Popup
+\n\n\n- Disable Voice Search
+\n\n\n- Disable Hints
+\n\n\n- Oled Dark Mode (iOS 13-)
+v- Colour Options (iOS 14+).",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
