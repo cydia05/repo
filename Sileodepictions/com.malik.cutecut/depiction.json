@@ -18,18 +18,13 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
+              "url": "https://cydia05.github.io/repo/screenshots/ccp1.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/ccp1.jpg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
-            },
-            {
-              "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
+              "url": "https://cydia05.github.io/repo/screenshots/ccp2.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/ccp2.jpg"
             }
            
           ],
@@ -39,18 +34,13 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
-                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
+                "url": "https://cydia05.github.io/repo/screenshots/ccp1.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/ccp1.jpg"
               },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
-                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
-              },
-              {
-                "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
-                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
+                "url": "https://cydia05.github.io/repo/screenshots/ccp2.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/ccp2.jpg"
               }
             
             ],
@@ -59,7 +49,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "AltStore is a very useful tool for jailbreakers, as it helps you to renew the application certificate so that you can enjoy it even if your device does not have a jailbreak.\n\n### Features in the tool.\n\n\n- It helps you to renew the certificate without the need for a computer.\n\n\n- You can install applications from inside your device with one touch.\n\n\n- Certificate renewal automatically.",
+          "markdown": "CuteCut pro is a very useful Editting Videos App, That help you to customisze any video.\n\n### Features in the tool.\n\n\n- Cut Videos and merrsge them.\n\n\n- extract Sound from the video.\n\n\n- Add music and More.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -72,17 +62,17 @@
         },
            {
           "title": "Developer",
-          "text": "Riley Testut",
+          "text": "YU BO",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Version",
-          "text": "1.4a12",
+          "text": "1.8.10",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Added",
-          "text": "2019-9-17",
+          "text": "2020/11/23",
           "class": "DepictionTableTextView"
         },
         {
@@ -95,7 +85,7 @@
         },
         {
           "title": "More Packages",
-          "action": "https://cydia05.github.io/repo/Sileo-Depiction-WebViews/repo/?repo=https://cydia05.github.io/repo",
+          "action": "https://cydia05.github.io/repo/",
           "class": "DepictionTableButtonView"
         },
         {
@@ -137,18 +127,18 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "Version 1.4a12",
+          "title": "Version 1.8.10",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "Thanks for using AltStore Tweak! We’ve been working hard to make your experience even better.\n- Full support for A12(X) devices.\n- Full support iOS 14 widgets.",
+          "markdown": "Thanks for using CUTCUT PRO Tweak! We’ve been working hard to make your experience even better.\n- Fixed Youtube uploading error.\n- Changed facebook uploading process.\n- Some bug fixes",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
         {
-          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Added 2019-9-17</small>",
+          "markdown": "<small style=\"color: #999; margin-top: -8px;\">Added 2020/11/23</small>",
           "useRawFormat": true,
           "class": "DepictionMarkdownView"
         },
