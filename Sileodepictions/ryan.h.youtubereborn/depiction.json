@@ -163,12 +163,7 @@
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "Thanks for using Yputube Reborn Tweak! We’ve been working hard to make your experience even better.\n- Full support for iOS 14-14.3 devices.
-\n- Fixing bugs.
-\n- Oled Dark Mode (iOS 13-)
-\n- Colour Options (iOS 14+)
-\n- Audio Downloading (Experimental, iPhone Only Currently)
-\n- Video Downloading (Can Import Downloaded Videos To Camera Roll",
+          "markdown": "Thanks for using Yputube Reborn Tweak! We’ve been working hard to make your experience even better.\n- Full support for iOS 14-14.3 devices.\n- Fixing bugs.\n- Oled Dark Mode (iOS 13-).\n- Colour Options (iOS 14+).\n- Audio Downloading (Experimental, iPhone Only Currently).\n- Video Downloading (Can Import Downloaded Videos To Camera Roll.",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },
