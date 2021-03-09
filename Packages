@@ -34,28 +34,6 @@ SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.malik.cutecut
 Depiction: hhttps://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/com.malik.cutecut/depiction.json&name=CuteCUT%20Pro&section=Utilities&dev=Malik%20Mohammed&icon=https://cydia05.github.io/repo/icon/cutecut.png
 
 
-Package: net.sarahh12099.youtubereborn
-Section: Tweaks
-Filename: ./debs/Reborn.deb
-Maintainer: MALIK MOHAMMED
-Pre-Depends: firmware (>= 13.0)
-Architecture: iphoneos-arm
-Version: 2.1.0.3
-Size: 401796
-Installed-Size: 1416
-Description: YouTube Customization.
-Name: Youtube Reborn
-Maintainer: @cydia05
-Author:  sarahh12099
-MD5:  	3808B22543D62BFD4014391BAFCEFF43
-SHA1:  	4968D32574EA47C7799E68A43DC61433D89E88AF
-SAH256:	A18687D2B3E403672D0DE01294FA1F747DAE895C98FA1D0C86533C7C0300D97B
-SHA384:	15CEDC8E3AC860A9B61BABEC59A029A9275CFC2AED547D7BBE1060DAB68DBF59D3D00C21EEF7AB807A66A76F18911735
-SHA512:	78043B12F2580FE6E3090C5F68C35061CAC19AC93C5DD7843C08BE5A5AAE4104410E52C34D3E35B868A93CDB00CA7800C7628BE54CFDC3F0354C3D05589E967C
-SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.malik.youtubereborn/depiction.json
-Depiction: https://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/net.sarahh12099.youtubereborn/depiction.json&name=Youtube%20Reborn&section=Tweaks&dev=SarahH12099&icon=https://cydia05.github.io/repo/icon/Reborn.png
-Icon: https://cydia05.github.io/repo/icon/Reborn.png
-
 Package: com.qiop1379.bongwater
 Name: Bongwater
 Depends: mobilesubstrate, firmware (>= 13.0)
@@ -98,3 +76,24 @@ SHA1:  	40662af1478b1a27fc65465f40a9486102de2128
 SAH256:	0a57192b507cc41e2733e94d615e2af6be99c2adbba4cfbfc2a2c3970b76fe86
 SHA384:	cac56bd130c59a65c825ff0d7254116b1c089b8b27451bce35131f77630237030a88c367493a29f06fef4d6982797691
 SHA512:	6abf147d763ef4c3385c52d391424b4ae6bef6eaa98b55b409f47d0a60917e35b7a9d452aa598729aa639fb96d3f9b3e342c46c5a161d51a66760a57d95f82d0
+
+
+Package: h.ryan.youtubereborn
+Section: Tweaks
+Filename: ./debs/Reborn.deb
+Maintainer: @cydia05 <www.twitter.com/cydia05>
+Pre-Depends: firmware (>= 13.0)
+Architecture: iphoneos-arm
+Version: 2.1.0.3
+Size: 401796
+Installed-Size: 1416
+Description: YouTube Customization.
+Name: Youtube Reborn
+Author: Ryan H
+MD5:  	3808B22543D62BFD4014391BAFCEFF43
+SHA1:  	4968D32574EA47C7799E68A43DC61433D89E88AF
+SAH256:	A18687D2B3E403672D0DE01294FA1F747DAE895C98FA1D0C86533C7C0300D97B
+SHA384:	15CEDC8E3AC860A9B61BABEC59A029A9275CFC2AED547D7BBE1060DAB68DBF59D3D00C21EEF7AB807A66A76F18911735
+SHA512:	78043B12F2580FE6E3090C5F68C35061CAC19AC93C5DD7843C08BE5A5AAE4104410E52C34D3E35B868A93CDB00CA7800C7628BE54CFDC3F0354C3D05589E967C
+SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/
+Icon: https://cydia05.github.io/repo/icon/Reborn.png
