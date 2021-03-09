@@ -7,7 +7,7 @@
       "tabname": "Details",
       "views": [
         {
-          "title": "Shut down your computer and install AltStore.",
+          "title": "Cinemana for entertainment and movies app.",
           "useBoldText": true,
           "useBottomMargin": false,
           "class": "DepictionSubheaderView"
@@ -18,18 +18,18 @@
           "screenshots": [
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
+              "url": "https://cydia05.github.io/repo/screenshots/cinamana1.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/cinamana1.jpg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
+              "url": "https://cydia05.github.io/repo/screenshots/cinamana2.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/cinamana2.jpg"
             },
             {
               "accessibilityText": "Screenshot",
-              "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
-              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
+              "url": "https://cydia05.github.io/repo/screenshots/cinamana3.jpg",
+              "fullSizeURL": "https://cydia05.github.io/repo/screenshots/cinamana3.jpg"
             }
            
           ],
@@ -39,18 +39,18 @@
             "screenshots": [
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as1.jpg",
-                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as1.jpg"
+                "url": "https://cydia05.github.io/repo/screenshots/cinamana1.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/cinamana1.jpg"
               },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as2.jpg",
-                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as2.jpg"
+                "url": "https://cydia05.github.io/repo/screenshots/cinamana2.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/cinamana2.jpg"
               },
               {
                 "accessibilityText": "Screenshot",
-                "url": "https://cydia05.github.io/repo/screenshots/as3.jpg",
-                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/as3.jpg"
+                "url": "https://cydia05.github.io/repo/screenshots/cinamana3.jpg",
+                "fullSizeURL": "https://cydia05.github.io/repo/screenshots/cinamana3.jpg"
               }
             
             ],
@@ -59,7 +59,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "AltStore is a very useful tool for jailbreakers, as it helps you to renew the application certificate so that you can enjoy it even if your device does not have a jailbreak.\n\n### Features in the tool.\n\n\n- It helps you to renew the certificate without the need for a computer.\n\n\n- You can install applications from inside your device with one touch.\n\n\n- Certificate renewal automatically.",
+          "markdown": "Enjoy by modern movies and secries.\n\n### Features in the tool.\n\n\n- Newest Movies.\n\n\n- Newest series.\n\n\n- High speed to playback videos.",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
@@ -72,12 +72,12 @@
         },
            {
           "title": "Developer",
-          "text": "Riley Testut",
+          "text": "shabakaty",
           "class": "DepictionTableTextView"
         },
         {
           "title": "Version",
-          "text": "1.4a12",
+          "text": "3.2",
           "class": "DepictionTableTextView"
         },
         {
@@ -137,13 +137,13 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "Version 1.4a12",
+          "title": "Version 3.2",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "Thanks for using AltStore Tweak! We’ve been working hard to make your experience even better.\n- Full support for A12(X) devices.\n- Full support iOS 14 widgets.",
+          "markdown": "Redesing App face.",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },

@@ -126,13 +126,13 @@
       "tabname": "Changelog",
       "views": [
         {
-          "title": "Version 1.4a12",
+          "title": "Initial Release",
           "useBoldText": true,
           "useBottomMargin": true,
           "class": "DepictionSubheaderView"
         },
         {
-          "markdown": "Thanks for using AltStore Tweak! We’ve been working hard to make your experience even better.\n- Full support for A12(X) devices.\n- Full support iOS 14 widgets.",
+          "markdown": "Frest version release.",
           "useSpacing": false,
           "class": "DepictionMarkdownView"
         },

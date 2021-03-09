@@ -79,40 +79,7 @@
           "class": "DepictionScreenshotsView"
         },
         {
-          "markdown": "Youtube customasition.\n\n### Features of YouTube Reborn:
-          \n\n\n- No Video And No Homescreen Ads (Default On).
-          \n\n\n-  Background Playback.
-          \n\n\n-  Allow HD On Cellular Data.
-          \n\n\n- Disable Video Endscreen Popups.
-          \n\n\n- Disable Video Info Cards.
-          \n\n\n-Disable Video AutoPlay.
-          \n\n\n-Disable Double Tap To Skip.
-          \n\n\n-Disable Age Restriction.
-          \n\n\n- Always Show Player Bar.
-          \n\n\n-Show Status Bar In Overlay (Portrait Only).
-          \n\n\n-Hide Previous & Next Button In OverlayHide AutoPlay Switch In Overlay.
-          \n\n\n- Hide Captions/Subtitles Button In Overlay.
-          \n\n\n- Disable Related Videos In Overlay.
-          \n\n\n- Hide Overlay Dark Background.
-          \n\n\n- Hide Tab Bar Labels.
-          \n\n\n- Hide Tabs (Explore, Create/Upload[+], Subscriptions, Library).
-          \n\n\n- Enable iPad Style On iPhone.
-          \n\n\n- No Download Button.
-          \n\n\n- No Comments Section.
-          \n\n\n- No Cast Button.
-          \n\n\n- No Notification Button.
-          \n\n\n- No Search Button.
-          \n\n\n- No Topics Section.
-          \n\n\n- Disable YouTube Kids Popup.
-          \n\n\n- Disable Voice Search.
-          \n\n\n- Disable Hints.
-          \n\n\n- Oled Dark Mode (iOS 13-).
-          \n\n\n- Colour Options (iOS 14+).
-          \n\n\n- Audio Downloading (Experimental, iPhone Only Currently).
-          \n\n\n- Video Downloading (Can Import Downloaded Videos To Camera Roll).
-          \n\n\n- Picture-In-Picture (iOS 14+).
-          \n\n### YT Reborn settings are located in the YT app, the "OP" button next to the logo.
-The Download/PIP Button is located in the video overlay (portrait only, "OP" button)",
+          "markdown": "Youtube customasition.\n\n### Features of YouTube Reborn:\n\n\n- No Video And No Homescreen Ads (Default On).",
           "useSpacing": true,
           "class": "DepictionMarkdownView"
         },
