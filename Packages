@@ -34,7 +34,7 @@ SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.malik.cutecut
 Depiction: hhttps://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/com.malik.cutecut/depiction.json&name=CuteCUT%20Pro&section=Utilities&dev=Malik%20Mohammed&icon=https://cydia05.github.io/repo/icon/cutecut.png
 
 
-Package: h.ryan.youtubereborn
+Package: com.malik.youtubereborn
 Section: Tweaks
 Filename: ./debs/Reborn.deb
 Maintainer: MALIK MOHAMMED
@@ -43,12 +43,10 @@ Architecture: iphoneos-arm
 Version: 2.1.0.3
 Size: 401796
 Installed-Size: 1416
-Description: YouTube Customizer.
+Description: YouTube Customization.
 Name: Youtube Reborn
 Maintainer: @cydia05
 Author:  Ryan H
-Conflicts: com.yourepo.jpet26.youtubetools1, com.justinpetkovic.youtubetools, com.johnzaro.perfectyoutube, com.ichitaso.youtubepatcher, com.yourepo.ikghd.youtubekiller, com.yourepo.ikghd.youtubekillers, com.sinfool.youtopia, com.google.ios.ytadblock, com.spicat.youpip, com.ps.youpip, prasa.youtubeplus, com.unlimapps.ytpp, me.alfhaily.cercube
-Replaces: net.sarahh12099.youtubereborn, com.twickd.sarahh12099.youtube-reborn
 MD5:  	3808B22543D62BFD4014391BAFCEFF43
 SHA1:  	4968D32574EA47C7799E68A43DC61433D89E88AF
 SAH256:	A18687D2B3E403672D0DE01294FA1F747DAE895C98FA1D0C86533C7C0300D97B
