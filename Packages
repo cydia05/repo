@@ -34,7 +34,7 @@ SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.malik.cutecut
 Depiction: hhttps://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/com.malik.cutecut/depiction.json&name=CuteCUT%20Pro&section=Utilities&dev=Malik%20Mohammed&icon=https://cydia05.github.io/repo/icon/cutecut.png
 
 
-Package: com.malik.youtubereborn
+Package: net.sarahh12099.youtubereborn
 Section: Tweaks
 Filename: ./debs/Reborn.deb
 Maintainer: MALIK MOHAMMED
@@ -46,7 +46,7 @@ Installed-Size: 1416
 Description: YouTube Customization.
 Name: Youtube Reborn
 Maintainer: @cydia05
-Author:  Ryan H
+Author:  sarahh12099
 MD5:  	3808B22543D62BFD4014391BAFCEFF43
 SHA1:  	4968D32574EA47C7799E68A43DC61433D89E88AF
 SAH256:	A18687D2B3E403672D0DE01294FA1F747DAE895C98FA1D0C86533C7C0300D97B
