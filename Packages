@@ -5,7 +5,7 @@ Section: Themes
 Filename: ./debs/Amury.deb
 Architecture: iphoneos-arm
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.cydia05.Amury/depiction.json
-Depiction: https://cydia05.github.io/repo/Sileodepictions/net.sarahh12099.youtubereborn/
+Depiction: https://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/com.cydia05.Amury/depiction.json&name=Amury&section=Themes&dev=cydia05&icon=https://cydia05.github.io/repo/icon/Cydiaicon.png
 Size: 5684770
 Installed-Size: 11730
 Icon: https://cydia05.github.io/repo/icon/Cydiaicon.png
@@ -31,7 +31,7 @@ Name: CuteCUT Pro
 Author: Malik Mohammed
 Icon: https://cydia05.github.io/repo/icon/cutecut.png
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.malik.cutecut/depiction.json
-Depiction: https://cydia05.github.io/repo/Sileodepictions/com.malik.cutecut
+Depiction: hhttps://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/com.malik.cutecut/depiction.json&name=CuteCUT%20Pro&section=Utilities&dev=Malik%20Mohammed&icon=https://cydia05.github.io/repo/icon/cutecut.png
 
 
 Package: net.sarahh12099.youtubereborn
@@ -51,7 +51,7 @@ SAH256:	A18687D2B3E403672D0DE01294FA1F747DAE895C98FA1D0C86533C7C0300D97B
 SHA384:	15CEDC8E3AC860A9B61BABEC59A029A9275CFC2AED547D7BBE1060DAB68DBF59D3D00C21EEF7AB807A66A76F18911735
 SHA512:	78043B12F2580FE6E3090C5F68C35061CAC19AC93C5DD7843C08BE5A5AAE4104410E52C34D3E35B868A93CDB00CA7800C7628BE54CFDC3F0354C3D05589E967C
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/net.sarahh12099.youtubereborn/depiction.json
-Depiction: https://cydia05.github.io/repo/Sileodepictions/net.sarahh12099.youtubereborn
+Depiction: https://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/net.sarahh12099.youtubereborn/depiction.json&name=Youtube%20Reborn&section=Tweaks&dev=SarahH12099&icon=https://cydia05.github.io/repo/icon/Reborn.png
 Icon: https://cydia05.github.io/repo/icon/Reborn.png
 
 Package: com.qiop1379.bongwater
@@ -72,7 +72,7 @@ SAH256:	7a3002697c28deac8ed2c123d09f027fae72ffeb0079c39f4db0119cd5f238ca
 SHA384:	a034d5b8812b37d25e2906e2dd2dd2d943d5294a283169041cc04167b5804d2cbeabb5f23fbb31653ae7831c7ffa3c04
 SHA512:	063804ecf9553d8c7addd7745279d78612c94d66c4334da452f3d64bec9e1fce1a4a2bde82684c3e66dc114c5df66ebe70ee2a06c997e9c1683be0b03ee15222
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.qiop1379.bongwater/depiction.json
-Depiction: https://cydia05.github.io/repo/depictions/com.qiop1379.bongwater
+Depiction: https://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/com.qiop1379.bongwater/depiction.json&name=Bongwater&section=Tweaks&dev=qwertyuiop1379&icon=https://cydia05.github.io/repo/icon/Tweak.png
 Icon: https://cydia05.github.io/repo/icon/Tweak.png
 
 
@@ -89,7 +89,7 @@ Description: Enjoy movies and series on the Cinemana app provided by Earthlink I
 Name: Cinemana
 Author: Earthlink
 SileoDepiction: https://cydia05.github.io/repo/Sileodepictions/com.shabakaty.cinemanaa/depiction.json
-Depiction: https://cydia05.github.io/repo/packges/com.shabakaty.cinemanaa
+Depiction: https://cydia05.github.io/repo/Sileo-Depiction-WebViews/?json=https://cydia05.github.io/repo/Sileodepictions/com.shabakaty.cinemanaa/depiction.json&name=Cinemana&section=Utilities&dev=Earthlink&icon=https://cydia05.github.io/repo/icon/Cinemana.png
 Icon: https://cydia05.github.io/repo/icon/Cinemana.png
 MD5:  	743eff66d2bbe3687eab7cffc250c3a7
 SHA1:  	40662af1478b1a27fc65465f40a9486102de2128
